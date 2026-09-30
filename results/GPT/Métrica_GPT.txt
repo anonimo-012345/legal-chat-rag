@@ -1,0 +1,1318 @@
+﻿=== PERGUNTA 1 ===
+MÉTRICA 1: Simplicidade
+Score: 0.85
+Justificativa: O texto responde diretamente à pergunta do Input, explicando que pode haver preços diferentes entre cartão de crédito e dinheiro e destacando a necessidade de aviso prévio e informação clara ao consumidor. Usa frases em geral curtas, estrutura simples e linguagem fácil de entender. Como ponto menor, inclui termos um pouco mais formais como “transações”, “regulamentada” e “Código de Defesa do Consumidor”, que podem dificultar ligeiramente para alguém com pouca escolaridade, embora o sentido geral continue acessível.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9222700138825308
+Justificativa: A resposta trata diretamente da pergunta sobre diferenciação de preços entre cartão de crédito e dinheiro e mantém foco no tema. É útil ao explicar que a prática é permitida, condicionada à informação prévia e clara ao consumidor, o que atende ao aspecto prático do pedido. Também cobre bem a justificativa ligada às taxas do cartão e a exigência de transparência nas relações de consumo. Como pequena limitação, poderia mencionar com mais precisão a base legal específica da autorização, em vez de atribuir genericamente ao Código de Defesa do Consumidor.
+==============================
+
+
+=== PERGUNTA 2 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8
+Justificativa: O output responde ao que foi perguntado ao explicar como a garantia pode funcionar após a troca por um produto novo, incluindo as duas possibilidades mais comuns: nova garantia a partir do recebimento ou continuidade da garantia original. A linguagem é clara e relativamente simples, com frases diretas e fáceis de seguir. Porém, usa termos um pouco mais formais como 'política do fabricante', 'termos e condições' e 'fornecedor', o que pode dificultar um pouco para alguém com pouca escolaridade. Ainda assim, no geral, é compreensível e alinhado ao tema do input.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da dúvida sobre como fica a garantia após a troca por um produto novo e se mantém focada no tema. Ela é útil ao explicar os dois cenarios mais comuns mencionando que a nova garantia pode começar no recebimento do item substituto ou apenas seguir o prazo original, além de orientar a verificar a política do fabricante ou vendedor. É coerente e prática, mas não traz um critério mais definitivo ou referência a possíveis regras legais, o que limita um pouco a completude.
+==============================
+
+
+=== PERGUNTA 3 ===
+MÉTRICA 1: Simplicidade
+Score: 0.42689414213699955
+Justificativa: O texto responde ao tema do Input ao explicar que, em geral, o estabelecimento pode ser responsável por danos ou furtos no estacionamento, mas não faz isso da forma mais simples. Usa frases longas e termos mais difíceis como “legislação local”, “jurisprudência”, “obrigação de vigilância” e “juridicamente válidos”, o que vai contra a exigência de linguagem curta, direta e fácil para alguém com pouca escolaridade. Também traz ressalvas técnicas e orientação para consultar advogado, o que deixa a resposta menos acessível.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre a responsabilidade de estabelecimentos por veículos em estacionamento e mantém o foco no tema. É útil ao explicar, com base no contexto do Brasil citado no próprio texto, que a jurisprudência tende a reconhecer dever de guarda quando o estacionamento é oferecido como serviço, incluindo danos e furtos. Também cobre um ponto relevante do caso, como a questão de placas de isenção e sua possível invalidade jurídica. Perde um pouco de completude por não diferenciar melhor situações específicas, como estacionamento gratuito, terceirizado ou sem vínculo com consumo, mas permanece coerente e sem informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 4 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7622459331201854
+Justificativa: O output responde ao input ao explicar o que fazer quando o prazo de entrega não é cumprido, com passos práticos como falar com o fornecedor, pedir nova data ou desconto, verificar contrato e reclamar no Procon. A linguagem é em geral clara e direta, com frases simples e ordem lógica. Porém, há termos um pouco mais complexos para alguém com pouca escolaridade, como 'prestador de serviço', 'termos de serviço', 'obrigações', 'órgãos de defesa do consumidor' e 'ação judicial', o que reduz a simplicidade ideal pedida nos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do problema do Input sobre prazo de entrega não respeitado e mantém foco em ações práticas: contatar o fornecedor, revisar contrato, reclamar no Procon e até considerar ação judicial. É útil e coerente, com orientação relevante e lógica, além de recomendar documentar as comunicações. Perde um pouco em completude por não detalhar consequências específicas possíveis, como cancelamento da compra ou reembolso, mas cobre bem o essencial sem excessos.
+==============================
+
+
+=== PERGUNTA 5 ===
+MÉTRICA 1: Simplicidade
+Score: 0.9
+Justificativa: O output responde diretamente à pergunta do input ao dizer que o comerciante pode recusar cartão em produtos de baixo custo, como cigarro, balas e sorvete, e ainda explica a condição de avisar antes da compra. Usa frases claras, estrutura simples e linguagem acessível, sem jargão jurídico pesado. Como ponto menor, inclui termos um pouco mais formais como 'discriminação' e 'constrangimentos', mas no geral continua fácil de entender por alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9679178699175394
+Justificativa: A resposta trata diretamente da pergunta sobre recusa de cartão para itens de baixo custo e mantém foco no contexto do comerciante no Brasil. Ela é útil ao explicar que não há obrigação legal de aceitar cartão, condicionando a recusa à informação prévia e visível ao cliente, o que responde de forma prática ao caso de cigarros, balas e sorvetes. Cobre os pontos essenciais sem excesso, incluindo aplicação uniforme da política para evitar discriminação, e é coerente, sem elementos irrelevantes.
+==============================
+
+
+=== PERGUNTA 6 ===
+MÉTRICA 1: Simplicidade
+Score: 0.9
+Justificativa: O texto responde diretamente à pergunta sobre o prazo para sair do SPC/SERASA após o pagamento, informando de forma clara o período de até 5 dias úteis e quando a contagem começa. Usa frases curtas, estrutura simples e linguagem acessível para alguém com pouca escolaridade. Como ponto menor, inclui a expressão 'orientação jurídica', que é um termo um pouco mais técnico e menos simples do que o restante da resposta.
+
+
+MÉTRICA 2: Relevância
+Score: 1.0
+Justificativa: A resposta trata diretamente da pergunta sobre o prazo para retirada do nome do SPC/SERASA após o pagamento e mantém foco total no tema. É útil ao informar o prazo de até 5 dias úteis, esclarecer que a contagem começa após a confirmação do pagamento pelo credor e orientar ações práticas, como guardar comprovantes e contatar o credor, SPC ou SERASA se houver demora. Cobre os pontos essenciais do pedido de forma completa, sem omissões relevantes nem informações fora do contexto, e apresenta uma sequência lógica e coerente.
+==============================
+
+
+=== PERGUNTA 7 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7125496734786052
+Justificativa: O output responde ao que foi pedido, dizendo que a promoção pode aceitar só dinheiro e trazendo condições como aviso prévio e transparência, o que atende ao tema do input. A estrutura é relativamente clara, mas usa frases longas e termos mais difíceis para pouca escolaridade, como 'discriminatória', 'abusiva', 'obrigações fiscais' e referência ao 'Código de Defesa do Consumidor'. Isso reduz a simplicidade e pode dificultar o entendimento por quem precisa de linguagem bem direta.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre promoção com pagamento apenas em dinheiro e mantém o foco no tema. É útil ao explicar que isso pode ocorrer se a condição for informada previamente e de forma transparente, além de mencionar limites relevantes como práticas abusivas, respeito ao CDC e emissão de nota fiscal. Cobre bem os pontos essenciais do Input sem se desviar, embora pudesse ser um pouco mais precisa sobre eventuais restrições legais específicas dessa exigência em promoções.
+==============================
+
+
+=== PERGUNTA 8 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7939913349825992
+Justificativa: O output responde corretamente ao pedido do input ao dizer que, se a etiqueta mostra valor menor que o caixa, o consumidor deve pagar o menor preço, e ainda orienta a falar com funcionário ou gerente. A explicação é clara e majoritariamente simples, com frases diretas. Porém, usa termos um pouco mais formais e menos acessíveis para pouca escolaridade, como 'princípio de proteção ao consumidor', 'divergência' e a ressalva sobre leis variarem por país ou estado, o que adiciona complexidade desnecessária para a pergunta feita no contexto do Brasil.
+
+
+MÉTRICA 2: Relevância
+Score: 0.95621765008858
+Justificativa: A resposta trata diretamente da pergunta sobre divergência entre o preço da etiqueta e o do caixa, mantendo foco total no tema. É útil porque orienta de forma prática que o consumidor geralmente deve pagar o menor preço e sugere avisar o funcionário ou gerente. Também cobre bem o ponto central do caso no contexto do Brasil ao citar o Código de Defesa do Consumidor, sem omissões relevantes nem informações desconectadas.
+==============================
+
+
+=== PERGUNTA 9 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7817574476193643
+Justificativa: O texto responde diretamente à pergunta do Input ao dizer que, no Brasil, os preços devem ser informados em reais e ainda cita possíveis exceções, o que ajuda na compreensão. A estrutura é clara e relativamente simples, com frases compreensíveis. Porém, usa termos mais formais e jurídicos como 'legislação', 'Código de Defesa do Consumidor', 'regulamentado', 'variação cambial' e 'zonas de livre comércio', que podem dificultar o entendimento de uma pessoa com pouca escolaridade. Ainda assim, no geral, a explicação é acessível e alinhada ao tema.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre informar preços em moeda estrangeira no Brasil e mantém foco no tema. É útil ao afirmar que os preços devem ser informados em reais, mencionando a finalidade de clareza ao consumidor e o impacto da variação cambial. Também cobre bem o ponto central do input e acrescenta exceções plausíveis, como zonas de livre comércio e aeroportos, sem se desviar. Perde um pouco por não detalhar melhor a base legal específica além de citar genericamente o Código de Defesa do Consumidor.
+==============================
+
+
+=== PERGUNTA 10 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7731058578630006
+Justificativa: O output responde diretamente à pergunta do input ao afirmar que pode haver valor mínimo no cartão e cita a necessidade de aviso prévio e claro, o que ajuda na compreensão. As frases são em geral claras, mas não tão curtas quanto o ideal, e há termos mais técnicos como "discriminatória", "economicamente inviáveis" e referência ao "Código de Defesa do Consumidor", o que reduz a simplicidade. Para uma pessoa com pouca escolaridade, a ideia principal é entendível, mas parte da explicação pode ficar mais difícil por causa desse vocabulário e do tom mais formal.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9320821300824607
+Justificativa: A resposta trata diretamente da pergunta sobre valor mínimo para pagamento com cartão de crédito ou débito e mantém foco total no tema. Ela é útil porque confirma que a prática pode ser adotada e acrescenta condições práticas relevantes, como a necessidade de informação clara e prévia ao consumidor. Também cobre bem os pontos essenciais do caso, incluindo justificativa econômica, igualdade no tratamento dos clientes e referência à transparência exigida pelo Código de Defesa do Consumidor, sem trazer informações irrelevantes ou incoerentes.
+==============================
+
+
+=== PERGUNTA 11 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7924141819978756
+Justificativa: O texto responde ao pedido do Input ao listar informações que devem constar na etiqueta, como preço à vista, parcelamento, preço por unidade de medida e validade de promoções. A linguagem é clara e relativamente simples, com frases em geral fáceis de entender. Porém, há trechos mais formais e menos diretos, como "garantir a transparência" e "tomar uma decisão de compra informada", o que reduz um pouco a simplicidade esperada para alguém com pouca escolaridade. Ainda assim, evita jargão jurídico pesado e mantém boa compreensão geral.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8182425523806355
+Justificativa: A resposta trata diretamente da pergunta sobre quais informações devem constar na etiqueta de preços em lojas e é útil ao citar preço à vista, condições de parcelamento com número e valor das parcelas, e preço por unidade de medida quando aplicável. Também mantém coerência e foco no tema. Porém, a cobertura não é totalmente completa, pois falta maior precisão sobre elementos normalmente exigidos, como preço total a prazo e destaque claro das condições, e inclui pontos mais genéricos como 'em alguns casos' sem detalhamento objetivo.
+==============================
+
+
+=== PERGUNTA 12 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7880797077977882
+Justificativa: O texto responde bem ao pedido do Input ao explicar como os preços devem ser informados nos supermercados, citando pontos relevantes como visibilidade, legibilidade, etiquetas, prateleiras e cartazes, além de preço à vista e parcelamento. A explicação é clara e organizada, mas usa termos um pouco mais formais e jurídicos, como 'ostensiva', 'conforme determina' e 'Código de Defesa do Consumidor', o que reduz a simplicidade. Ainda assim, uma pessoa com pouca escolaridade provavelmente entenderia a maior parte da resposta.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9182425523806357
+Justificativa: A resposta trata diretamente da pergunta sobre como os preços devem ser informados nos supermercados e mantém foco no tema. É útil e prática ao destacar que a informação deve ser clara, precisa, ostensiva, visível e legível, além de citar formas de exibição como etiquetas, prateleiras e cartazes. Também cobre pontos relevantes sobre preço à vista e parcelamento. Perde um pouco de completude por não mencionar detalhes específicos que podem ser exigidos na afixação, mas permanece coerente e sem informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 13 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7622459331201855
+Justificativa: O texto responde ao que foi pedido no input ao explicar o que fazer com um produto importado sem garantia no Brasil, citando a responsabilidade do vendedor, a possibilidade de reclamar ao importador e buscar Procon ou ação judicial. A linguagem é em geral clara e direta, com frases relativamente simples. Porém, ainda usa termos mais técnicos ou jurídicos, como 'Código de Defesa do Consumidor', 'em conformidade' e 'ação judicial', o que pode dificultar um pouco para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8939913349825993
+Justificativa: A resposta trata diretamente da situação de um produto importado sem garantia no Brasil e mantém foco no tema solicitado. É útil ao explicar que a garantia do fabricante pode não valer no país, mas que o consumidor ainda tem proteção pelo CDC, apontando caminhos práticos como acionar vendedor ou importador, Procon e até via judicial. Cobre bem os pontos essenciais do caso, embora pudesse ser um pouco mais completa ao detalhar prazos ou procedimentos específicos para defeitos e responsabilidade do fornecedor.
+==============================
+
+
+=== PERGUNTA 14 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7880797077977884
+Justificativa: O texto responde diretamente à pergunta do Input ao dizer que lojas não têm obrigação de trocar produto sem defeito, salvo promessa ou política da loja, o que atende bem ao conteúdo pedido. As frases são em geral claras e objetivas, com boa estrutura simples. Como ponto fraco, usa termos mais técnicos como 'prática comercial', 'obrigação legal' e 'Código de Defesa do Consumidor', o que pode dificultar um pouco para alguém com pouca escolaridade, embora a ideia principal ainda seja compreensível.
+
+
+MÉTRICA 2: Relevância
+Score: 1.0
+Justificativa: A resposta trata diretamente da pergunta sobre a obrigação de troca de produtos sem defeito e mantém foco total no tema. É útil e prática ao explicar que, no Brasil, o CDC não impõe essa obrigação, exceto se houver promessa no momento da compra ou previsão na política da loja. Cobre os pontos essenciais do input sem omissões relevantes, com orientação concreta para verificar a política de troca, e permanece lógica e sem informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 15 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8075858180021245
+Justificativa: O texto responde diretamente à pergunta do Input ao explicar quando há devolução do valor pago: compras fora do estabelecimento, como internet ou telefone, têm prazo de 7 dias com devolução integral; em loja física, isso não é garantido por lei. Usa estrutura clara, frases relativamente diretas e exemplos concretos ligados ao caso. A principal limitação é o uso de termos como 'direito de arrependimento', 'Código de Defesa do Consumidor' e 'política comercial', que podem dificultar um pouco para alguém com pouca escolaridade, embora no geral siga acessível.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9924141819978756
+Justificativa: A resposta trata diretamente da pergunta sobre devolução da quantia paga após desistência de compra e mantém foco no tema. É útil e prática ao distinguir o caso central do teste: compras fora do estabelecimento comercial, nas quais há direito de arrependimento em até 7 dias com devolução integral, versus compras em loja física, em que a devolução não é obrigatória por lei salvo política do fornecedor. Cobre os pontos essenciais sem omissões relevantes nem excesso de informação, e apresenta explicação coerente e alinhada ao contexto jurídico brasileiro mencionado no Input.
+==============================
+
+
+=== PERGUNTA 16 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7952574126822434
+Justificativa: O texto responde ao pedido do Input ao explicar quando a troca é possível, citando a política da loja e a regra dos 7 dias para compras fora do estabelecimento, o que está alinhado com a dúvida sobre trocar um produto após a compra. A linguagem é em geral clara e compreensível, mas há pontos menos simples para pessoas com pouca escolaridade, como 'legislação local', 'Código de Defesa do Consumidor' e 'estabelecimento comercial'. As frases são relativamente diretas, porém um pouco longas e mais formais do que o ideal.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9182425523806357
+Justificativa: A resposta trata diretamente da possibilidade de troca após a compra e mantém foco no tema. É útil porque explica, de forma prática, que no Brasil a troca depende da política da loja e cita o direito de arrependimento de 7 dias para compras fora do estabelecimento, além de orientar a verificar as regras da loja e guardar nota fiscal. Cobre bem os pontos principais do pedido, com contexto legal relevante, embora não detalhe situações como troca por defeito, o que impediria cobertura totalmente completa.
+==============================
+
+
+=== PERGUNTA 17 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8029312230751356
+Justificativa: O output responde ao pedido ao explicar quando é possível desistir da compra e traz o prazo de 7 dias para compras feitas fora da loja, ponto central do input. A linguagem é relativamente clara e direta, com frases em geral simples, mas ainda usa termos jurídicos e menos acessíveis como 'Código de Defesa do Consumidor', 'direito de arrependimento', 'estabelecimento comercial' e 'formalizar a desistência', o que pode dificultar para alguém com pouca escolaridade. Mesmo assim, a explicação é compreensível e prática ao citar internet, telefone, devolução do valor e frete.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9939913349825993
+Justificativa: A resposta trata diretamente da pergunta sobre prazo para desistir da compra e mantém foco no contexto do Brasil. É útil e prática ao informar o prazo de 7 dias corridos para compras fora do estabelecimento, explicar quando a contagem começa (recebimento do produto ou assinatura do contrato) e mencionar devolução do valor pago e frete. Cobre os pontos essenciais do pedido sem omissões relevantes nem excesso, e permanece lógica e coerente sem incluir conteúdo desconectado.
+==============================
+
+
+=== PERGUNTA 18 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8
+Justificativa: O conteúdo responde ao que foi pedido no input ao informar os prazos de 30 dias para produtos ou serviços não duráveis e 90 dias para duráveis, além de citar o caso de vício oculto. A explicação é organizada e relativamente fácil de entender, com frases em geral diretas. Porém, usa alguns termos mais técnicos, como 'vício oculto', 'restituição' e referência ao 'CDC', o que pode dificultar para uma pessoa com pouca escolaridade. Também traz informação extra sobre o fornecedor resolver em 30 dias, que não era o foco principal da pergunta.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do prazo para vício em produtos ou serviços, mantendo foco no CDC e trazendo os prazos centrais de 30 dias para não duráveis e 90 dias para duráveis, além da regra do vício oculto. Também é útil por explicar de forma prática quando a contagem começa e o que ocorre se o fornecedor não sanar o problema em 30 dias. Como pequena limitação, o pedido fala em 'reparação de danos', e a resposta aborda principalmente prazo para reclamar do vício, sem diferenciar claramente isso de eventual indenização por danos.
+==============================
+
+
+=== PERGUNTA 19 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7817574476193643
+Justificativa: O output responde corretamente ao que foi pedido, explicando o prazo mínimo de garantia no Brasil e distinguindo 90 dias para produtos/serviços duráveis e 30 dias para não duráveis. O texto é claro e organizado, mas não é tão direto quanto poderia para uma pergunta simples, pois traz detalhes extras sobre garantia contratual e nota fiscal. Também usa termos como 'Código de Defesa do Consumidor', 'garantia legal' e 'garantia contratual', que podem dificultar um pouco a compreensão para alguém com pouca escolaridade, embora no geral ainda seja entendível.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9999999999999998
+Justificativa: A resposta trata diretamente da pergunta sobre o prazo mínimo de garantia e permanece focada no tema. É útil e prática ao informar os prazos legais mínimos no Brasil — 90 dias para produtos e serviços duráveis e 30 dias para não duráveis — além de esclarecer a diferença entre garantia legal e contratual. Cobre os pontos essenciais sem omissões relevantes e mantém coerência lógica, com o detalhe adicional sobre nota fiscal ainda pertinente ao contexto.
+==============================
+
+
+=== PERGUNTA 20 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7095349464899109
+Justificativa: O texto responde ao pedido do Input ao explicar que, mesmo com a garantia vencida, ainda pode haver direito à correção por vício oculto e informa o prazo de 90 dias a partir da descoberta. A resposta é relativamente clara e organizada, com frases diretas, mas usa termos jurídicos como “garantia contratual”, “Código de Defesa do Consumidor”, “CDC” e “vícios ocultos”, sem simplificar totalmente. Isso pode dificultar o entendimento de uma pessoa com pouca escolaridade, embora a orientação prática de documentar o problema ajude.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9437823499114204
+Justificativa: A resposta trata diretamente da pergunta sobre vício de fabricação após o fim da garantia e mantém foco no tema. Ela é útil ao explicar que, no Brasil, o CDC pode assegurar direitos em caso de vício oculto, destacando corretamente o prazo de 90 dias para produtos duráveis contado da descoberta do defeito, o que responde de forma prática ao caso apresentado. Também orienta sobre documentação e busca de órgãos de defesa do consumidor, sem incluir informações irrelevantes nem deixar lacunas importantes para esse nível de pergunta.
+==============================
+
+
+=== PERGUNTA 21 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8047425873177568
+Justificativa: O output responde corretamente à pergunta do input com uma resposta clara de que o fornecedor não pode entregar produto usado na substituição por vício em garantia. Usa frases em geral diretas e traz uma explicação útil sobre as opções do consumidor. Como ponto fraco, inclui referência ao CDC e expressões como “vício de qualidade”, “restituição da quantia paga” e “abatimento proporcional do preço”, que são mais jurídicas e menos simples para alguém com pouca escolaridade. Ainda assim, o sentido geral permanece fácil de entender.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9851952801968311
+Justificativa: A resposta trata diretamente da pergunta sobre substituição por vício em garantia e afirma de forma clara que o fornecedor não pode devolver produto usado. É útil porque explica, com base no CDC, que a substituição deve ser por produto da mesma espécie em perfeitas condições e ainda menciona alternativas relevantes caso a troca não seja possível, como restituição ou abatimento. Cobre os pontos necessários sem fugir do tema e mantém boa coerência lógica, sem incluir informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 22 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8222700138825308
+Justificativa: O output responde corretamente ao pedido do input ao afirmar que há direito a produto similar quando não há outro idêntico disponível e ainda cita alternativas relevantes, como devolução do valor ou abatimento do preço. A linguagem é clara e organizada, com frases em geral diretas, o que ajuda na compreensão. Porém, usa termos mais técnicos como 'vício', 'restituição imediata da quantia paga, devidamente atualizada' e 'abatimento proporcional do preço', além de mencionar o Código de Defesa do Consumidor, o que pode dificultar um pouco o entendimento para uma pessoa com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9022977369910026
+Justificativa: A resposta trata diretamente da pergunta sobre substituição por produto similar quando não há o mesmo item disponível e se mantém no tema do CDC. É útil e prática ao explicar que o consumidor pode optar por similar de valor equivalente, além de citar alternativas relevantes como restituição do valor pago ou abatimento proporcional. A cobertura é quase completa, mas poderia ser mais precisa ao esclarecer eventuais condições legais para essa escolha e evitar afirmar de forma tão categórica o direito ao similar sem qualificar melhor o contexto.
+==============================
+
+
+=== PERGUNTA 23 ===
+MÉTRICA 1: Simplicidade
+Score: 0.75
+Justificativa: O output responde ao pedido do input ao explicar o que fazer diante de vício de fabricação, incluindo contato com fornecedor, prazo de 30 dias e opções como troca, devolução do valor ou abatimento. A estrutura é clara e relativamente direta, com frases compreensíveis. Porém, usa termos mais formais e jurídicos como 'Código de Defesa do Consumidor', 'restituição imediata da quantia paga', 'abatimento proporcional do preço' e 'Juizado Especial Cível', o que pode dificultar um pouco o entendimento para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9817574476193643
+Justificativa: A resposta trata diretamente da situação apresentada no input sobre produto com vício de fabricação e mantém foco nos próximos passos práticos. É útil porque orienta a contatar fornecedor ou fabricante, menciona o prazo de 30 dias para sanar o vício e apresenta as opções previstas se o problema não for resolvido: substituição, restituição do valor ou abatimento proporcional. Também cobre medidas adicionais relevantes, como Procon e Juizado Especial Cível, sem trazer informações irrelevantes ou desconectadas.
+==============================
+
+
+=== PERGUNTA 24 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8029312230751356
+Justificativa: O output responde diretamente à pergunta do input ao confirmar que o CDC se aplica a compras e contratações pela internet e traz exemplos relevantes, como direito à informação, publicidade enganosa e arrependimento em sete dias. A linguagem é em geral clara e organizada, com frases compreensíveis. Porém, usa alguns termos mais técnicos, como “relações de consumo”, “fornecedor” e “transações online”, o que pode dificultar um pouco para alguém com pouca escolaridade. Ainda assim, o conteúdo é majoritariamente fácil de entender e alinhado ao que foi pedido.
+
+
+MÉTRICA 2: Relevância
+Score: 1.0
+Justificativa: A resposta trata diretamente da pergunta sobre a aplicação do CDC em compras e contratações pela internet e mantém foco total no tema. É útil por confirmar a incidência do CDC no comércio eletrônico no Brasil e citar direitos práticos relevantes, como informação clara, proteção contra publicidade enganosa e direito de arrependimento em até sete dias. Cobre de forma suficiente os pontos essenciais do pedido, sem omissões importantes para uma resposta breve, e permanece coerente e sem informações desconectadas.
+==============================
+
+
+=== PERGUNTA 25 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7939913349825993
+Justificativa: O output responde diretamente à pergunta do input, afirmando que não é lícito negativar sem notificação prévia, e explica de forma compreensível a necessidade de avisar o devedor antes de incluir o nome no SPC ou Serasa. Usa frases relativamente curtas e estrutura simples, o que ajuda alguém com pouca escolaridade. Como ponto fraco, traz termos mais técnicos como 'Código de Defesa do Consumidor', 'prática abusiva' e 'danos morais', que podem dificultar um pouco a compreensão para o público mais leigo.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8679178699175394
+Justificativa: A resposta trata diretamente da pergunta sobre a licitude de negativar o nome do devedor sem cobrança prévia ou ciência e mantém foco no tema. É útil ao afirmar que deve haver notificação antes da inclusão em SPC/Serasa, mencionando a possibilidade de regularização, contestação e até reparação por danos morais. Cobre bem o ponto central do caso, embora simplifique a questão ao dizer genericamente que o credor deve notificar, sem detalhar nuances sobre quem tem o dever de comunicação ou a distinção entre cobrança prévia e ciência da negativação.
+==============================
+
+
+=== PERGUNTA 26 ===
+MÉTRICA 1: Simplicidade
+Score: 0.696267311265587
+Justificativa: O conteúdo responde corretamente ao pedido sobre o conceito de defeito no CDC e traz elementos relevantes, como segurança esperada, uso, riscos e época de circulação. Porém, a linguagem não é tão simples quanto os critérios pedem: usa termos mais formais e jurídicos como “legitimamente”, “razoavelmente”, “colocado em circulação”, “vício” e “inadequação”. As frases são relativamente longas e densas, o que pode dificultar o entendimento por uma pessoa com pouca escolaridade, apesar de a explicação estar correta e organizada.
+
+
+MÉTRICA 2: Relevância
+Score: 1.0
+Justificativa: A resposta trata diretamente da pergunta sobre o conceito de defeito segundo o CDC, mantendo foco total no tema. Ela é útil e prática ao definir que o defeito ocorre quando o produto ou serviço não oferece a segurança legitimamente esperada, citando critérios relevantes do CDC como apresentação, uso, riscos esperados e época de colocação em circulação. Também cobre bem o essencial ao mencionar tipos de defeito e diferenciar defeito de vício, sem trazer informações irrelevantes ou incoerentes.
+==============================
+
+
+=== PERGUNTA 27 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7052973143437195
+Justificativa: O texto responde ao pedido do consumidor e traz a informação central de que, após 30 dias sem solução, ele pode escolher devolução do valor, troca ou abatimento, o que se relaciona bem ao caso do computador com 4 defeitos em menos de 1 ano. Porém, usa termos jurídicos como 'Código de Defesa do Consumidor', 'CDC', 'vício do produto', 'restituição imediata da quantia paga' e 'abatimento proporcional do preço', o que reduz a simplicidade. Apesar de estar relativamente claro e organizado, as frases são mais longas e formais do que o ideal para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do caso do consumidor no Brasil e explica de forma prática os direitos previstos no CDC para um computador que apresentou defeito 4 vezes em menos de 1 ano. Cobre bem os pontos centrais ao mencionar o prazo de 30 dias para conserto e as opções de substituição, restituição do valor pago ou abatimento proporcional, além de orientar a guardar provas e formalizar a reclamação. Como limitação, poderia detalhar melhor situações de vício recorrente ou essencial e eventuais prazos de garantia, mas ainda assim permanece útil, coerente e focada no pedido de devolução.
+==============================
+
+
+=== PERGUNTA 28 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7679178699175393
+Justificativa: O texto responde ao caso do produto que voltou da garantia ainda com defeito e orienta passos práticos, como falar por escrito com a empresa, guardar documentos e procurar o Procon ou o Juizado Especial Cível. As frases são em geral claras e diretas, mas há uso de termos mais técnicos, como "Código de Defesa do Consumidor (CDC)", "prazo original da garantia" e "Juizado Especial Cível", o que reduz a simplicidade. Ainda assim, uma pessoa com pouca escolaridade conseguiria entender a ideia principal e o que fazer em seguida.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do caso do produto que voltou da garantia ainda com defeito e rebate de forma pertinente a alegação da empresa sobre 'prazo vencido'. É útil porque orienta medidas práticas compatíveis com o contexto brasileiro citado no input, como contato por escrito, guarda de documentos, Procon e Juizado Especial Cível. Também é coerente e focada no tema. Perde um pouco por não detalhar melhor limites e prazos aplicáveis do CDC ou esclarecer nuances sobre vício não sanado após reparo, o que deixaria a orientação mais completa.
+==============================
+
+
+=== PERGUNTA 29 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8
+Justificativa: O output responde ao que foi pedido no input ao dizer que é possível recorrer e explicar que, para vício oculto, o prazo pode contar da descoberta do defeito, além de sugerir caminhos como vendedor, Mercado Livre e Procon. A linguagem é em geral clara e direta, com frases simples. Porém, usa alguns termos jurídicos e menos acessíveis, como 'Código de Defesa do Consumidor', 'bens duráveis', 'bens não duráveis', 'não está em conformidade' e 'ingressar com uma ação judicial', o que pode dificultar um pouco para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre recorrer contra o limite de 30 dias do Mercado Livre e mantém foco no tema. Ela é útil ao citar o CDC, explicando que vício oculto pode ter prazo de 90 dias para bens duráveis e 30 dias para não duráveis, contados da constatação do defeito, além de sugerir caminhos práticos como vendedor, plataforma, Procon e ação judicial. Como limitação, não detalha melhor diferenças entre devolução, reclamação por vício e responsabilidade da plataforma, o que reduziria pequenas ambiguidades.
+==============================
+
+
+=== PERGUNTA 30 ===
+MÉTRICA 1: Simplicidade
+Score: 0.803732688734413
+Justificativa: O texto responde diretamente à pergunta sobre a Amazon ser obrigada a substituir produto com defeito e traz informações úteis do CDC, como prazos de 30 e 90 dias e a solução após 30 dias sem resolução. A linguagem é relativamente clara e organizada, com frases compreensíveis. Porém, há termos um pouco mais técnicos para o público com pouca escolaridade, como "fornecedor", "reparação", "defeitos aparentes", "constatação" e "abatimento proporcional", o que reduz a simplicidade ideal pedida na avaliação.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre a obrigação da Amazon em substituir produto com defeito e mantém foco no CDC no Brasil. É útil por explicar as opções do consumidor (substituição, reparo, devolução do valor), os prazos de 30 e 90 dias para reclamar e a regra de 30 dias para solução do problema. Cobre bem os pontos essenciais do pedido e é coerente, embora pudesse ser ainda mais precisa ao esclarecer que a substituição imediata nem sempre é obrigatória, pois em regra há primeiro o prazo para reparo.
+==============================
+
+
+=== PERGUNTA 31 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7777299861174691
+Justificativa: O output responde ao pedido do input de forma clara, explicando que a cobrança depende do que foi combinado antes e citando taxa de diagnóstico, contrato, recibo e defesa do consumidor. Usa linguagem relativamente simples e compreensível para o caso de uma loja de reparos que não conseguiu consertar o computador. Como ponto fraco, traz termos um pouco menos acessíveis, como 'cláusula', 'diagnóstico' e 'órgãos de defesa do consumidor', e algumas frases são mais longas do que o ideal para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre cobrança por conserto malsucedido e mantém foco no tema. É útil ao explicar que a possibilidade de cobrança depende do acordo prévio, citando taxa de diagnóstico ou tentativa de reparo, verificação de contrato/recibo e busca por órgãos de defesa do consumidor. Cobre bem os pontos práticos do caso da loja de reparos de computador, embora pudesse ser um pouco mais precisa sobre critérios legais ou variações conforme a política da loja.
+==============================
+
+
+=== PERGUNTA 32 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8268941421369995
+Justificativa: O texto responde ao pedido ao dizer que a devolução no arrependimento deve ser sem custo e que, pela deficiência física e distância da agência, a loja deveria oferecer alternativa como coleta em casa. Usa frases relativamente diretas e linguagem em geral simples. Perde pontos por trazer jargões e termos mais difíceis para baixa escolaridade, como 'Código de Defesa do Consumidor', 'ônus excessivo' e 'seria razoável', em vez de uma explicação ainda mais comum e objetiva.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do direito de arrependimento em compras online dentro dos 7 dias e responde ao ponto central sobre quem deve suportar os custos da devolução. É útil ao afirmar que a loja deve providenciar a devolução sem custos e ao sugerir alternativa prática compatível com a deficiência física, como coleta domiciliar. Também mantém coerência e foco no caso concreto do voucher dos Correios e da agência distante. Perde um pouco em completude por usar linguagem como 'seria razoável solicitar' e 'deve buscar uma solução', sem esclarecer com mais precisão os fundamentos ou limites da obrigação da loja no transporte até a agência.
+==============================
+
+
+=== PERGUNTA 33 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7182425523806357
+Justificativa: O texto responde corretamente à pergunta sobre a exigência da embalagem original no prazo de 7 dias e deixa claro que essa condição pode ser abusiva, além de indicar procurar o Procon. A explicação é em geral fácil de entender, com frases relativamente diretas, mas usa termos mais técnicos como 'Código de Defesa do Consumidor', 'artigo 49', 'abusiva', 'comercialização' e 'revenda', o que reduz a simplicidade. Ainda assim, uma pessoa com pouca escolaridade provavelmente entenderia a ideia principal.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7977022630089974
+Justificativa: A resposta trata diretamente da legalidade de exigir a embalagem original no contexto do direito de arrependimento em 7 dias e cita corretamente o art. 49 do CDC, além de oferecer orientação prática ao mencionar o Procon. É útil e coerente, pois responde que a exigência pode ser abusiva e mantém foco no tema. Como limitação, afirma que a devolução deve permitir revenda e menciona ausência de sinais de uso, o que pode restringir indevidamente o direito de arrependimento e não explica com precisão que a falta da embalagem original, por si só, não elimina o direito de devolução.
+==============================
+
+
+=== PERGUNTA 34 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8962673112655871
+Justificativa: A resposta atende bem ao pedido sobre devolução recusada no Mercado Livre e oferece passos práticos, como checar o prazo, falar com o atendimento, guardar provas e procurar Reclame Aqui ou Procon. Usa linguagem simples e frases relativamente diretas, sem jargão jurídico pesado. Perde um pouco por ser um pouco longa e por trazer termos menos simples, como 'documentação' e 'plataformas de defesa do consumidor', que podem dificultar levemente para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8047425873177566
+Justificativa: A resposta trata diretamente do problema de devolução recusada no Mercado Livre e mantém foco no tema. É útil por sugerir ações práticas alinhadas ao caso, como checar prazo e condições, contatar o atendimento com evidências de que o produto permaneceu na caixa, e recorrer a Reclame Aqui ou Procon. Cobre os passos essenciais de forma coerente, mas poderia ser mais completa ao abordar direitos do consumidor aplicáveis, possibilidade de contestação formal dentro da plataforma e próximos passos caso a compra tenha sido paga por cartão ou envolva garantia legal.
+==============================
+
+
+=== PERGUNTA 35 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8119202922022117
+Justificativa: O texto responde diretamente à pergunta do consumidor, deixando claro que ele não deve pagar pela devolução e indicando que o vendedor deve coletar o produto ou arcar com os custos. Usa frases relativamente curtas e estrutura simples, o que ajuda na compreensão. Porém, inclui termos mais técnicos como 'Código de Defesa do Consumidor', 'prazo de arrependimento' e 'assistência jurídica', o que pode dificultar um pouco para alguém com pouca escolaridade. Ainda assim, no geral, é fácil de entender e alinhado ao tema do caso.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8880797077977881
+Justificativa: A resposta trata diretamente da dúvida sobre quem deve pagar a devolução de um produto já reembolsado e mantém foco no tema. É útil ao afirmar que o consumidor não deve arcar com o custo, citar o prazo de arrependimento de 7 dias e indicar ações práticas como Procon e assistência jurídica. Também é coerente e relevante, mas perde um pouco de completude por assumir o cenário de arrependimento sem esclarecer que a regra pode variar conforme o motivo do reembolso ou o tipo de devolução.
+==============================
+
+
+=== PERGUNTA 36 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7939913349825993
+Justificativa: O output responde ao pedido do input ao explicar que a devolução pode ser difícil após trocar o sistema operacional e orienta verificar a política do vendedor. Usa linguagem geralmente clara e frases relativamente simples, o que ajuda uma pessoa com pouca escolaridade. Como ponto fraco, traz termos um pouco mais complexos, como 'modificação significativa', 'invalidar' e 'funcionalidade do hardware', que podem dificultar a compreensão total e fogem um pouco da simplicidade pedida.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre devolver um produto após trocar o sistema operacional e mantém foco em políticas de devolução. É útil ao explicar que a alteração pode ser vista como modificação significativa, mas que há exceções, como defeito no produto, além de orientar verificar a política do vendedor e contatar o atendimento. Cobre bem os pontos essenciais do Input com lógica e sem informações irrelevantes, embora permaneça um pouco genérica por não detalhar variações legais ou condições mais específicas.
+==============================
+
+
+=== PERGUNTA 37 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6817574476193642
+Justificativa: O texto responde ao caso do Input ao dizer o que fazer ao receber duas memórias RAM tendo pago só uma: informar o vendedor e que não há obrigação de devolver. Está fácil de entender e segue uma ordem lógica. Porém, usa termos mais complexos e jurídicos como 'legislação brasileira', 'Código de Defesa do Consumidor', 'amostra grátis' e 'boa-fé', o que reduz a simplicidade pedida. As frases são relativamente diretas, mas um pouco longas para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8880797077977883
+Justificativa: A resposta trata diretamente do caso do usuário sobre ter recebido duas memórias RAM pagando apenas uma e oferece uma orientação prática: informar o vendedor e explicar que, em regra, o consumidor não é obrigado a devolver. É útil por citar o contexto do Código de Defesa do Consumidor e equilibrar o aspecto legal com boa-fé. Cobre bem o essencial do pedido, embora pudesse ser mais precisa ao evitar generalizar a ideia de 'amostra grátis' e mencionar com mais cautela que, na prática, vale registrar a comunicação com o Mercado Livre ou o vendedor.
+==============================
+
+
+=== PERGUNTA 38 ===
+MÉTRICA 1: Simplicidade
+Score: 0.822270013882531
+Justificativa: O output responde ao problema do input com orientações úteis sobre atraso na entrega e falta de resposta da empresa, em uma sequência fácil de acompanhar. Usa frases em geral diretas e linguagem simples, o que ajuda uma pessoa com pouca escolaridade. Como ponto fraco, traz alguns termos menos acessíveis, como 'termos e condições', 'administradora do cartão', 'contestar a cobrança' e 'medidas legais', além de sugerir consultar advogado, o que aumenta um pouco a complexidade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do problema apresentado no Input — atraso na entrega e falta de resposta da empresa — e mantém o foco em orientações práticas. Ela é útil ao sugerir verificar prazos e políticas, tentar novos canais de contato, acionar Procon e plataformas de reclamação, além de contestar a cobrança no cartão e buscar apoio jurídico. Cobre bem os pontos centrais do caso sem se desviar do tema, embora pudesse ser um pouco mais completa ao mencionar direitos como cancelamento da compra ou pedido de reembolso de forma explícita.
+==============================
+
+
+=== PERGUNTA 39 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8777299861174692
+Justificativa: O output responde claramente à pergunta do input, dizendo que a loja não pode recusar a entrega só pelo uso de cupom, e traz a condição importante de o cupom ser válido e as regras terem sido cumpridas. As frases são em geral diretas e fáceis de seguir, o que ajuda uma pessoa com pouca escolaridade. Como ponto fraco, usa alguns termos menos simples, como 'estabelecendo um contrato', 'prática abusiva' e 'justificativa válida', que soam mais jurídicos do que o ideal para esse público.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9962673112655869
+Justificativa: A resposta trata diretamente da pergunta sobre a loja se recusar a entregar um pedido por uso de cupom e mantém foco no tema. É útil ao explicar que a recusa não é permitida se o cupom for válido e as condições tiverem sido cumpridas, além de orientar uma ação prática ao mencionar reclamação no Procon. Cobre os pontos essenciais do caso sem omissões relevantes, incluindo a ressalva sobre termos e condições do cupom, e é coerente, sem trazer informações desconectadas do pedido.
+==============================
+
+
+=== PERGUNTA 40 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8622459331201855
+Justificativa: O output responde bem ao pedido do input, apresentando providências práticas contra fornecedor que não entrega: tentativa amigável, reclamação no Procon, ação no Juizado Especial Cível e guarda de comprovantes. A linguagem é clara, com frases diretas e estrutura simples, adequada para fácil entendimento. Há poucos termos mais técnicos, como 'ação judicial', 'Juizado Especial Cível' e 'evidência', mas eles aparecem em contexto compreensível. No geral, uma pessoa com pouca escolaridade conseguiria entender as orientações principais.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre providências legais contra fornecedor que não entrega o produto e mantém foco no tema. Ela é útil e prática ao sugerir tentativa de solução amigável, reclamação no Procon, ação no Juizado Especial Cível para valores de até 40 salários mínimos e preservação de comprovantes. Cobre bem os principais passos esperados no caso, com boa coerência e sem informações irrelevantes. Perde um pouco por não mencionar outras medidas possíveis, como formalização por notificação escrita ou eventual pedido de indenização, o que deixaria a orientação mais completa.
+==============================
+
+
+=== PERGUNTA 41 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8022977369910025
+Justificativa: O texto responde à pergunta sobre pagar SEDEX e a empresa postar só no último dia, explicando que o ponto central é cumprir o prazo total prometido. Usa frases relativamente simples e diretas, com linguagem acessível para alguém com pouca escolaridade. Como ponto fraco, traz termos um pouco menos simples, como “tecnicamente”, “obrigação”, “compensação” e “termos e condições”, e poderia ser ainda mais curto e objetivo para facilitar totalmente a compreensão.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8029312230751356
+Justificativa: A resposta trata diretamente da situação de ter pago SEDEX e a empresa só postar no último dia, mantendo o foco no prazo de entrega e na obrigação do vendedor. Ela é útil ao explicar que o relevante é o prazo total prometido na compra, incluindo processamento e transporte, e que cabe reclamação se esse prazo não foi cumprido. Como limitação, faltou abordar com mais precisão a possível diferença entre prazo de postagem e prazo de entrega, além de não mencionar direitos do consumidor de forma mais concreta, o que reduz a completude.
+==============================
+
+
+=== PERGUNTA 42 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7622459331201854
+Justificativa: O output responde ao problema do Input ao orientar verificar a política da entrega, contatar o atendimento e registrar data e hora, o que ajuda no caso do entregador que se recusou a entregar na porta. A linguagem é em geral clara e organizada, com frases relativamente diretas. Porém, há trechos um pouco mais formais ou menos simples para alguém com pouca escolaridade, como “termos e condições”, “diretrizes” e “escalar a reclamação”, o que reduz a facilidade de entendimento total.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8437823499114202
+Justificativa: A resposta trata diretamente do problema relatado no Input — a recusa do entregador em entregar na porta — e mantém foco no tema. É útil ao sugerir ações práticas, como verificar políticas da empresa, contatar o atendimento, pedir nova entrega ou reembolso e documentar data, hora e comunicação. A cobertura é boa para um caso genérico, mas falta orientação mais específica sobre direitos do consumidor ou próximos passos caso a empresa não resolva, o que impede maior completude.
+==============================
+
+
+=== PERGUNTA 43 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8029312230751356
+Justificativa: O output responde ao pedido ao explicar a diferença prática entre Procon e Consumidor.gov.br, destacando atendimento presencial/telefone, mediação e possibilidade de sanções no Procon, versus plataforma online com contato direto e resolução mais rápida no Consumidor.gov.br. A estrutura é clara e compreensível, com frases em geral diretas. Porém, usa termos como “mediação”, “sanções administrativas” e “partes envolvidas”, que podem dificultar um pouco para alguém com pouca escolaridade, reduzindo a simplicidade ideal pedida nos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre a diferença prática entre Procon e Consumidor.gov.br, mantendo foco total no tema. Ela é útil ao explicar que o Procon é um órgão estadual/municipal com atendimento presencial ou por telefone, mediação e possibilidade de sanções administrativas, enquanto o Consumidor.gov.br é uma plataforma federal online voltada à comunicação direta e solução mais rápida. Cobre os pontos essenciais de forma clara e coerente, embora pudesse detalhar um pouco mais em que situações práticas vale mais a pena escolher um ou outro.
+==============================
+
+
+=== PERGUNTA 44 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6268941421369995
+Justificativa: O output responde à pergunta sobre funcionamento do SAC aos sábados e traz a distinção entre setores regulados, citando que nesses casos o atendimento deve funcionar 24 horas por dia, sete dias por semana. Porém, usa termos mais técnicos e jurídicos, como referência ao Decreto nº 6.523/2008, 'setores regulados' e 'legislação específica', o que reduz a simplicidade. As frases são relativamente claras, mas longas, e uma pessoa com pouca escolaridade pode ter dificuldade para entender toda a explicação sem uma resposta mais direta como 'depende do setor'.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre obrigatoriedade de funcionamento do SAC aos sábados e mantém o foco no tema. Ela é útil ao citar o Decreto nº 6.523/2008 e explicar que, para setores regulados como telecomunicações, energia, aviação, planos de saúde e serviços financeiros, o atendimento deve funcionar 24 horas por dia, sete dias por semana, o que inclui sábados. Também cobre a distinção relevante de que, em outros setores, a exigência pode variar conforme regras específicas e políticas internas. Como limitação, poderia responder de forma mais direta logo no início com um 'depende do setor', mas ainda assim é coerente, prática e suficientemente completa.
+==============================
+
+
+=== PERGUNTA 45 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8851952801968309
+Justificativa: O texto responde bem ao problema do uso indevido do CPF nas Casas Bahia e traz passos práticos ligados ao caso, como falar com a loja, fazer boletim de ocorrência, acompanhar CPF no Serasa/SPC e procurar o Procon. A linguagem é clara, com frases diretas e estrutura simples, adequada para fácil entendimento. Há poucos termos que podem ser um pouco menos acessíveis para alguém com pouca escolaridade, como “fraude”, “monitorar” e “serviços de proteção ao crédito”, mas no geral evita linguagem jurídica complicada.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8962673112655869
+Justificativa: A resposta trata diretamente do problema de fraude com CPF nas Casas Bahia e mantém foco no tema. É útil e prática ao orientar ações imediatas como contatar a loja, registrar boletim de ocorrência, monitorar o CPF em Serasa/SPC e buscar o Procon. Cobre bem os passos essenciais para o caso apresentado, com boa coerência e sem desvios. Perde um pouco por não detalhar medidas complementares importantes, como pedir contestação formal por escrito, guardar protocolos ou verificar eventual negativação e contestá-la.
+==============================
+
+
+=== PERGUNTA 46 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8731058578630005
+Justificativa: O texto responde ao pedido do Input explicando como fazer uma denúncia formal no Procon com passos claros: reunir documentos, procurar o Procon da cidade, preencher formulário e aguardar análise. Usa estrutura simples e fácil de acompanhar, com frases em geral diretas. Como ponto fraco, traz termos um pouco menos acessíveis para alguém com pouca escolaridade, como “sustentar sua reclamação”, “registrar”, “analisará” e “mediar”, o que reduz um pouco a simplicidade ideal pedida nos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do pedido sobre como fazer uma denúncia formal no Procon e mantém foco no tema. Ela é útil ao indicar passos práticos, como reunir documentos, contatar o Procon da cidade por canais como site, telefone ou atendimento presencial, preencher formulário e descrever o problema com clareza. Cobre bem o essencial do processo, embora falte um pouco de completude ao não mencionar possíveis documentos pessoais, prazos, número de protocolo ou a diferença entre reclamação e denúncia em alguns estados.
+==============================
+
+
+=== PERGUNTA 47 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8
+Justificativa: O output responde ao que foi perguntado sobre multa por quebra de fidelidade em academia por mudança de cidade e traz orientação útil, como verificar o contrato, considerar a ausência de filial e procurar o Procon. A linguagem é relativamente clara e direta, com frases simples na maior parte. Porém, usa termos um pouco mais técnicos, como “cláusulas específicas”, “rescisão”, “Código de Defesa do Consumidor” e “causa justa”, o que pode dificultar um pouco para alguém com pouca escolaridade. Ainda assim, no geral, é compreensível e alinhado ao tema do input.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da dúvida sobre multa de fidelidade em plano de academia cancelado por mudança de cidade, mantendo foco no tema. É útil ao orientar a verificar o contrato, considerar a ausência de filial na nova cidade, aplicar o CDC e procurar o Procon, o que ajuda de forma prática. Também cobre bem os pontos centrais do caso, embora pudesse ser um pouco mais precisa ao explicar em que condições a multa tende a ser considerada abusiva ou inexigível.
+==============================
+
+
+=== PERGUNTA 48 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8029312230751355
+Justificativa: O output responde diretamente à pergunta sobre aumento da fatura sem aviso prévio e traz orientação útil, como verificar o contrato e procurar a operadora ou o Procon. As frases são em geral claras e fáceis de entender, com estrutura simples. Porém, usa termos um pouco mais técnicos, como 'Código de Defesa do Consumidor', 'condições do contrato' e 'registrar uma reclamação', o que pode dificultar um pouco para alguém com pouca escolaridade. Ainda assim, no conjunto, a explicação é acessível e alinhada ao pedido do input.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre o aumento da fatura sem aviso prévio e se mantém focada no tema legal da relação de consumo. Ela é útil ao citar o Código de Defesa do Consumidor, mencionar a necessidade de previsão contratual e comunicação antecipada, além de sugerir ações práticas como reclamar à operadora e ao Procon. Cobre bem os pontos centrais do caso, embora use um tom um pouco genérico ao dizer 'geralmente' e não detalhe possíveis exceções contratuais ou regulatórias.
+==============================
+
+
+=== PERGUNTA 49 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8977022630089972
+Justificativa: O output responde diretamente à pergunta do input ao dizer que as companhias aéreas podem cobrar taxa extra até por assento comum e explica de forma clara que isso depende da política da empresa e do tipo de tarifa. Usa frases simples, curtas na maior parte, e linguagem acessível, sem jargão jurídico. Para alguém com pouca escolaridade, a explicação tende a ser compreensível, embora termos como 'tarifa adquirida' e 'termos e condições' possam dificultar um pouco.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8939913349825993
+Justificativa: A resposta trata diretamente da pergunta sobre se companhias aéreas podem cobrar taxa extra para marcar assento comum e mantém foco total no tema. É útil ao explicar que a prática é permitida, comum, varia conforme a política da empresa e o tipo de tarifa, além de orientar o passageiro a verificar os termos da passagem. Cobre bem os pontos essenciais do Input, embora possa omitir nuances importantes como eventuais regras específicas por país ou situações regulatórias excepcionais.
+==============================
+
+
+=== PERGUNTA 50 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6970687769248645
+Justificativa: O output responde ao caso da TV na Black Friday e explica que, se o preço foi um erro grosseiro, a loja pode cancelar, mas que, se a diferença não for tão grande e a compra foi confirmada, o consumidor pode questionar. A resposta é compreensível e relativamente direta, mas usa termos como 'erro de precificação', 'expectativa legítima', 'oferta aceita' e 'ação judicial', que são mais técnicos do que o ideal. Para alguém com pouca escolaridade, a ideia geral ainda pode ser entendida, mas a linguagem poderia ser mais simples e com frases ainda mais curtas.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre cancelamento unilateral de compra por possível erro de preço na Black Friday e explica o ponto central: a diferença entre erro grosseiro de precificação e oferta que poderia ser exigida. É útil por indicar critérios práticos relevantes ao caso — discrepância do preço, confirmação da compra e expectativa legítima do consumidor — além de sugerir caminhos como contato com a loja, Procon e ação judicial. Embora não entre em detalhes legais mais específicos sobre o direito de exigir a entrega ou possíveis provas necessárias, cobre bem os pontos essenciais sem fugir do tema.
+==============================
+
+
+=== PERGUNTA 51 ===
+MÉTRICA 1: Simplicidade
+Score: 0.5493267781615194
+Justificativa: O output responde ao pedido ao dizer que a pessoa pode considerar processar o banco e cita o MED e a recusa da instituição, mas faz isso de forma parcialmente técnica. Embora tenha frases relativamente claras, usa termos mais complexos como “Mecanismo Especial de Devolução”, “reparação judicial”, “normas do Banco Central” e “viabilidade do caso”, o que reduz a simplicidade. Para alguém com pouca escolaridade, a explicação pode ser entendida só em parte, porque falta linguagem mais direta e acessível sobre quando o banco pode ser responsabilizado.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7989013057369407
+Justificativa: A resposta trata diretamente do caso de golpe no WhatsApp com PIX e recusa do banco em devolver via MED, mantendo foco na possibilidade de processar a instituição financeira. É útil ao explicar que a viabilidade depende de fatores como rapidez na comunicação, condições do MED e eventual descumprimento de normas do Banco Central, além de sugerir consulta a advogado. Porém, fica um pouco genérica e não cobre com mais completude aspectos práticos relevantes do pedido, como fundamentos jurídicos mais específicos, provas necessárias ou medidas administrativas prévias.
+==============================
+
+
+=== PERGUNTA 52 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7562176500885799
+Justificativa: O output responde ao pedido do input ao indicar formas de provar a fraude, como mostrar que a pessoa estava em outro lugar na madrugada, reunir câmeras, testemunhas, recibos e fazer boletim de ocorrência. A linguagem é clara, com frases relativamente diretas e estrutura simples, o que ajuda alguém com pouca escolaridade. Como ponto fraco, usa termos um pouco menos simples, como 'assistência jurídica', 'alegação de fraude' e 'estornar as transações', e poderia explicar de forma mais fácil a situação específica do banco alegar uso de chip físico e senha.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7939913349825993
+Justificativa: A resposta trata diretamente do problema de compras feitas de madrugada no nome do usuário e da recusa do banco por uso de chip físico e senha, oferecendo passos práticos como reunir provas de localização, revisar o histórico do cartão, registrar boletim de ocorrência e buscar apoio jurídico. É útil e coerente, mas não explora de forma mais completa meios específicos de contestar a alegação do banco sobre chip e senha, como solicitar logs das transações, análise de clonagem ou evidências técnicas adicionais.
+==============================
+
+
+=== PERGUNTA 53 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6072359398140043
+Justificativa: O output responde diretamente à pergunta sobre a taxa de desperdício e é fácil de entender em linhas gerais, mencionando a necessidade de aviso no cardápio e a possibilidade de procurar órgãos de defesa do consumidor. Porém, para o tema do input, usa construções menos simples como 'razoável e proporcional' e 'órgãos de defesa do consumidor', além de uma explicação um pouco jurídica sobre concordar com políticas ao consumir no local. As frases são relativamente claras, mas não tão curtas nem tão acessíveis para uma pessoa com pouca escolaridade quanto os critérios pedem.
+
+
+MÉTRICA 2: Relevância
+Score: 0.6470737721048954
+Justificativa: A resposta trata diretamente da pergunta sobre a cobrança da taxa de desperdício em rodízio e é útil ao citar a necessidade de aviso prévio no cardápio e a possibilidade de questionar cobrança abusiva. Porém, fica genérica ao afirmar que o restaurante 'pode cobrar' sem qualificar melhor a situação específica de deixar algumas bordas de pizza, que pode não caracterizar desperdício de forma automática. Também faltou aprofundar critérios de razoabilidade e a base de defesa do consumidor, o que deixa a cobertura apenas parcialmente completa.
+==============================
+
+
+=== PERGUNTA 54 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7904650535100891
+Justificativa: O output responde ao caso do comprador da Kabum sobre o prazo de 7 dias e o fato de ter aberto/usado os produtos para testar compatibilidade, dando uma orientação prática de entrar em contato rápido. A explicação é clara e relativamente simples, com frases diretas. Porém, ainda usa termos mais técnicos ou jurídicos como 'Código de Defesa do Consumidor', 'fora do estabelecimento comercial' e 'condições de serem revendidos', o que pode dificultar um pouco para alguém com pouca escolaridade. Também poderia ser mais direto sobre se testar o processador e a placa-mãe conta como uso que pode atrapalhar a devolução.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8851952801968311
+Justificativa: A resposta trata diretamente da dúvida sobre arrependimento em compra online na Kabum dentro de 7 dias e se o uso impede a devolução. É útil ao explicar o direito de arrependimento no CDC para compras pela internet, mencionar que abrir a embalagem para verificar compatibilidade não necessariamente impede o reembolso e orientar contato rápido com a loja. Cobre bem os pontos centrais do caso — prazo, compra online e uso para teste — e mantém coerência. Perde um pouco por simplificar a questão ao acrescentar a condição de 'condições de serem revendidos', sem detalhar melhor como sinais de uso podem afetar a aceitação prática pela loja.
+==============================
+
+
+=== PERGUNTA 55 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7012696959036228
+Justificativa: O texto responde ao pedido ao explicar a regra dos 30 dias para conserto e quando pode haver troca, o que está alinhado ao caso da esteira com defeito. Porém, não deixa totalmente claro se uma esteira se encaixa como produto essencial no caso concreto, então a orientação prática fica incompleta. A linguagem é relativamente clara, mas usa termos mais técnicos como "Código de Defesa do Consumidor", "vício de fácil constatação", "restituição imediata da quantia paga" e "abatimento proporcional do preço", o que reduz a simplicidade para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8095349464899109
+Justificativa: A resposta trata diretamente da dúvida sobre troca versus conserto de uma esteira com defeito e usa corretamente a regra prática do CDC: prazo de 30 dias para reparo e, se não resolvido, opção de troca, devolução do valor ou abatimento. Também acrescenta a exceção de produto essencial ou vício de fácil constatação, o que aumenta a utilidade. Como ponto fraco, não esclarece bem se uma esteira se enquadra como produto essencial no caso concreto, nem menciona nuances como vício oculto ou eventual previsão contratual, então não fecha totalmente a aplicação específica ao contexto apresentado.
+==============================
+
+
+=== PERGUNTA 56 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6874503265213948
+Justificativa: O output responde ao pedido ao dizer que a pessoa pode ter direitos e sugerir caminhos práticos, como troca, devolução, Procon e Juizado Especial Cível, o que se conecta ao caso em que a assistência disse que não conserta nem troca e o produto foi de R$ 930 para cerca de R$ 2.000. As frases são relativamente claras, mas não tão simples para alguém com pouca escolaridade. Há termos jurídicos e técnicos como 'garantia legal ou contratual', 'Código de Defesa do Consumidor', 'abatimento proporcional do preço' e 'Juizado Especial Cível', sem explicação em linguagem mais acessível.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8731058578630005
+Justificativa: A resposta trata diretamente da dúvida do consumidor sobre o que fazer após a assistência informar que não conserta nem troca, mantendo foco no problema apresentado. É útil e prática ao citar direitos pelo CDC, opções de solução (troca, devolução do valor pago ou abatimento) e próximos passos como Procon, Juizado Especial e reunião de documentos. Como limitação, não aborda de forma mais específica o impacto do grande aumento de preço atual do produto, nem esclarece nuances sobre garantia ou prazo para reparo, o que impediria cobertura totalmente completa do caso.
+==============================
+
+
+=== PERGUNTA 57 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8182425523806357
+Justificativa: O output responde bem à dúvida sobre como usar a garantia de uma placa de vídeo usada, explicando passos práticos como verificar se a garantia é transferível, pedir a nota fiscal original e falar com o fabricante. As frases são curtas, diretas e em estrutura simples, o que ajuda na compreensão. Também evita jargão jurídico e termos muito técnicos. Perde um pouco por usar expressões como 'garantia transferível' e 'registrar o produto', que podem exigir leve interpretação extra para alguém com pouca escolaridade, mas no geral é fácil de entender.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente de como usar a garantia de uma placa de vídeo usada e mantém foco total no tema. Ela é útil ao indicar passos práticos alinhados ao caso, como verificar se a garantia é transferível, obter a nota fiscal original, confirmar com o fabricante e seguir o processo de RMA/reparo, além de citar possível registro do produto. Cobre os pontos essenciais sobre como a garantia funcionaria para um segundo dono, embora pudesse mencionar de forma mais explícita que isso varia por fabricante e país e que a garantia restante de cerca de dois anos depende dessas condições.
+==============================
+
+
+=== PERGUNTA 58 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8047425873177568
+Justificativa: O output responde claramente à dúvida do caso: informa que é possível trocar o ventilador mesmo sem a caixa, desde que haja nota fiscal e garantia, e orienta procurar a loja ou fornecedor. A linguagem é majoritariamente simples e direta, com frases fáceis de entender. Como ponto fraco, usa termos mais técnicos como 'Código de Defesa do Consumidor', 'produtos não duráveis' e 'avaliação do defeito', o que reduz um pouco a simplicidade para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8999999999999998
+Justificativa: A resposta trata diretamente da dúvida sobre trocar o ventilador com defeito sem a caixa e mantém foco no tema de direitos do consumidor. É útil ao afirmar que nota fiscal e garantia são suficientes, explicar os prazos de 30 e 90 dias para produtos não duráveis e duráveis, e orientar a procurar a loja ou fornecedor. Cobre bem os pontos centrais do caso — defeito logo após a compra, ausência da embalagem e risco de perder o dinheiro — mas poderia ser mais completa ao mencionar que, se o problema não for resolvido no prazo legal, o consumidor pode pedir troca, abatimento ou devolução do valor.
+==============================
+
+
+=== PERGUNTA 59 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7119202922022118
+Justificativa: O output responde ao pedido do caso da TV OLED de R$ 5 mil com defeito repetido, dizendo que a pessoa pode exigir produto novo ou devolução do valor e indicando canais como fabricante, loja, Procon e Juizado Especial Cível. A explicação é clara e organizada, com frases relativamente diretas. Porém, usa termos jurídicos e menos simples, como 'Código de Defesa do Consumidor', 'abatimento proporcional do preço' e 'Juizado Especial Cível', o que pode dificultar para alguém com pouca escolaridade. Também não esclarece de forma simples a dúvida sobre receber um produto 'completamente novo e na caixa'.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8222700138825308
+Justificativa: A resposta trata diretamente do caso da TV OLED de R$ 5 mil com defeito recorrente e responde aos dois pontos principais: possibilidade de exigir produto novo ou devolução do valor e canais para cobrar esse direito. Ela é útil ao citar opções previstas no CDC e indicar fabricante/loja, Procon e Juizado Especial Cível. Como limitação, faltou maior precisão sobre o cenário específico de três ocorrências e duas trocas de tela, incluindo fundamento mais claro sobre vício não sanado no prazo legal e a questão de receber um produto “completamente novo e na caixa”, que não foi detalhada.
+==============================
+
+
+=== PERGUNTA 60 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6977189075742898
+Justificativa: O output responde ao pedido ao indicar caminhos para tentar reverter a compra, mencionando prazo de 7 dias, diferença entre compra online/telefone e loja física, negociação com a loja e busca ao Procon. As frases são relativamente claras e diretas, mas o texto usa termos jurídicos e menos simples, como 'Código de Defesa do Consumidor', 'prática abusiva', 'ação judicial' e 'anular o contrato'. Para uma pessoa com pouca escolaridade, a explicação pode ser parcialmente compreensível, porém ainda falta linguagem mais simples e foco no caso concreto do carnê de 15x de R$ 240 sobre um celular de R$ 1.400.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8
+Justificativa: A resposta trata diretamente da possibilidade de reverter a compra do celular de R$ 1.400 parcelado em 15×R$ 240 e oferece caminhos práticos, como direito de arrependimento, negociação com a loja e busca ao Procon ou ação judicial. Também é coerente ao diferenciar compra online/telefone de loja física e ao citar possível indução ao erro. Porém, não cobre de forma completa pontos relevantes do caso, como a discrepância expressiva entre o preço à vista e o total de aproximadamente R$ 3.600, análise de juros/financiamento do carnê, eventual abusividade contratual mais específica, nem orientações sobre reunir contrato, comprovantes e prazos para contestação.
+==============================
+
+
+=== PERGUNTA 61 ===
+MÉTRICA 1: Simplicidade
+Score: 0.9017986209962091
+Justificativa: O output responde diretamente à dúvida principal do input ao afirmar que não é obrigatório usar imobiliária, considerando o contexto de imóvel de herança com comprador já definido e financiamento pela Caixa. Usa frases curtas, linguagem simples e estrutura fácil de entender, sem jargão jurídico excessivo. Também traz orientação útil sobre documentos, contrato e acordo entre os irmãos. Perde um pouco por incluir termos como 'burocracia' e 'compra e venda' sem simplificar mais, mas ainda é bem acessível para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da dúvida central sobre a necessidade de imobiliária na venda do imóvel herdado e esclarece corretamente que não é exigência legal, o que atende bem ao caso em que já existe comprador e apoio de um advogado. Também é útil ao mencionar documentação, contrato e o financiamento pela Caixa, pontos práticos relevantes ao cenário. Perde um pouco em completude por não abordar com mais detalhe as particularidades de haver três herdeiros e possível necessidade de regularização sucessória/assinatura de todos, mas mantém foco, coerência e não traz informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 62 ===
+MÉTRICA 1: Simplicidade
+Score: 0.697146503461131
+Justificativa: O output responde ao pedido principal ao explicar que a revisão pode reduzir parcelas em alguns casos, mas não serve para todos os contratos, o que se conecta bem ao caso de financiamento imobiliário com parcelas altas e contatos de consultorias. A estrutura é clara e relativamente fácil de entender, com frases diretas. Porém, usa termos mais técnicos como "cláusulas abusivas", "cobranças indevidas", "taxas de juros excessivas" e "legislação aplicável", o que pode dificultar para alguém com pouca escolaridade. Também faltou explicar de forma mais simples como esse processo funciona na prática, já que o input perguntou "como é isso".
+
+
+MÉTRICA 2: Relevância
+Score: 0.8
+Justificativa: A resposta trata diretamente da dúvida sobre revisão de contrato para reduzir parcelas de financiamento imobiliário e esclarece que isso pode funcionar apenas em alguns casos, não para todos os contratos, o que atende ao ponto central do input. Também é útil ao explicar, de forma prática, que a revisão busca cláusulas abusivas, juros excessivos ou cobranças indevidas, e ao recomendar cautela com promessas generalizadas e checagem de reputação. Como limitação, ficou um pouco genérica e não explorou melhor o contexto específico do caso apresentado, como a entrada parcelada, o financiamento da Caixa e o fato de receber abordagens frequentes por o valor ser acima de mil.
+==============================
+
+
+=== PERGUNTA 63 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6437823499114202
+Justificativa: O output responde ao ponto principal do input ao dizer que xingamentos podem, em tese, gerar processo por injúria, e ainda traz orientação prática sobre ouvidoria, Procon e bloqueio de chamadas. A explicação é relativamente clara e organizada, com frases em geral diretas. Porém, usa jargão jurídico e termos mais complexos, como 'injúria', 'crime previsto no Código Penal Brasileiro' e 'processos judiciais', sem simplificar muito. Para uma pessoa com pouca escolaridade, o sentido geral ainda pode ser entendido, mas a linguagem poderia ser mais simples e acessível.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da dúvida sobre se os xingamentos ao telemarketing podem gerar processo e responde de forma prática ao dizer que, em tese, poderia haver injúria, mas que na prática isso é raro, especialmente sem ameaças ou ofensas graves. Também é útil ao sugerir medidas relevantes ao caso descrito, como reclamar na ouvidoria, no Procon e bloquear chamadas, considerando as ligações insistentes por cobrança de uma pessoa desconhecida. Como ponto menor, faltou aprofundar um pouco mais os possíveis caminhos legais contra a empresa pelas chamadas repetidas e o contexto de cobrança indevida.
+==============================
+
+
+=== PERGUNTA 64 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6160119319441355
+Justificativa: O texto responde ao problema apresentado no input, sugerindo reunir provas, formalizar reclamação com a Vivo e procurar Anatel ou Procon, o que ajuda no caso de cobrança de R$95 da fibra, manutenção do plano de celular de R$40 e ameaça de multa. Porém, não usa linguagem tão simples quanto pedido: há termos como “formalizar sua reclamação”, “intermediar a situação”, “cláusulas no contrato” e “falta de prestação de serviço”, que soam mais técnicos. As frases são relativamente claras, mas longas, e podem dificultar o entendimento de uma pessoa com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7970687769248643
+Justificativa: A resposta trata diretamente do problema de cobrança da Vivo após mudança e oferece passos práticos, como reunir protocolos, formalizar a reclamação por escrito e acionar Anatel ou Procon, o que é útil para o caso. Também considera um ponto central do input: a alegação de ausência de cobertura no novo endereço, que pode justificar cancelamento sem multa. Porém, não cobre de forma completa detalhes importantes do caso, como a separação entre os valores de R$95 da internet e R$40 do celular, o pedido específico de manter só o plano móvel, nem orienta sobre contestar a cobrança do período sem uso ou pedir estorno. A resposta é coerente e focada, mas um pouco genérica diante dos elementos específicos apresentados.
+==============================
+
+
+=== PERGUNTA 65 ===
+MÉTRICA 1: Simplicidade
+Score: 0.65
+Justificativa: O texto responde ao problema do usuário ao explicar que, em investimento com prazo até 2028, normalmente não há resgate antes do vencimento, e sugere caminhos como verificar resgate com penalidade, reclamar no Procon e buscar orientação jurídica. As frases são relativamente claras, mas não são tão simples para alguém com pouca escolaridade. Há termos mais técnicos ou jurídicos, como “resgate antecipado”, “penalidades”, “contestada”, “ressarcir” e “ação judicial”, o que reduz a facilidade de entendimento pedida nos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8037326887344131
+Justificativa: A resposta trata diretamente do caso de aplicação em renda fixa com vencimento em 2028 e é útil ao sugerir caminhos práticos, como verificar resgate antecipado com penalidade, contestar falha de informação, reclamar no Procon e consultar advogado. Mantém coerência e foco no problema do banco não devolver os R$ 400. Como limitação, não aprofunda direitos específicos do consumidor nem orienta sobre canais regulatórios relevantes, como ouvidoria do banco ou Banco Central, o que reduz a completude.
+==============================
+
+
+=== PERGUNTA 66 ===
+MÉTRICA 1: Simplicidade
+Score: 0.690465053510089
+Justificativa: O output responde ao pedido do input de forma compreensível, dizendo que o banco, em geral, não pode tirar todo o salário e orientando procurar Procon ou advogado se isso estiver acontecendo. As frases são relativamente diretas, mas ainda há termos menos simples para alguém com pouca escolaridade, como “legislação brasileira”, “verba alimentar”, “subsistência”, “débito” e “legalidade”. Isso reduz a simplicidade exigida e pode dificultar o entendimento pleno do público-alvo.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8952574126822433
+Justificativa: A resposta trata diretamente da pergunta sobre desconto de parcela em conta salário e se o banco pode deixar o cliente sem dinheiro, mantendo foco total no tema. É útil porque explica a proteção do salário como verba alimentar, menciona a possibilidade de débito se houver autorização contratual e orienta buscar Procon ou advogado. Cobre bem os pontos centrais do caso, embora pudesse ser mais precisa sobre limites legais e diferenças entre débito em conta salário e empréstimo consignado, o que impediria pequenas ambiguidades.
+==============================
+
+
+=== PERGUNTA 67 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6982013790037909
+Justificativa: O output responde ao pedido do input de forma clara, dizendo que a devolução do carro pode ser feita para tentar quitar a dívida e que isso depende de acordo com a financeira. As frases são em geral diretas e a orientação prática de falar com o banco ajuda. Porém, usa termos mais difíceis para alguém com pouca escolaridade, como 'dação em pagamento', 'saldo devedor', 'instituição financeira' e 'orientação jurídica'. Isso reduz a simplicidade exigida e pode dificultar o entendimento completo por uma pessoa com baixa escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9679178699175394
+Justificativa: A resposta trata diretamente da pergunta sobre devolver o carro financiado após demissão para quitar a dívida amigavelmente e se mantém focada no tema. É útil e prática ao explicar a possibilidade de dação em pagamento, orientar contato com a financeira e alertar que a devolução pode não cobrir todo o saldo devedor. Também cobre pontos essenciais do caso, como revisão do contrato e busca de orientação jurídica, sem trazer informações irrelevantes ou desconectadas.
+==============================
+
+
+=== PERGUNTA 68 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7024127690885189
+Justificativa: O output responde à pergunta ao explicar que não há teto específico para a taxa de juros do rotativo e que o uso do rotativo fica limitado a 30 dias, o que atende bem ao tema do input. A linguagem é em geral clara e organizada, com frases relativamente diretas. Porém, usa termos que podem dificultar para alguém com pouca escolaridade, como "crédito rotativo", "parcelamento", "instituições financeiras" e "diretrizes do Banco Central", sem simplificar muito. Também traz um detalhe regulatório de 2017 que pode tornar a resposta um pouco mais complexa do que o necessário.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7952574126822433
+Justificativa: A resposta aborda diretamente a pergunta sobre o rotativo do cartão e é útil ao explicar a regra dos 30 dias e a obrigação de oferecer parcelamento depois desse prazo. Também esclarece um ponto central do Input: não existe um teto específico para a taxa de juros. Porém, a resposta fica parcialmente incompleta ao focar mais no limite de uso do rotativo do que em um eventual limite máximo de juros, e poderia distinguir melhor entre restrição operacional e teto de taxa.
+==============================
+
+
+=== PERGUNTA 69 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8060086650174009
+Justificativa: O output responde ao que foi perguntado no input, explicando de forma clara o que acontece se a pessoa não pagar nem o mínimo da fatura: juros altos, multa, impacto no crédito, possível cobrança judicial e orientação para negociar. As frases são em geral diretas e fáceis de seguir, mas há alguns termos menos simples para uma pessoa com pouca escolaridade, como 'saldo devedor', 'administradora', 'pontuação de crédito' e 'cobrança judicial'. Ainda assim, o conteúdo é majoritariamente compreensível e alinhado ao tema pedido.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do cenário perguntado — não conseguir pagar nem o valor mínimo da fatura do cartão — e mantém o foco nas consequências práticas, como juros altos, multas, impacto no crédito e possível cobrança judicial. Também é útil ao sugerir contato com a administradora para negociar. Cobre bem os principais efeitos esperados, embora pudesse ser um pouco mais completa ao mencionar bloqueio do cartão ou detalhar a inadimplência imediata, mas sem incluir informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 70 ===
+MÉTRICA 1: Simplicidade
+Score: 0.785195280196831
+Justificativa: O texto responde ao pedido do Input com orientações práticas sobre um empréstimo consignado fraudulento no benefício do INSS, citando passos úteis como falar com o banco, registrar boletim de ocorrência, avisar o INSS e procurar o Procon. As frases são relativamente claras e diretas, o que ajuda na compreensão. Porém, há termos e expressões mais complexos para alguém com pouca escolaridade, como 'instituição financeira', 'formalizar a denúncia de fraude', 'advogado especializado em direito do consumidor', 'ação judicial' e 'reparação por eventuais danos', o que reduz a simplicidade exigida pelos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8977022630089975
+Justificativa: A resposta trata diretamente do problema relatado no Input — empréstimo consignado fraudulento no benefício do INSS — e mantém foco em ações práticas. Ela é útil ao orientar passos relevantes, como contatar a instituição financeira, registrar boletim de ocorrência, comunicar o INSS e buscar Procon ou advogado. Cobre bem os pontos essenciais para uma reação inicial à fraude, com sequência lógica e sem informações irrelevantes. Perde um pouco por não detalhar canais específicos de contato do INSS ou medidas adicionais de contestação formal, mas ainda atende de forma clara e pertinente ao pedido.
+==============================
+
+
+=== PERGUNTA 71 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8
+Justificativa: O output responde ao caso de cobrança após cancelamento de internet e orienta ações úteis, como conferir a data do cancelamento, comparar com o período da fatura, falar com a operadora e procurar o Procon. A linguagem é relativamente clara e direta, com frases simples na maior parte. Porém, não dá uma resposta mais objetiva ao 'sou obrigado a pagar?' e usa termos um pouco menos acessíveis para baixa escolaridade, como 'data efetiva', 'conteste formalmente' e 'políticas de cancelamento'.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da dúvida sobre a cobrança após o cancelamento da internet e se mantém no tema. É útil ao orientar verificar a data efetiva do cancelamento, comparar com o período da fatura, revisar o contrato, contatar a operadora e acionar o Procon. Cobre bem os pontos práticos do caso — cancelamento no mês passado e cobrança do mês inteiro atual — e mantém coerência lógica. Perde um pouco por não explicar com mais precisão situações comuns como cobrança proporcional até a data de corte ou eventuais prazos de aviso prévio.
+==============================
+
+
+=== PERGUNTA 72 ===
+MÉTRICA 1: Simplicidade
+Score: 0.9
+Justificativa: O texto responde diretamente à pergunta sobre a ameaça de bloquear bens em 24h, explicando de forma clara que empresa de cobrança não pode fazer isso e que só o Judiciário pode determinar bloqueio. Usa frases curtas, estrutura simples e traz orientação prática relevante ao caso do WhatsApp e da ameaça. Como ponto menor, menciona termos como "Poder Judiciário", "Código de Defesa do Consumidor" e "medidas cabíveis", que são um pouco mais técnicos para alguém com pouca escolaridade, embora o sentido geral continue fácil de entender.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9977022630089974
+Justificativa: A resposta trata diretamente da pergunta sobre a legalidade da ameaça por WhatsApp e mantém foco no tema de cobrança abusiva. É útil ao esclarecer corretamente que empresa de cobrança não pode bloquear bens em 24h e que isso só pode ocorrer por decisão judicial, com direito de defesa. Também cobre de forma prática os próximos passos relevantes para o caso, como registrar ocorrência e procurar advogado ou Procon, sem omissões importantes nem informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 73 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8851952801968311
+Justificativa: O output responde bem ao pedido do input, explicando de forma clara o que fazer após pagar a mensalidade em duplicidade: contatar o financeiro, apresentar comprovantes e pedir reembolso ou crédito. Usa frases em geral diretas e estrutura simples, com passos fáceis de seguir. Como ponto fraco, traz termos um pouco menos acessíveis para alguém com pouca escolaridade, como “departamento financeiro”, “tesouraria”, “reembolso”, “creditar” e “órgãos de defesa do consumidor”, o que reduz um pouco a simplicidade exigida pelos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9047425873177566
+Justificativa: A resposta trata diretamente do caso de pagamento duplicado da mensalidade da faculdade e mantém o foco em como recuperar o valor. É útil ao orientar procurar o financeiro/tesouraria, apresentar comprovantes e considerar as soluções mais práticas, como reembolso ou crédito na próxima mensalidade. Também cobre um passo adicional relevante ao mencionar o Procon se a instituição dificultar a resolução. Como limitação, poderia ser mais completa ao sugerir formalizar o pedido por escrito e pedir prazo de resposta, mas não há informações irrelevantes nem incoerências.
+==============================
+
+
+=== PERGUNTA 74 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7982013790037908
+Justificativa: O texto responde bem ao pedido do Input ao dizer que é possível solicitar o estorno da tarifa não informada e indicar passos práticos, como falar com o banco, procurar o Procon ou o Banco Central e revisar o contrato. A estrutura é clara e relativamente simples, com frases diretas. Porém, usa alguns termos mais técnicos, como 'devidamente informado', 'Código de Defesa do Consumidor', 'instituições financeiras', 'encargos aplicáveis' e 'cláusula', o que pode dificultar um pouco para uma pessoa com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre estorno de tarifa de manutenção não informada e se mantém no tema. É útil por orientar ações práticas, como contatar o banco, revisar o contrato e recorrer ao Procon ou Banco Central. Também cobre os pontos essenciais ao mencionar o dever de informação das instituições financeiras e a possibilidade de pedir estorno. Perde um pouco por não detalhar que o direito ao estorno pode depender das condições contratuais e da comprovação de falta de aviso, mas no geral é coerente e relevante.
+==============================
+
+
+=== PERGUNTA 75 ===
+MÉTRICA 1: Simplicidade
+Score: 0.890465053510089
+Justificativa: O texto responde diretamente à dúvida do Input ao dizer que não é necessário pagar por um serviço não contratado e orienta passos práticos, como contatar a empresa, pedir cancelamento, guardar protocolos e recorrer ao Procon ou Consumidor.gov.br. Usa frases curtas e estrutura simples na maior parte, com linguagem acessível para alguém com pouca escolaridade. Como ponto menor, traz termos um pouco menos simples, como “reembolso”, “registros indevidos” e a sugestão de consultar advogado, o que reduz levemente a simplicidade total.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8817574476193644
+Justificativa: A resposta trata diretamente da dúvida sobre precisar pagar uma cobrança indevida de antivírus antes de reclamar e mantém foco no tema. É útil ao orientar a contestar a cobrança, pedir cancelamento, guardar protocolos, recorrer ao Procon ou Consumidor.gov.br e monitorar o CPF. Cobre bem os pontos práticos do caso, embora pudesse ser ainda mais completa ao mencionar explicitamente que negativação por dívida não contratada é indevida e que o consumidor pode contestá-la formalmente sem pagamento prévio.
+==============================
+
+
+=== PERGUNTA 76 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8731058578630005
+Justificativa: O output responde diretamente à pergunta do input ao explicar que a garantia de fábrica normalmente não cobre mau uso ou acidente, como queda na água, e ainda traz a exceção relevante se o celular foi vendido como resistente à água. Usa frases claras, curtas na maior parte, e linguagem simples, sem jargão jurídico. Só perde um pouco porque inclui termos um pouco menos simples, como 'especificações prometidas' e 'reivindicar a garantia', mas ainda é fácil de entender por alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9904650535100892
+Justificativa: A resposta trata diretamente da pergunta sobre garantia de fábrica após dano por água e mantém foco no tema. Ela é útil e prática ao explicar que a garantia normalmente cobre apenas defeitos de fabricação, não mau uso ou acidente, e aplica isso ao caso concreto de um celular que caiu na água. Também cobre um ponto relevante do cenário ao mencionar a exceção de aparelhos anunciados como resistentes à água, além de orientar a verificar os termos da garantia e contatar o fabricante, sem incluir informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 77 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8817574476193644
+Justificativa: O texto responde diretamente à dúvida do Input sobre produto de mostruário, risco na porta e defeito no motor, deixando claro que a garantia não se perde por isso. Usa frases simples, curtas e linguagem fácil, sem jargão jurídico relevante, o que ajuda uma pessoa com pouca escolaridade a entender. Como ponto fraco, inclui a condição de a loja informar que não haveria garantia, o que pode gerar confusão e não é explicado com precisão, mas no geral atende bem ao que foi pedido.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8999999999999998
+Justificativa: A resposta trata diretamente da dúvida sobre garantia de produto de mostruário e responde de forma prática que defeito no motor continua coberto. Também diferencia o risco já existente na porta de defeito de fabricação e orienta que a informação sobre o estado do produto deveria ter sido comunicada na compra. Como limitação, afirma que a garantia poderia não existir se a loja informasse isso claramente, o que simplifica demais a proteção legal e pode ser juridicamente impreciso, mas no geral mantém foco, utilidade e coerência.
+==============================
+
+
+=== PERGUNTA 78 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7777299861174691
+Justificativa: O output responde corretamente ao caso da geladeira amassada e deixa claro que a loja não precisa oferecer só desconto, podendo haver troca, reembolso ou abatimento. As frases são em geral diretas e fáceis de seguir, com orientação prática para avisar a loja e guardar fotos. Porém, usa termos jurídicos e mais complexos como 'Código de Defesa do Consumidor', 'artigo 18', 'vício do produto', 'restituição imediata da quantia paga' e 'abatimento proporcional do preço', o que pode dificultar para uma pessoa com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da situação descrita no input — geladeira nova entregue amassada pela transportadora — e responde de forma prática à dúvida sobre troca versus desconto. Ela é útil ao indicar opções concretas previstas no CDC, como substituição, reembolso ou abatimento proporcional, deixando claro que a loja não pode impor apenas desconto. Também orienta a agir rapidamente e registrar provas com fotos. Como pequena limitação, atribui o caso apenas a 'vício do produto', sem diferenciar com precisão dano no transporte ou mencionar prazos e procedimentos específicos, mas ainda assim mantém boa cobertura, coerência e foco.
+==============================
+
+
+=== PERGUNTA 79 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7777299861174691
+Justificativa: O texto responde ao ponto central do input sobre o conserto passar de 30 dias e explica que, em regra, o prazo é de 30 dias, mencionando também a exceção se houve acordo prévio para prazo maior, o que é relevante para os 45 dias informados. A resposta é clara e relativamente fácil de entender, com frases em geral diretas. Como ponto fraco, usa termos mais técnicos como "Código de Defesa do Consumidor", "fornecedor", "restituição imediata da quantia paga" e "abatimento proporcional do preço", o que pode dificultar um pouco para alguém com pouca escolaridade. Ainda assim, no geral, mantém boa compreensão e atende ao pedido.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da dúvida sobre a assistência poder ultrapassar 30 dias e mantém foco no tema jurídico do conserto em garantia. Ela é útil ao citar a regra do CDC de 30 dias, explicar as alternativas do consumidor se o prazo não for cumprido e mencionar a exceção de acordo prévio para prazo maior, o que é relevante ao caso dos 45 dias e da peça importada. Como pequena limitação, poderia ter sido mais explícita ao dizer que a demora por peça vir de fora, por si só, não afasta a regra, mas no geral cobre bem o necessário sem irrelevâncias.
+==============================
+
+
+=== PERGUNTA 80 ===
+MÉTRICA 1: Simplicidade
+Score: 0.796267311265587
+Justificativa: O output responde ao pedido do input ao explicar o que é garantia estendida e quando pode ou não valer a pena, com exemplos como produtos caros versus itens baratos. A linguagem é clara e majoritariamente simples, com frases diretas e fáceis de seguir. Porém, usa alguns termos menos acessíveis para pouca escolaridade, como 'cobertura', 'defeitos de fabricação', 'danos acidentais', 'confiabilidade' e 'termos e condições', o que reduz um pouco a simplicidade exigida pelos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do tema da garantia estendida oferecida no caixa, explicando o que é e respondendo se vale a pena comprar. É útil porque apresenta critérios práticos ligados ao pedido, como custo da garantia versus preço do produto, confiabilidade do item, cobertura da garantia original e casos em que pode ser mais vantajosa, como produtos caros ou com histórico de problemas. Cobre bem os pontos centrais sem se desviar do assunto e mantém coerência lógica. Como pequena limitação, poderia mencionar com mais clareza que muitas vezes essas garantias têm exclusões e nem sempre superam direitos já previstos por garantia legal ou do fabricante.
+==============================
+
+
+=== PERGUNTA 81 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7970687769248643
+Justificativa: O output responde diretamente ao pedido do input ao explicar que o banco pode sim cancelar ou contestar a compra no cartão e orienta a procurar o banco rapidamente, reunir provas e informar que foi bloqueado pela loja no Instagram. A linguagem é clara e relativamente simples, com frases fáceis de entender para alguém com pouca escolaridade. O principal ponto negativo é o uso do termo em inglês 'chargeback', que é um jargão e poderia dificultar a compreensão, mesmo com uma breve explicação.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9148047198031689
+Justificativa: A resposta trata diretamente da pergunta sobre cancelamento de compra no cartão após bloqueio pela loja no Instagram e mantém foco no tema. Ela é útil ao orientar a contatar o banco/administradora rapidamente, explicar o problema, mencionar o processo de chargeback e reunir evidências como prints e comprovantes. Cobre bem os pontos práticos essenciais do caso, com coerência e sem informações irrelevantes. Perde apenas por não detalhar possíveis limitações específicas, como diferença entre compra já processada e mera tentativa de cancelamento, mas ainda responde de forma adequada e relevante.
+==============================
+
+
+=== PERGUNTA 82 ===
+MÉTRICA 1: Simplicidade
+Score: 0.798201379003791
+Justificativa: O output responde claramente à pergunta do input, dizendo que há direito de cancelamento e reembolso em até 7 dias para compra pela internet, o que atende ao tema do arrependimento em passagem aérea. Usa estrutura simples e frases em geral diretas, mas inclui termos mais técnicos como 'Código de Defesa do Consumidor', 'estabelecimento comercial' e 'direito de arrependimento', o que reduz um pouco a simplicidade. Ainda assim, a explicação é fácil de entender e provavelmente compreensível para alguém com pouca escolaridade, embora a ressalva sobre políticas da companhia aérea possa gerar alguma dúvida.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8058229823245208
+Justificativa: A resposta trata diretamente da pergunta sobre cancelamento de passagem comprada pela internet e é útil ao citar o direito de arrependimento em até 7 dias no contexto do CDC. Ela mantém foco no tema e oferece orientação prática ao mencionar o reembolso integral e a necessidade de seguir procedimentos da companhia aérea. Porém, simplifica um tema que pode ter nuances específicas para transporte aéreo e não esclarece possíveis limitações regulatórias, o que reduz a completude.
+==============================
+
+
+=== PERGUNTA 83 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7817574476193644
+Justificativa: O texto responde ao ponto principal do Input ao dizer que, no direito de arrependimento em compra pela internet, a empresa deve pagar o frete de devolução. A explicação é compreensível e relativamente direta, com orientação prática para avisar a empresa. Porém, usa termos mais jurídicos e formais como 'Código de Defesa do Consumidor', 'artigo 49', 'estabelecimento comercial' e 'reembolso integral', o que reduz a simplicidade pedida. Para alguém com pouca escolaridade, ainda é entendível, mas poderia ser mais curto e com linguagem mais simples.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9851952801968309
+Justificativa: A resposta trata diretamente do tema do Input: compra online no Brasil, produto com cor diferente da foto e uso do direito de arrependimento. Ela é útil ao informar o prazo de 7 dias, citar o artigo 49 do CDC e esclarecer de forma prática que a empresa deve pagar o frete de devolução e reembolsar integralmente. Também mantém boa coerência lógica e foco no pedido. Como pequena limitação, mistura direito de arrependimento com a ideia de falha na apresentação do produto, embora para o caso perguntado bastasse afirmar que, no arrependimento em compra pela internet, o custo da devolução é do fornecedor.
+==============================
+
+
+=== PERGUNTA 84 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8119202922022117
+Justificativa: O output responde corretamente ao caso do curso online e informa que, mesmo após baixar material e assistir aulas, ainda é possível pedir cancelamento e reembolso total nos primeiros 7 dias, o que atende ao pedido. A explicação é clara e organizada, com orientação útil sobre registrar o pedido por escrito. Porém, usa termos um pouco mais técnicos, como 'Código de Defesa do Consumidor', 'assinatura do contrato' e 'direito de arrependimento', o que reduz um pouco a simplicidade exigida para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.922270013882531
+Justificativa: A resposta trata diretamente da dúvida sobre cancelamento de curso online nos primeiros 7 dias e mantém foco no caso descrito, inclusive considerando que o usuário já baixou material e assistiu aulas. Ela é útil ao citar o direito de arrependimento em compras online no Brasil, indicar reembolso total e sugerir comunicação por escrito para registro. Cobre os pontos essenciais do input de forma completa, sem omissões relevantes nem informações desconectadas.
+==============================
+
+
+=== PERGUNTA 85 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8377540668798144
+Justificativa: O output responde bem ao pedido do input sobre comida entregue fria após duas horas, explicando de forma clara que a pessoa pode reclamar, buscar reembolso ou reenvio e procurar o Procon se necessário. Usa frases curtas e estrutura simples na maior parte, com orientação prática como falar com o suporte e tirar fotos. Como ponto fraco, traz termos um pouco menos simples, como “condições insatisfatórias”, “políticas de satisfação” e “órgãos de defesa do consumidor”, o que pode dificultar um pouco para alguém com pouca escolaridade, embora o sentido geral continue fácil de entender.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8952574126822433
+Justificativa: A resposta trata diretamente da dúvida sobre aceitar e pagar por um pedido que chegou com duas horas de atraso e totalmente frio, mantendo foco no problema do aplicativo de comida. É útil ao orientar ações práticas, como contatar o suporte, registrar fotos e recorrer ao Procon, além de mencionar reembolso ou reenvio. Cobre bem os pontos centrais do caso, embora use linguagem um pouco genérica ao dizer que a pessoa 'não deve ser obrigada a pagar', sem explicar com mais precisão possíveis variações conforme a política do app ou o estágio do pagamento.
+==============================
+
+
+=== PERGUNTA 86 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8119202922022117
+Justificativa: O output responde claramente à pergunta do input ao dizer que a operadora pode cortar ou reduzir a velocidade ao atingir o limite de dados mensal, e ainda explica quando isso acontece e cita a opção de pacote adicional. Usa linguagem em geral simples e compreensível, com frases relativamente diretas. Como ponto fraco, traz termos um pouco mais formais ou menos acessíveis para baixa escolaridade, como 'termos e condições do contrato', 'franquias de dados', 'interromper o serviço' e 'ciclo de faturamento', o que reduz a simplicidade ideal pedida nos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9562176500885797
+Justificativa: A resposta trata diretamente da pergunta sobre a operadora poder cortar ou reduzir a velocidade ao atingir o limite de dados mensal e se mantém totalmente no tema. É útil porque explica de forma prática que isso costuma depender dos termos do plano, menciona redução de velocidade, suspensão até o próximo ciclo e a possibilidade de comprar pacotes adicionais. Cobre os pontos essenciais do caso sem omissões relevantes nem excesso de detalhes, e é coerente ao orientar a verificar o contrato da operadora.
+==============================
+
+
+=== PERGUNTA 87 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6904650535100891
+Justificativa: O texto responde ao pedido ao explicar que a multa por fidelidade pode existir e que isso depende do contrato com a mesma operadora, o que é relevante para a dúvida sobre mudar para um plano mais barato. A linguagem é em geral clara e compreensível, com frases relativamente diretas. Porém, há trechos menos simples para alguém com pouca escolaridade, como "cláusulas", "penalidades", "regula o setor" e "órgão de defesa do consumidor". Também faltou uma resposta mais objetiva sobre se a cobrança procede nesse caso específico, ficando um pouco genérico.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7924141819978756
+Justificativa: A resposta trata diretamente da dúvida sobre trocar para um plano mais barato na mesma operadora e aborda a questão da multa por fidelidade, mantendo foco no tema. É útil ao orientar a verificar cláusulas contratuais e citar Anatel e Procon como caminhos práticos. Porém, fica um pouco genérica e não esclarece de forma mais objetiva se a simples migração interna de plano normalmente pode ou não ser considerada quebra de fidelidade, o que deixa faltar precisão sobre o caso específico apresentado.
+==============================
+
+
+=== PERGUNTA 88 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7377540668798146
+Justificativa: O output responde ao pedido do input ao explicar que não há desconto automático e que o consumidor deve pedir abatimento proporcional pelos 3 dias sem internet, além de indicar Anatel e Procon se a operadora não resolver. A estrutura é clara e relativamente simples, com frases diretas. Porém, usa alguns termos menos acessíveis para pessoas com pouca escolaridade, como 'legislação brasileira', 'telecomunicações', 'abatimento proporcional' e 'prestação do serviço', o que reduz um pouco a facilidade de entendimento.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da dúvida sobre os três dias sem internet e esclarece o ponto central: não há obrigação de desconto automático, mas existe direito a abatimento proporcional por falha no serviço. É útil e prática ao orientar a registrar reclamação com a operadora e, se necessário, recorrer à Anatel ou ao Procon. Cobre bem o essencial do caso, embora pudesse ser ainda mais completa ao mencionar com mais precisão a base regulatória ou explicar melhor como o cálculo proporcional se aplica ao período sem sinal.
+==============================
+
+
+=== PERGUNTA 89 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8
+Justificativa: O output responde ao problema da cobrança indevida após cancelamento há três meses e traz passos práticos, como falar com o atendimento, pedir estorno e reclamar no Procon. A linguagem é clara e em geral simples, com frases relativamente diretas. Porém, usa alguns termos menos acessíveis para quem tem pouca escolaridade, como “estorno”, “plataformas” e “assistência jurídica”, além de citar “Reclame Aqui” e “protocolo” sem explicar muito. Ainda assim, no geral é fácil de entender e alinhado ao pedido.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da cobrança indevida após cancelamento solicitado há três meses e mantém foco no problema do usuário. É útil ao orientar passos práticos, como contatar o atendimento, reunir protocolo, pedir estorno e escalar para Procon, Reclame Aqui e assistência jurídica. Cobre bem os pontos essenciais do caso, embora pudesse incluir com mais clareza a recomendação de reunir comprovantes da solicitação anterior e registrar novo pedido por escrito para fortalecer a contestação.
+==============================
+
+
+=== PERGUNTA 90 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7022810924257102
+Justificativa: O conteúdo responde ao pedido do Input ao dizer que a empresa pode negativar se a cobrança da multa for válida e prevista em contrato, e também informa que a multa abusiva pode ser contestada. A explicação é em geral clara e organizada, com frases relativamente diretas. Porém, usa termos mais complexos para alguém com pouca escolaridade, como 'negativar', 'dívida pendente', 'cobrança considerada válida', 'ingressar com uma ação judicial' e 'abusividade da cláusula de fidelidade'. Isso reduz a simplicidade exigida nos passos de avaliação, embora a orientação prática de procurar a empresa, o Procon ou a Justiça seja útil.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8
+Justificativa: A resposta trata diretamente da pergunta sobre negativação no Serasa por recusa em pagar multa de fidelidade e mantém foco no tema. É útil ao explicar que a negativação pode ocorrer se a cobrança for válida e ao sugerir caminhos práticos como contestação com a empresa, Procon e ação judicial. Porém, cobre o caso de forma apenas parcial, porque não esclarece melhor o ponto central do input: quando a multa é abusiva, a negativação pode ser indevida, nem diferencia claramente dívida controvertida de cobrança legítima. Ainda assim, o conteúdo é coerente e sem desvios relevantes.
+==============================
+
+
+=== PERGUNTA 91 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8119202922022117
+Justificativa: O texto responde diretamente à pergunta sobre corte de luz na sexta-feira à tarde ou no fim de semana por falta de pagamento, informando que em geral não pode ocorrer no fim de semana e que deve ser em dia útil e horário comercial. A linguagem é relativamente clara e com frases simples, o que ajuda alguém com pouca escolaridade. Porém, usa termos mais técnicos como “legislação brasileira”, “resoluções da ANEEL” e “regularizar a situação”, e não esclarece de forma totalmente direta o caso específico da sexta-feira à tarde.
+
+
+MÉTRICA 2: Relevância
+Score: 0.8970687769248645
+Justificativa: A resposta trata diretamente da dúvida sobre corte de energia na sexta-feira à tarde e no fim de semana por falta de pagamento, mantendo foco no tema. É útil ao explicar que, em geral, o corte não pode ocorrer em fim de semana ou feriado e que deve ocorrer em dias úteis e horário comercial, além de mencionar aviso prévio de 15 dias. Como limitação, não esclarece de forma totalmente precisa a situação específica da sexta-feira à tarde, que pode ainda ser dia útil dependendo do horário, e faz uma ressalva genérica sobre variações regionais sem detalhar melhor.
+==============================
+
+
+=== PERGUNTA 92 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8962673112655869
+Justificativa: O texto responde diretamente à dúvida do Input: orienta que a pessoa deve buscar a segunda via agora e que esperar até o mês seguinte pode gerar juros, o que atende ao pedido de forma clara. Usa frases curtas, estrutura simples e vocabulário acessível, com exemplos práticos como site da companhia e atendimento ao cliente. Como ponto menor, traz a ideia de que a responsabilidade é do consumidor, o que soa um pouco mais formal, mas ainda sem jargão jurídico e compreensível para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9970687769248645
+Justificativa: A resposta trata diretamente da dúvida sobre não ter recebido a fatura de água e esclarece o ponto central do Input: não é recomendável esperar o mês seguinte sem juros. É útil e prática ao orientar a buscar a segunda via pelo site da companhia ou pelo atendimento ao cliente. Também cobre os elementos essenciais do caso, ao explicar que a obrigação de pagar permanece mesmo sem o recebimento da conta e que a espera pode gerar juros ou multas, sem incluir informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 93 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8939913349825993
+Justificativa: O output responde diretamente ao pedido sobre desconto por vazamento invisível e explica, de forma clara, que muitas concessionárias podem revisar a conta de água de 2 mil reais nesses casos. Usa frases simples e orientação prática, como entrar em contato rápido e apresentar prova do conserto. Há leve uso de termos menos simples, como 'concessionária', 'políticas' e 'não intencional', mas no geral evita jargão jurídico e seria compreensível para uma pessoa com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre desconto por vazamento oculto em cano subterrâneo e mantém foco no tema da concessionária. É útil ao orientar a entrar em contato rapidamente, pedir revisão da conta e reunir comprovantes do conserto, o que atende de forma prática ao caso da conta de 2 mil reais. Também cobre bem os pontos essenciais ao explicar que isso depende das regras de cada concessionária e que pode ser necessário provar que o vazamento foi oculto e não intencional. Perde um pouco por não detalhar possíveis critérios, prazos ou caminhos de recurso, mas continua coerente e relevante.
+==============================
+
+
+=== PERGUNTA 94 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8985936372956752
+Justificativa: O texto responde diretamente ao caso do novo inquilino com dívida de luz deixada pelo antigo morador e explica que a empresa não pode negar a ligação em nome dele. Usa frases claras, curtas e em ordem lógica, com orientação prática como apresentar contrato de locação e procurar o Procon. Como ponto fraco, inclui termos um pouco menos simples, como 'titular do contrato de fornecimento' e 'responsabilidade pelas dívidas de consumo', o que pode dificultar levemente para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9939913349825991
+Justificativa: A resposta trata diretamente da pergunta sobre recusa de ligação de energia por dívida do antigo inquilino e mantém foco total no tema. É útil e prática ao explicar que a dívida é do titular anterior, não do imóvel, e ao orientar apresentar contrato de locação para comprovar ser novo inquilino. Também cobre bem os passos seguintes, mencionando Procon ou advogado caso a companhia insista, sem omissões relevantes nem informações fora do pedido.
+==============================
+
+
+=== PERGUNTA 95 ===
+MÉTRICA 1: Simplicidade
+Score: 0.715393643721931
+Justificativa: O output responde ao tema ao dizer que não é imediato e menciona aviso prévio, trazendo a referência de 15 dias após o vencimento, o que ajuda a responder à pergunta sobre atraso no pagamento. A linguagem é relativamente clara e organizada, mas não responde de forma totalmente direta ao pedido de 'quantos dias exatos', porque usa 'geralmente' e fala em variações locais. Também usa termos mais técnicos como 'legislação', 'ANEEL', 'agências reguladoras' e 'consumidor', o que reduz a simplicidade para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7939913349825992
+Justificativa: A resposta trata diretamente do tema do corte de água e energia por atraso e é útil ao explicar que não ocorre imediatamente, citando aviso prévio e menção a ANEEL e regras locais. Porém, o pedido era por 'quantos dias exatos', e o texto responde de forma imprecisa com 'geralmente com antecedência mínima de 15 dias após o vencimento', sem deixar claro se esse é o prazo exato para energia, água ou ambos, nem distinguir possíveis diferenças regulatórias relevantes.
+==============================
+
+
+=== PERGUNTA 96 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8
+Justificativa: O output responde corretamente à pergunta sobre cirurgia de emergência e carência de 180 dias, explicando que, após 24 horas da contratação, urgência e emergência devem ser cobertas. A resposta é clara e relativamente fácil de entender, com frases em geral diretas. Porém, usa alguns termos mais técnicos, como 'legislação brasileira', 'Lei nº 9.656/98', 'orientação jurídica' e 'Agência Nacional de Saúde Suplementar (ANS)', o que reduz a simplicidade. Ainda assim, uma pessoa com pouca escolaridade provavelmente entenderia a mensagem principal, embora uma linguagem mais simples e menos formal melhorasse a acessibilidade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9952574126822433
+Justificativa: A resposta trata diretamente da pergunta sobre recusa de cobertura durante carência de 180 dias e mantém foco em cirurgia de emergência. Ela é útil ao explicar a regra prática da Lei 9.656/98: urgência e emergência devem ser cobertas após 24 horas da contratação, deixando claro que a negativa com base na carência não se aplica nesse caso. Cobre os pontos essenciais do pedido sem omissões relevantes e ainda orienta procurar a ANS ou apoio jurídico, de forma coerente e sem detalhes irrelevantes.
+==============================
+
+
+=== PERGUNTA 97 ===
+MÉTRICA 1: Simplicidade
+Score: 0.790465053510089
+Justificativa: O output responde ao pedido de forma clara: informa que não há teto fixado pelo governo para escolas privadas, explica que o reajuste deve ser justificado por custos e orienta procurar o Procon se houver abuso. As frases são em geral diretas e a estrutura é simples, o que ajuda na compreensão. Como ponto fraco, usa termos um pouco mais técnicos, como 'instituições privadas', 'autonomia', 'planilhas de custos' e 'período de matrícula', e a menção a advogado pode dificultar um pouco para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta sobre teto de reajuste anual de mensalidade escolar e mantém foco no contexto do Brasil. É útil ao esclarecer que escolas privadas não têm teto fixado pelo governo, que o aumento deve ser justificado por planilhas de custos e que o responsável pode recorrer ao Procon ou advogado se considerar os 20% abusivos. Cobre os pontos principais de forma prática e coerente, embora pudesse ser ainda mais completa ao citar a base legal aplicável e detalhar melhor a regra de antecedência da comunicação.
+==============================
+
+
+=== PERGUNTA 98 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7952574126822433
+Justificativa: O output responde diretamente à dúvida sobre multa rescisória em academia, dizendo que 30% ou 50% podem ser abusivos e orientando a verificar o contrato e buscar o Procon. A linguagem é relativamente clara e organizada, com frases simples na maior parte. Porém, usa alguns termos jurídicos e mais técnicos, como 'rescisória', 'proporcional', 'abusiva' e referência ao 'Código de Defesa do Consumidor', o que pode dificultar um pouco para alguém com pouca escolaridade. Ainda assim, no geral é fácil de entender e alinhado ao pedido do caso sobre cancelamento no terceiro mês de um contrato anual.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7440863366280807
+Justificativa: A resposta trata diretamente da dúvida sobre multa rescisória em contrato anual de academia e é útil ao indicar que a cobrança deve ser proporcional, sugerindo verificar o contrato e procurar Procon ou advogado. Porém, peca na completude e precisão ao afirmar de forma genérica que a multa 'geralmente' não deve ultrapassar 10% do valor restante, sem fundamentar bem esse limite nem explicar que a análise depende das cláusulas contratuais e do caso concreto, o que enfraquece a coerência jurídica da orientação sobre os 30% ou 50% cobrados no terceiro mês.
+==============================
+
+
+=== PERGUNTA 99 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6977022630089975
+Justificativa: O texto responde corretamente à pergunta sobre atraso de 10 dias e deixa claro que isso não permite o cancelamento, o que atende bem ao conteúdo pedido no Input. Também usa uma estrutura relativamente direta. Porém, traz termos e referências mais jurídicas, como menção à Lei nº 9.656/1998, 'cancelamento unilateral', 'inadimplência superior a 60 dias' e 'consumidor seja notificado até o 50º dia', o que pode dificultar o entendimento para uma pessoa com pouca escolaridade. A recomendação de procurar 'um advogado especializado em direito do consumidor' também aumenta a complexidade da linguagem.
+
+
+MÉTRICA 2: Relevância
+Score: 1.0
+Justificativa: A resposta trata diretamente da pergunta sobre cancelamento do plano por atraso de 10 dias e mantém total foco no tema. É útil porque explica de forma prática a regra aplicável da Lei nº 9.656/1998, incluindo os critérios relevantes do caso: inadimplência superior a 60 dias nos últimos 12 meses e necessidade de notificação até o 50º dia. Também conclui corretamente que 10 dias de atraso não justificam cancelamento e oferece orientação prática adicional, sem omissões importantes nem informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 100 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7047425873177567
+Justificativa: O conteúdo responde corretamente ao que foi perguntado no input, deixando claro que a faculdade não pode impedir provas finais nem reter diploma ou histórico por duas mensalidades atrasadas, e ainda explica que pode cobrar a dívida. Porém, apesar de estar bem organizado e relativamente fácil de entender, usa termos mais técnicos como 'Código de Defesa do Consumidor', 'Lei de Diretrizes e Bases da Educação Nacional', 'cadastros de inadimplentes' e 'cobrança judicial', o que reduz a simplicidade. Para uma pessoa com pouca escolaridade, a ideia principal é compreensível, mas a linguagem poderia ser mais simples e direta.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9880797077977881
+Justificativa: A resposta trata diretamente da pergunta sobre inadimplência com duas mensalidades atrasadas e responde com clareza que a faculdade não pode impedir provas finais nem reter diploma ou histórico. É útil por explicar o que a instituição pode fazer em vez disso, como cobrança judicial ou inclusão em cadastros de inadimplentes, e ainda sugere negociação prática. Cobre os pontos centrais do input sem omissões relevantes, mantém coerência lógica e não traz informações desconectadas do tema.
+==============================
+
+
+=== PERGUNTA 101 ===
+MÉTRICA 1: Simplicidade
+Score: 0.48007154946628444
+Justificativa: O output responde ao tema do anúncio com estoque promocional esgotado e cita pontos relevantes, como a necessidade de informar limitação de quantidade e a possibilidade de reclamar no Procon. Porém, não responde de forma direta à pergunta principal sobre se o mercado é obrigado a oferecer outra TV pelo mesmo preço, usando condicionais amplas. Também traz termos mais técnicos, como 'publicidade enganosa', 'demanda esperada', 'Código de Defesa do Consumidor' e 'prática abusiva', além de frases longas, o que dificulta o entendimento para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.809534946489911
+Justificativa: A resposta trata diretamente do caso do anúncio de TV com estoque promocional esgotado e mantém foco na obrigação do mercado em cumprir a oferta. É útil ao explicar a diferença entre oferta sem aviso de limitação de estoque e promoção com quantidade limitada claramente informada, além de mencionar medida prática como reclamar ao Procon. Cobre bem os pontos centrais do Input, especialmente no contexto do Brasil citado no próprio texto, mas não dá uma conclusão mais objetiva sobre quando o consumidor pode exigir outra TV pelo mesmo preço, ficando um pouco condicionada e genérica.
+==============================
+
+
+=== PERGUNTA 102 ===
+MÉTRICA 1: Simplicidade
+Score: 0.21192029220221173
+Justificativa: O texto responde ao tema e é compreensível em parte, mas falha no conteúdo principal: afirma que a consumação mínima obrigatória é permitida, quando a avaliação pede checar se a resposta atende corretamente à pergunta sobre essa cobrança. Além disso, usa construções mais longas e termos como 'condição abusiva', 'Código de Defesa do Consumidor' e 'relações de consumo', que deixam a explicação menos simples para uma pessoa com pouca escolaridade. Há alguma clareza e organização, mas não atende bem aos critérios de linguagem curta, direta e fácil.
+
+
+MÉTRICA 2: Relevância
+Score: 0.19820137900379087
+Justificativa: A resposta trata diretamente do tema da cobrança de consumação mínima e mantém foco no contexto de bares, baladas e restaurantes, além de mencionar transparência ao consumidor. Porém, sua utilidade é baixa porque afirma que a prática é permitida, o que contraria o entendimento jurídico e consumerista geralmente aplicado no Brasil, em que a consumação mínima obrigatória é considerada abusiva. Assim, embora seja coerente internamente e sem detalhes irrelevantes, falha no ponto central do pedido e compromete a completude e correção da orientação prática.
+==============================
+
+
+=== PERGUNTA 103 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6096489834839675
+Justificativa: O texto responde ao pedido ao dizer que impedir a entrada com lanche de fora pode ser abusivo e menciona caminhos práticos como Procon, o que atende ao caso do cinema e da praça de alimentação. Porém, não é tão fácil para alguém com pouca escolaridade porque usa jargões e referências jurídicas como 'Código de Defesa do Consumidor', 'cláusulas contratuais', 'boa-fé', 'venda casada' e 'interpretação dos tribunais locais'. As frases são relativamente longas e menos diretas do que o ideal pedido nos critérios.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9000000000000001
+Justificativa: A resposta trata diretamente do caso do cinema barrando a entrada com lanche comprado fora e explica, de forma útil, que a exigência pode configurar prática abusiva e venda casada à luz do CDC. Também traz orientação prática relevante ao mencionar Procon e busca de orientação jurídica. Como limitação, poderia ser mais objetiva ao responder se o cinema pode ou não obrigar a compra na lanchonete própria e esclarecer melhor o peso real das 'normas internas' diante do direito do consumidor.
+==============================
+
+
+=== PERGUNTA 104 ===
+MÉTRICA 1: Simplicidade
+Score: 0.9047425873177568
+Justificativa: O texto responde corretamente ao caso do cartaz sobre peças em promoção e liquidação, explicando que a loja não pode negar troca de produto com defeito, mas pode recusar troca por tamanho ou cor se não assumiu esse compromisso. A resposta é fácil de entender, com frases diretas e estrutura simples, e evita jargão jurídico pesado, embora mencione o 'Código de Defesa do Consumidor (CDC)'. Para uma pessoa com pouca escolaridade, o conteúdo tende a ser compreensível, mas poderia ser ainda mais simples ao trocar termos como 'validade legal' e 'independentemente'.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9999999999999998
+Justificativa: A resposta trata diretamente da validade do cartaz à luz do Código de Defesa do Consumidor, mantendo foco no tema perguntado. Ela é útil e prática ao distinguir corretamente entre produto com defeito, cuja troca não pode ser negada mesmo em promoção ou liquidação, e troca por gosto, tamanho ou cor, que não é obrigatória sem política da loja. Cobre os pontos essenciais do caso sem omissões relevantes, concluindo de forma coerente que o aviso só pode valer para situações sem defeito.
+==============================
+
+
+=== PERGUNTA 105 ===
+MÉTRICA 1: Simplicidade
+Score: 0.8924141819978756
+Justificativa: O output responde diretamente ao pedido do input ao dizer que a taxa de 10% no restaurante não é obrigatória por lei e que o cliente pode decidir pagar ou não. Usa frases curtas, linguagem simples e estrutura clara, adequada para alguém com pouca escolaridade. Como ponto fraco, traz uma referência ao Código de Defesa do Consumidor, que adiciona um termo mais técnico do que o necessário, embora a explicação continue fácil de entender.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9970687769248643
+Justificativa: A resposta trata diretamente da pergunta sobre a taxa de 10% no restaurante e mantém foco no contexto do Brasil. É útil e prática ao explicar que a cobrança não é obrigatória por lei, que tem natureza de gorjeta voluntária e que o consumidor deve ser informado previamente, além de orientar que o cliente pode recusar ou ajustar o valor e comunicar isso ao estabelecimento. Cobre os pontos essenciais do pedido sem omissões relevantes nem informações desconectadas.
+==============================
+
+
+=== PERGUNTA 106 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6320821300824606
+Justificativa: O texto responde corretamente à pergunta do Input ao explicar quem é considerado fornecedor pelo CDC e cita atividades como produção, importação, distribuição e prestação de serviços. Porém, não segue bem os critérios de simplicidade: usa frase longa, estrutura mais formal e termos difíceis para alguém com pouca escolaridade, como 'entes despersonalizados', 'prestação de serviços' e 'sujeita às normas e obrigações'. Isso reduz a clareza para o público indicado nos passos de avaliação.
+
+
+MÉTRICA 2: Relevância
+Score: 1.0
+Justificativa: A resposta trata diretamente da pergunta sobre quem é considerado 'fornecedor' no CDC e mantém total foco no tema. Ela é útil porque traz a definição legal do artigo 3º e explica, de forma prática, que pessoa física, jurídica, ente público, privado, nacional, estrangeiro e até entes despersonalizados podem ser enquadrados, desde que atuem na produção, importação, distribuição, comercialização de produtos ou prestação de serviços. Cobre os pontos essenciais do Input sem omissões relevantes, com redação clara, completa e coerente, sem incluir informações irrelevantes.
+==============================
+
+
+=== PERGUNTA 107 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6075858180021244
+Justificativa: O output responde ao ponto central do input ao dizer que, para um pequeno negócio que compra um computador para administrar a loja, a pessoa pode não ser considerada consumidora final e o CDC pode não se aplicar da mesma forma. Porém, a explicação não é tão simples quanto o pedido sugere: usa termos como 'destinatários finais', 'atividade econômica' e 'fins comerciais', que soam mais técnicos. As frases são relativamente longas e menos diretas, o que pode dificultar o entendimento por alguém com pouca escolaridade, embora a ideia geral ainda fique compreensível.
+
+
+MÉTRICA 2: Relevância
+Score: 0.7985936372956755
+Justificativa: A resposta trata diretamente da pergunta sobre um pequeno negócio comprar um computador para administração da loja e discute corretamente o critério de destinatário final no CDC. É útil ao explicar que, por ser usado na atividade econômica, o comprador pode não ser considerado consumidor final e a proteção do CDC pode não se aplicar da mesma forma. Porém, fica um pouco genérica ao dizer apenas que 'pode' não ser consumidor, sem esclarecer melhor nuances importantes do caso de pequeno negócio e sem indicar critérios práticos adicionais, o que reduz a completude.
+==============================
+
+
+=== PERGUNTA 108 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6984156253342676
+Justificativa: O texto responde corretamente ao pedido do Input ao explicar que o CDC não se aplica diretamente ao SUS nem a serviços públicos totalmente gratuitos e cita alternativa de reparação por outras vias legais. Porém, embora esteja claro, usa termos mais técnicos como 'relação contratual', 'relação administrativa', 'responsabilidade civil ou administrativa' e 'ações judiciais', o que reduz a simplicidade. As frases são relativamente diretas, mas um pouco longas e menos acessíveis para alguém com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9962673112655871
+Justificativa: A resposta trata diretamente da pergunta sobre a aplicação do CDC a hospitais do SUS e serviços públicos totalmente gratuitos, mantendo foco no tema. É útil porque explica de forma prática que o CDC regula relações de consumo com pagamento, enquanto o SUS configura relação administrativa sem custo direto ao usuário. Também cobre o ponto essencial do caso ao indicar alternativas jurídicas em caso de falha ou negligência, sem omissões relevantes nem informações desconectadas.
+==============================
+
+
+=== PERGUNTA 109 ===
+MÉTRICA 1: Simplicidade
+Score: 0.6377540668798145
+Justificativa: O texto responde ao pedido do Input ao explicar o significado da inversão do ônus da prova e dar uma noção de como funciona na prática, mencionando que a empresa pode ter de provar que não falhou e que o juiz decide conforme o caso. Porém, usa vários termos jurídicos e mais difíceis, como 'mecanismo jurídico', 'hipossuficiente', 'verossímeis' e 'alegações', o que contraria a orientação de usar linguagem simples. Apesar de estar relativamente organizado e compreensível, não é o mais adequado para uma pessoa com pouca escolaridade.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente do tema pedido, explicando o significado da inversão do ônus da prova e como ela funciona na prática ao processar uma empresa. É útil ao mencionar a regra geral de quem alega deve provar, as hipóteses comuns no contexto do consumidor (hipossuficiência e verossimilhança) e o papel do juiz na decisão. Cobre bem os pontos centrais do Input, com boa coerência e foco, embora pudesse ser um pouco mais prática com um exemplo concreto ou indicar que isso é especialmente ligado ao CDC.
+==============================
+
+
+=== PERGUNTA 110 ===
+MÉTRICA 1: Simplicidade
+Score: 0.7090205879956739
+Justificativa: O texto responde bem ao pedido do Input, explicando a diferença entre PROCON, Consumidor.gov e Juizado Especial Cível de forma organizada e compreensível. Usa frases relativamente diretas e cobre pontos úteis, como mediação, reclamação online e ação judicial, além dos limites de 40 e 20 salários mínimos. Porém, ainda traz termos mais formais ou complexos para o público com pouca escolaridade, como 'órgão administrativo', 'instância do Poder Judiciário', 'ingressar com ações judiciais' e 'particularidades', o que reduz a simplicidade esperada nos passos de avaliação.
+
+
+MÉTRICA 2: Relevância
+Score: 0.9
+Justificativa: A resposta trata diretamente da pergunta ao comparar PROCON, Consumidor.gov e Juizado Especial Cível, mantendo foco total no tema. É útil porque explica a função prática de cada canal: mediação administrativa no PROCON, reclamação online com prazo de resposta no Consumidor.gov e ação judicial no JEC, incluindo limites de valor e quando advogado é dispensado. Cobre os pontos centrais do input de forma clara e coerente, mas poderia aprofundar um pouco mais diferenças práticas como força de decisão, custos e quando escolher cada opção.
+==============================

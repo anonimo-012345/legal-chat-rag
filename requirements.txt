@@ -1,0 +1,46 @@
+# --- Gerenciamento de Ambiente e Configuração ---
+python-dotenv>=1.0.0    # Carrega variáveis de ambiente de arquivos .env (essencial para ocultar chaves)
+
+# --- Processamento de Documentos e Textos ---
+pymupdf>=1.23.0         # Importado como 'fitz', usado para ler, extrair textos e manipular arquivos PDF
+requests>=2.31.0        # Realiza requisições HTTP auxiliares (usado em alguns scripts de pipeline)
+
+# --- LangChain e Ecossistema de Vetores/RAG ---
+langchain-core>=0.1.0   # Classes base do LangChain (mensagens, documentos e prompts)
+langchain-community>=0.0.10 # Coleção de loaders para leitura de diretórios e arquivos de texto
+langchain-text-splitters>=0.0.1 # Ferramentas para fragmentação de textos (chunking)
+langchain-openai>=0.0.5 # Integração oficial de modelos de linguagem e embeddings da OpenAI
+langchain-chroma>=0.1.0 # Integração do ChromaDB com o LangChain para busca vetorial
+chromadb>=0.4.0         # Banco de dados vetorial local para o pipeline de RAG
+
+# --- Provedores de Inteligência Artificial diretos ---
+openai>=1.0.0           # SDK oficial da OpenAI para chamadas diretas de API
+ollama>=0.1.0           # SDK para rodar e testar LLMs localmente via Ollama
+google-genai>=0.1.0     # SDK oficial moderno do Google para integração com modelos Gemini
+
+# --- Framework de Avaliação de LLMs ---
+deepeval>=0.21.0        # Framework de testes e métricas (GEval, LLMTestCase) para validação da pesquisa
+
+# --- Ferramentas de Desenvolvimento do web_prototype ---
+
+fastapi
+uvicorn[standard]
+python-dotenv
+jinja2
+python-multipart
+
+# Autenticação
+python-jose[cryptography]
+bcrypt
+
+# Banco de dados
+sqlalchemy
+
+# RAG / LangChain (mesmas dependências dos seus scripts originais)
+langchain-chroma
+langchain-openai
+langchain-community
+langchain-core
+langchain-text-splitters
+chromadb
+PyMuPDF

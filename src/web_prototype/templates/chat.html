@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assistente Jurídico</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-wrapper">
+        <header class="chat-header">
+            <h1>⚖️ Assistente Jurídico</h1>
+            <div class="user-info">
+                <span>{{ username }}</span>
+                <button class="icon-btn" id="clear-btn">Limpar histórico</button>
+                <button class="icon-btn" id="logout-btn">Sair</button>
+            </div>
+        </header>
+
+        <main class="chat-messages" id="chat-messages">
+            <p class="empty-state" id="empty-state">Faça sua primeira pergunta jurídica abaixo.</p>
+        </main>
+
+        <div class="chat-input-area">
+            <form class="chat-input-form" id="chat-form">
+                <textarea
+                    id="question-input"
+                    placeholder="Digite sua pergunta..."
+                    rows="1"
+                    required
+                ></textarea>
+                <button type="submit" id="send-btn">Enviar</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        const messagesEl = document.getElementById("chat-messages");
+        const emptyState = document.getElementById("empty-state");
+        const form = document.getElementById("chat-form");
+        const input = document.getElementById("question-input");
+        const sendBtn = document.getElementById("send-btn");
+        const logoutBtn = document.getElementById("logout-btn");
+        const clearBtn = document.getElementById("clear-btn");
+
+        function addBubble(role, content) {
+            if (emptyState) emptyState.remove();
+            const bubble = document.createElement("div");
+            bubble.className = `bubble ${role}`;
+            bubble.textContent = content;
+            messagesEl.appendChild(bubble);
+            messagesEl.scrollTop = messagesEl.scrollHeight;
+            return bubble;
+        }
+
+        async function loadHistory() {
+            try {
+                const res = await fetch("/api/chat/history");
+                if (!res.ok) return;
+                const history = await res.json();
+                if (history.length === 0) return;
+                if (emptyState) emptyState.remove();
+                history.forEach((m) => addBubble(m.role, m.content));
+            } catch (err) {
+                console.error("Erro ao carregar histórico:", err);
+            }
+        }
+
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const question = input.value.trim();
+            if (!question) return;
+
+            addBubble("human", question);
+            input.value = "";
+            input.style.height = "auto";
+            sendBtn.disabled = true;
+
+            const typingBubble = addBubble("ai typing", "Pensando...");
+
+            try {
+                const res = await fetch("/api/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ question }),
+                });
+
+                if (!res.ok) {
+                    const data = await res.json();
+                    throw new Error(data.detail || "Erro ao processar a pergunta");
+                }
+
+                const data = await res.json();
+                typingBubble.classList.remove("typing");
+                typingBubble.textContent = data.answer;
+            } catch (err) {
+                typingBubble.classList.remove("typing");
+                typingBubble.textContent = `Erro: ${err.message}`;
+            } finally {
+                sendBtn.disabled = false;
+                messagesEl.scrollTop = messagesEl.scrollHeight;
+            }
+        });
+
+        // Auto-resize do textarea
+        input.addEventListener("input", () => {
+            input.style.height = "auto";
+            input.style.height = Math.min(input.scrollHeight, 120) + "px";
+        });
+
+        // Enter envia, Shift+Enter quebra linha
+        input.addEventListener("keydown", (e) => {
+            if (e.key === "Enter" && !e.shiftKey) {
+                e.preventDefault();
+                form.requestSubmit();
+            }
+        });
+
+        logoutBtn.addEventListener("click", async () => {
+            await fetch("/api/logout", { method: "POST" });
+            window.location.href = "/login";
+        });
+
+        clearBtn.addEventListener("click", async () => {
+            if (!confirm("Tem certeza que deseja apagar todo o histórico?")) return;
+            await fetch("/api/chat/history", { method: "DELETE" });
+            messagesEl.innerHTML = "";
+            const p = document.createElement("p");
+            p.className = "empty-state";
+            p.textContent = "Faça sua primeira pergunta jurídica abaixo.";
+            messagesEl.appendChild(p);
+        });
+
+        loadHistory();
+    </script>
+</body>
+</html>

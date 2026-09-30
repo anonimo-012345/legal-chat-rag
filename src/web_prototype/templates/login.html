@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrar — Assistente Jurídico</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="auth-wrapper">
+        <div class="auth-card">
+            <h1>Bem-vindo de volta</h1>
+            <p class="subtitle">Entre para continuar sua conversa</p>
+
+            <form id="login-form">
+                <div class="field">
+                    <label for="username">Usuário</label>
+                    <input type="text" id="username" name="username" autocomplete="username" required>
+                </div>
+                <div class="field">
+                    <label for="password">Senha</label>
+                    <input type="password" id="password" name="password" autocomplete="current-password" required>
+                </div>
+                <button type="submit" class="btn" id="submit-btn">Entrar</button>
+                <p class="error-msg" id="error-msg"></p>
+            </form>
+
+            <p class="switch-link">Não tem conta? <a href="/register">Cadastre-se</a></p>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById("login-form");
+        const errorMsg = document.getElementById("error-msg");
+        const submitBtn = document.getElementById("submit-btn");
+
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            errorMsg.textContent = "";
+            submitBtn.disabled = true;
+            submitBtn.textContent = "Entrando...";
+
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+
+            try {
+                const res = await fetch("/api/login", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ username, password }),
+                });
+
+                if (!res.ok) {
+                    const data = await res.json();
+                    throw new Error(data.detail || "Erro ao entrar");
+                }
+
+                window.location.href = "/chat";
+            } catch (err) {
+                errorMsg.textContent = err.message;
+                submitBtn.disabled = false;
+                submitBtn.textContent = "Entrar";
+            }
+        });
+    </script>
+</body>
+</html>

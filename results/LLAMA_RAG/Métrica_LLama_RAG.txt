@@ -1,0 +1,2088 @@
+﻿[1] PERGUNTA: Estabelecimentos podem cobrar valores diferentes para cartão de crédito e dinheiro?
+► FIDELIDADE
+  Score : 0.022572837922010265
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about pricing differences for credit card and cash payments, nor does it mention any laws related to fraudulent credit card use. The response introduces external information not supported by the context.
+
+
+► SIMPLICIDADE
+  Score : 0.4310032883118258
+  Motivo: The Actual Output partially aligns with the evaluation steps. It uses simple language and avoids complex legal jargon, which is good for clarity. However, it fails to maintain the simplicity and directness of the Input. The sentences are longer and introduce additional information about fraud, which is not directly related to the question, reducing accessibility for the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.22286514405316477
+  Motivo: The response incorrectly states that establishments cannot charge different prices based on payment method, which is not aligned with the actual legal context. It also introduces irrelevant information about fraudulent credit card use, which does not address the question about pricing differences between credit card and cash payments. The response lacks completeness and logical coherence with the input question.
+
+
+--------------------------------------------------------------------------------
+
+
+[2] PERGUNTA: Após receber um produto novo através da garantia, como fica a garantia desse novo produto?
+► FIDELIDADE
+  Score : 0.36824535492098803
+  Motivo: The Actual Output partially aligns with the Retrieval Context by addressing the issue of warranty for a new product received through a warranty claim. However, it introduces additional information not supported by the Retrieval Context, such as the statement about the warranty being invalid if the problem was previously informed. The Retrieval Context does not mention this condition, leading to discrepancies.
+
+
+► SIMPLICIDADE
+  Score : 0.8682573734412322
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, the mention of 'nota fiscal' could be slightly more simplified or explained for complete clarity.
+
+
+► RELEVANCIA
+  Score : 0.6717808217686104
+  Motivo: The response addresses the user's query about the warranty of a new product received through a warranty claim, indicating that the warranty remains valid. It also covers the aspect of defects within the warranty period. However, the mention of issues not being on the invoice and the invalidity of the warranty if the problem was previously informed introduces some irrelevant information that does not directly answer the question about the new product's warranty status.
+
+
+--------------------------------------------------------------------------------
+
+
+[3] PERGUNTA: Estabelecimentos devem ser responsáveis pelos veículos estacionados em seus estacionamentos?
+► FIDELIDADE
+  Score : 0.9893309415285619
+  Motivo: The Actual Output correctly states that there is no information in the Retrieval Context regarding the responsibility of establishments for parked vehicles, which aligns with the evaluation steps. The Retrieval Context contains legal and procedural information unrelated to the Input question, and the response accurately reflects this lack of relevant content.
+
+
+► SIMPLICIDADE
+  Score : 0.7279560704121373
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input's simplicity. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, it could slightly improve by directly addressing the question posed in the Input.
+
+
+► RELEVANCIA
+  Score : 0.14545179625638077
+  Motivo: The response fails to address the user's query about the responsibility of establishments for parked vehicles. It incorrectly states that there is no mention of the topic, which is inaccurate as the question explicitly asks about it. The response lacks completeness and logical coherence, as it does not provide any relevant information or reasoning related to the question. However, it does not include irrelevant information, which slightly aligns with the evaluation criteria.
+
+
+--------------------------------------------------------------------------------
+
+
+[4] PERGUNTA: O prazo de entrega não foi respeitado, e agora?
+► FIDELIDADE
+  Score : 0.973462989534751
+  Motivo: The Actual Output accurately reflects the information in the Retrieval Context. It correctly states the timeframes for complaints regarding movable and immovable goods, aligning with the legal provisions mentioned in the context. The response does not introduce any external information and directly addresses the Input query about delivery deadlines.
+
+
+► SIMPLICIDADE
+  Score : 0.864063584797876
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the explanation could be slightly more concise to fully match the brevity of the Input.
+
+
+► RELEVANCIA
+  Score : 0.8876961626739799
+  Motivo: The response directly addresses the user's query about what to do when a delivery deadline is not met, providing specific timeframes for complaints based on the type of good. It covers all aspects of the question logically and thoroughly, with no irrelevant information. The explanation is coherent and consistent with the context of the query.
+
+
+--------------------------------------------------------------------------------
+
+
+[5] PERGUNTA: O comerciante pode recusar receber cartão para produtos de baixo custo, como cigarro, balas ou sorvete?
+► FIDELIDADE
+  Score : 0.037984779413232486
+  Motivo: The Actual Output does not align with the Retrieval Context. The context does not provide any information about merchants accepting or refusing card payments for low-cost products. The response introduces external information not supported by the context, failing to adhere to the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.8611192460564349
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the sentence explaining the restriction as 'injusta ao consumidor' could be slightly simplified further.
+
+
+► RELEVANCIA
+  Score : 0.6787899933664029
+  Motivo: The response directly addresses the user's query by stating that a merchant cannot refuse card payments for low-cost items, aligning with the question's focus. It covers the main aspect of the question by explaining the obligation to accept card payments, but it lacks detail on legal or practical exceptions that might apply. The response is coherent and relevant, with no irrelevant information included.
+
+
+--------------------------------------------------------------------------------
+
+
+[6] PERGUNTA: Quanto tempo meu nome deve sair do SPC/SERASA após pagamento da dívida?
+► FIDELIDADE
+  Score : 0.32882886290678937
+  Motivo: The Actual Output does not provide an answer to the Input question about the timeframe for name removal from SPC/SERASA after debt payment. The Retrieval Context lacks specific information on this topic, but the response could have acknowledged this more directly. The response correctly avoids introducing external information, but it fails to address the Input using the available context.
+
+
+► SIMPLICIDADE
+  Score : 0.8115284566147085
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input's simplicity. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it could be slightly more direct in addressing the question about the timeframe.
+
+
+► RELEVANCIA
+  Score : 0.36695392879182487
+  Motivo: The response acknowledges the user's question about the timeframe for name removal from SPC/SERASA after debt payment, but fails to provide any specific information or guidance on the topic. It does not cover the question adequately and lacks completeness. However, it remains relevant to the question and does not include irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[7] PERGUNTA: Pode haver promoção que aceite pagamento só em dinheiro?
+► FIDELIDADE
+  Score : 0.22914616566859886
+  Motivo: The Actual Output partially aligns with the Retrieval Context by mentioning payment methods related to contracts. However, it incorrectly states that payments can be accepted only in cash, which is not supported by the Retrieval Context. The context discusses payment via payroll deduction and does not mention cash-only promotions.
+
+
+► SIMPLICIDADE
+  Score : 0.40289551238502624
+  Motivo: The Actual Output partially aligns with the evaluation steps. It starts with a simple and direct response, 'Sim, pode haver,' which matches the simplicity of the Input. However, it introduces complex terms like 'consignação em folha de pagamento,' which may not be easily understood by someone with limited education. The sentences are longer and more complex than those in the Input, reducing clarity and accessibility.
+
+
+► RELEVANCIA
+  Score : 0.37885610268824166
+  Motivo: The response partially addresses the question by confirming that promotions can require cash payments. However, it introduces irrelevant information about 'consignação em folha de pagamento,' which is unrelated to the query about cash-only promotions. The explanation lacks completeness and coherence, as it does not logically connect the concept of payroll deduction to the requirement for cash payments.
+
+
+--------------------------------------------------------------------------------
+
+
+[8] PERGUNTA: O preço da etiqueta está menor que o preço no caixa, qual devo pagar?
+► FIDELIDADE
+  Score : 0.0430092369764298
+  Motivo: The Actual Output does not align with the Retrieval Context, which lacks any information about pricing discrepancies or consumer rights related to price tags versus checkout prices. The response introduces external information not supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.8379609273667592
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible. However, it includes an additional suggestion to check with a store employee, which slightly deviates from the directness of the Input.
+
+
+► RELEVANCIA
+  Score : 0.9637030801371352
+  Motivo: The response directly addresses the user's query by stating that the price on the tag should be paid if it is lower than the price at the register, which aligns with common consumer protection practices. It also suggests verifying with a store employee, covering all aspects of the question logically and without irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[9] PERGUNTA: Estabelecimentos podem informar os preços dos produtos em moeda estrangeira, como o dólar?
+► FIDELIDADE
+  Score : 0.33648283246985716
+  Motivo: The Actual Output correctly states that prices should be in Brazilian real, aligning with the general requirement for clear and accurate pricing information in Portuguese. However, it introduces the concept of fines for displaying prices in dollars, which is not supported by the Retrieval Context. The context does not explicitly mention currency requirements or penalties for using foreign currencies.
+
+
+► SIMPLICIDADE
+  Score : 0.9793105953629226
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintain clarity and straightforwardness, making it accessible to the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.9932453309329639
+  Motivo: The response directly addresses the user's query by stating that establishments cannot display prices in foreign currency, specifically mentioning the legal requirement to use Brazilian real. It covers all aspects of the question adequately and logically, without including irrelevant information, and maintains logical coherence throughout.
+
+
+--------------------------------------------------------------------------------
+
+
+[10] PERGUNTA: Pode haver um valor mínimo para pagamento com cartão de crédito ou débito?
+► FIDELIDADE
+  Score : 0.05468039588031243
+  Motivo: The Actual Output introduces information about a legal requirement for payments over 40 minimum wages to be made via precatório, which is not supported by the Retrieval Context. The context does not provide any details about minimum payment values for credit or debit card transactions, nor does it mention any specific laws related to such transactions. Therefore, the response does not adhere to the information available in the Retrieval Context and fails to address the Input accurately.
+
+
+► SIMPLICIDADE
+  Score : 0.28041958081878987
+  Motivo: The Actual Output uses simple language but introduces complex legal terms like 'precatório' without explanation, which may not be easily understood by someone with limited education. The sentences are longer and more complex than those in the Input, reducing clarity and accessibility.
+
+
+► RELEVANCIA
+  Score : 0.23610232595673994
+  Motivo: The response incorrectly states that there is a legal requirement involving 'precatório' for transactions equal to or below 40 minimum wages, which is irrelevant and incorrect in the context of minimum payment amounts for credit or debit cards. The response fails to address the actual question about minimum payment limits set by merchants, thus lacking completeness and logical coherence.
+
+
+--------------------------------------------------------------------------------
+
+
+[11] PERGUNTA: Quais informações devem constar na etiqueta de preços de produtos em lojas?
+► FIDELIDADE
+  Score : 0.8327073482587452
+  Motivo: The Actual Output aligns well with the Retrieval Context by mentioning that the price tag should be visible to the consumer and include the price per unit for fractioned products, which is supported by the context. However, it lacks mention of the specific modalities of price display (direct, referential code, barcode) as outlined in the context, which slightly reduces its completeness.
+
+
+► SIMPLICIDADE
+  Score : 0.9334375355077335
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, it could be slightly more direct by omitting some parenthetical explanations.
+
+
+► RELEVANCIA
+  Score : 0.7719930365561194
+  Motivo: The response directly addresses the question by specifying that the price tag should display the price to the consumer and include the price per unit for fractional products. However, it lacks mention of other potential details such as product description, taxes, or discounts, which could be relevant for completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[12] PERGUNTA: Como os preços dos produtos e serviços devem ser informados nos supermercados?
+► FIDELIDADE
+  Score : 0.8494419823551984
+  Motivo: The Actual Output aligns well with the Retrieval Context by stating that prices should be clear and accessible, which is supported by the context mentioning the requirement for clear and written price information. However, the Output slightly extends beyond the context by discussing the prevention of confusion or deception, which is not explicitly covered in the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.9038388499157539
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, the phrase 'relações de preços escritas' could be slightly simplified for even better alignment.
+
+
+► RELEVANCIA
+  Score : 0.8772942901068884
+  Motivo: The response directly addresses the question by explaining how prices should be displayed in supermarkets, emphasizing clarity and accessibility. It covers the main aspect of the question by mentioning the use of written price relations if direct labeling is not possible. The response is coherent and relevant, with no irrelevant information included. However, it could slightly expand on specific regulations or guidelines to achieve full completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[13] PERGUNTA: Comprei um produto importado que não tem garantia no Brasil, e agora?
+► FIDELIDADE
+  Score : 0.47211252417058286
+  Motivo: The Actual Output partially aligns with the Retrieval Context by mentioning the responsibility of the importador, which is supported by the context regarding imported products. However, it introduces additional advice about contacting the store and checking for nota fiscal and registration with the Ministry of Health, which are not directly supported by the provided context. The context does not specifically address products without warranty in Brazil, leading to a lack of direct alignment with the Input.
+
+
+► SIMPLICIDADE
+  Score : 0.8689305616785447
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, it introduces slightly more detail than the Input, such as mentioning the Ministry of Health, which could be simplified further.
+
+
+► RELEVANCIA
+  Score : 0.8675764587959265
+  Motivo: The response directly addresses the user's query about what to do with an imported product without a warranty in Brazil. It advises contacting the importer and checking for a fiscal note and registration with the Ministry of Health, which are relevant steps. The response is complete and logically coherent, covering all aspects of the question without including irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[14] PERGUNTA: Lojas têm obrigação de trocar produtos sem defeito?
+► FIDELIDADE
+  Score : 0.27266278733102184
+  Motivo: The Actual Output partially addresses the Input by discussing the obligation of stores to exchange defective products, which is relevant to the context of product defects. However, it does not directly answer the question about the obligation to exchange non-defective products, which is the main focus of the Input. Additionally, the Output introduces specific timeframes for complaints that are not explicitly supported by the Retrieval Context, indicating a reliance on external information.
+
+
+► SIMPLICIDADE
+  Score : 0.6100695776585547
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. However, it does not directly address the question about products without defects, focusing instead on defective products. This oversight affects clarity and relevance to the original question.
+
+
+► RELEVANCIA
+  Score : 0.2436813518747122
+  Motivo: The response fails to address the specific question about the obligation to exchange non-defective products, instead focusing on the exchange of defective products. It provides relevant information about the exchange policy for defective items, but this is not aligned with the user's query. The response lacks completeness as it does not cover the main aspect of the question regarding non-defective products. There is no irrelevant information, but the logical coherence is compromised due to the misalignment with the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[15] PERGUNTA: Se desistir de uma compra já concretizada, o fornecedor é obrigado a me devolver a quantia paga?
+► FIDELIDADE
+  Score : 0.15840533694890824
+  Motivo: The Actual Output incorrectly states that there is no right to a refund upon withdrawal from a purchase, which is not supported by the Retrieval Context. The context mentions the possibility of contract rescission with a refund if the supplier fails to fulfill the offer, but does not address voluntary withdrawal by the consumer. The response introduces unsupported information about contractual obligations without context backing.
+
+
+► SIMPLICIDADE
+  Score : 0.7574077265832556
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it could be slightly more direct by omitting the explanation about the contract and commitments, which adds unnecessary complexity.
+
+
+► RELEVANCIA
+  Score : 0.2917766811400452
+  Motivo: The response addresses the question about the obligation of the supplier to return the paid amount upon withdrawal from a purchase. However, it incorrectly states that there is no right to a refund, which is not universally true and lacks context about consumer protection laws that might allow for a refund under certain conditions. The response is logically coherent but incomplete and potentially misleading, as it does not consider exceptions or legal nuances.
+
+
+--------------------------------------------------------------------------------
+
+
+[16] PERGUNTA: Posso trocar um produto por outro após efetuar uma compra?
+► FIDELIDADE
+  Score : 0.4425001753526351
+  Motivo: The Actual Output partially aligns with the Retrieval Context by mentioning conditions under which a product can be considered defective and eligible for exchange, such as being expired or not meeting safety expectations. However, it introduces additional criteria not explicitly supported by the Retrieval Context, such as the product not being as expected, which is not directly addressed in the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.8596242015908336
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, it could be slightly more direct by reducing the number of conditions listed.
+
+
+► RELEVANCIA
+  Score : 0.8105269805628165
+  Motivo: The response directly addresses the user's query about exchanging a product after purchase, covering conditions like defects and safety issues. It is complete in addressing scenarios where an exchange is possible, such as defects or expired products. However, it lacks mention of general exchange policies that might apply even without defects, which slightly limits its completeness. The information is relevant and logically coherent with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[17] PERGUNTA: Posso desistir da compra quanto tempo após a mesma?
+► FIDELIDADE
+  Score : 0.8966885346993875
+  Motivo: The response correctly identifies that the Retrieval Context does not contain information about the timeframe for withdrawing from a purchase, which aligns with the Input question. It accurately states that the provided context is related to the legal framework for public servants, not consumer rights or purchase laws. The suggestion to look for specific laws related to purchase rights is appropriate, although it slightly introduces external guidance, which is a minor deviation from strict adherence to the context.
+
+
+► SIMPLICIDADE
+  Score : 0.4712689273684843
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning with the simplicity of the Input. However, it fails to provide a direct answer to the question about the timeframe for withdrawing from a purchase, which affects clarity and straightforwardness. The sentences are somewhat longer and less direct than those in the Input.
+
+
+► RELEVANCIA
+  Score : 0.3508589691708717
+  Motivo: The response acknowledges the inability to find specific information related to the question about the timeframe for withdrawing from a purchase, which partially addresses the user's query. However, it deviates by discussing the Regime Jurídico dos Servidores, which is irrelevant to the question. The suggestion to look for specific laws related to purchase rights is somewhat helpful but lacks direct information on the topic. Overall, the response lacks completeness and coherence with the user's question.
+
+
+--------------------------------------------------------------------------------
+
+
+[18] PERGUNTA: Qual o prazo máximo para solicitação de reparação de danos por produtos ou serviços com vício?
+► FIDELIDADE
+  Score : 0.9543820838854564
+  Motivo: The Actual Output correctly identifies the time limits for requesting damage repair for products or services with defects as 90 days for durable goods and 30 days for non-durable goods, which aligns perfectly with the information provided in the Retrieval Context. There are no discrepancies or additional information introduced that are not supported by the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.9611381973294151
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. The sentences are short and direct, similar to the Input, and there is no use of complex legal jargon. The response maintains clarity and straightforwardness, making it accessible to someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.8664358855433607
+  Motivo: The response directly addresses the user's query about the maximum time frame for requesting damage repair for defective products or services. It correctly distinguishes between durable and non-durable products, providing the relevant time frames of 90 days and 30 days, respectively. The response is complete and logically coherent, with no irrelevant information. However, it could slightly improve by explicitly mentioning that these time frames are based on consumer protection laws, which would provide additional context.
+
+
+--------------------------------------------------------------------------------
+
+
+[19] PERGUNTA: Qual o prazo mínimo de garantia?
+► FIDELIDADE
+  Score : 0.5978475398260619
+  Motivo: The Actual Output correctly states that the minimum warranty period is not specified in the texts, aligning with the Retrieval Context. It also accurately references the requirement for a written, standardized warranty term as per the Retrieval Context. However, it introduces the mention of 'article 50 of the Consumer Defense Code,' which is not explicitly found in the provided Retrieval Context, slightly deviating from strict adherence.
+
+
+► SIMPLICIDADE
+  Score : 0.3940177688323067
+  Motivo: The Actual Output partially aligns with the evaluation steps. It uses some simple language but introduces complex legal references like 'artigo 50 do Código de Defesa do Consumidor,' which may not be easily understood by someone with limited education. The sentences are longer and more complex than those in the Input, reducing clarity and accessibility.
+
+
+► RELEVANCIA
+  Score : 0.5044010368939474
+  Motivo: The response partially addresses the question by mentioning the lack of a specified minimum warranty period in the texts and referencing the Consumer Protection Code. However, it fails to provide a direct answer to the minimum warranty period, leaving the query incomplete. The mention of the Consumer Protection Code is relevant but does not fully satisfy the user's request for a specific timeframe.
+
+
+--------------------------------------------------------------------------------
+
+
+[20] PERGUNTA: Descobri um vício de fabricação, mas a garantia já acabou. Tenho direito à correção?
+► FIDELIDADE
+  Score : 0.26340737302091133
+  Motivo: The Actual Output acknowledges the uncertainty regarding the right to correction after a warranty has expired, which is somewhat aligned with the Input. However, it fails to utilize the Retrieval Context, which contains relevant information about consumer rights and warranty clauses. The response introduces external advice to consult a lawyer, which is not supported by the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.7583107357552097
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it could be slightly more direct in addressing the question about the right to correction.
+
+
+► RELEVANCIA
+  Score : 0.4747793426705959
+  Motivo: The response partially addresses the user's query by acknowledging the uncertainty about rights after a warranty expires and suggesting consulting a lawyer. However, it lacks completeness as it does not explore potential consumer rights under manufacturing defects beyond warranty periods, which is a key aspect of the question. The mention of 'cláusulas abusivas' is somewhat relevant but not directly helpful, and the response could be more informative about legal recourse options.
+
+
+--------------------------------------------------------------------------------
+
+
+[21] PERGUNTA: O fornecedor pode devolver um produto usado quando o consumidor opta pela substituição por vício em garantia?
+► FIDELIDADE
+  Score : 0.38823460203170584
+  Motivo: The Actual Output partially aligns with the Retrieval Context by mentioning the consumer's right to repair or replacement under warranty, which is supported by the context. However, it introduces the specific rule that a used product cannot be returned, which is not explicitly covered in the provided context. The context discusses warranty rights and repair processes but does not directly address the prohibition of returning used products.
+
+
+► SIMPLICIDADE
+  Score : 0.8348658704685352
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning well with the Input. It provides a clear and straightforward explanation, making it accessible to someone with limited education. However, the sentences are slightly longer than those in the Input, which could be improved for better alignment with the evaluation steps.
+
+
+► RELEVANCIA
+  Score : 0.9863391604701158
+  Motivo: The response directly addresses the user's query about whether a supplier can return a used product when a consumer opts for replacement due to a defect under warranty. It clearly states that the supplier cannot return a used product and must either repair or replace it, aligning with the Consumer Defense Code. The answer is complete, relevant, and logically coherent with no extraneous information.
+
+
+--------------------------------------------------------------------------------
+
+
+[22] PERGUNTA: Optei pela substituição de um produto com vício de fabricação por um novo, mas não há mais disponibilidade do mesmo, tenho direito a outro similar?
+► FIDELIDADE
+  Score : 0.7341743236378357
+  Motivo: The Actual Output correctly states that the consumer has the right to a similar product if the original is unavailable, aligning with the Retrieval Context's mention of exchanging a product for another of the same species. However, it introduces the option of a price reduction, which is not explicitly supported by the provided context, slightly reducing alignment.
+
+
+► SIMPLICIDADE
+  Score : 0.914373248717433
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, providing a straightforward explanation of consumer rights. However, it slightly expands on the options available, which could be seen as adding unnecessary detail for someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.987407722532418
+  Motivo: The response directly addresses the user's query about the right to a similar product when the original is unavailable. It covers all aspects of the question by referencing the Consumer Defense Code and explaining the options available, ensuring logical coherence and relevance without any deviation from the topic.
+
+
+--------------------------------------------------------------------------------
+
+
+[23] PERGUNTA: Comprei um produto e o mesmo apresenta vícios de fabricação. E agora?
+► FIDELIDADE
+  Score : 0.6890982913293208
+  Motivo: The Actual Output aligns well with the Retrieval Context by addressing the consumer's rights regarding a defective product, including the 30-day repair period and options if the defect is not resolved. However, it introduces the suggestion to keep receipts, which is not explicitly mentioned in the Retrieval Context, slightly reducing alignment.
+
+
+► SIMPLICIDADE
+  Score : 0.9338077137488391
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity and straightforwardness, aligning well with the simplicity of the Input. However, the mention of 'notas e comprovações' could be slightly simplified further to enhance accessibility.
+
+
+► RELEVANCIA
+  Score : 0.9507811864279203
+  Motivo: The response directly addresses the user's query about what to do when a purchased product has manufacturing defects. It provides a complete and logical explanation of the consumer's rights, including repair or replacement options, the 30-day timeframe, and the possibility of a refund or discount if the issue is not resolved. Additionally, it advises keeping receipts as proof, which is relevant and useful information. There is no irrelevant information present, and the response is coherent and consistent with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[24] PERGUNTA: O CDC se aplica à compras e contratações realizadas pela internet?
+► FIDELIDADE
+  Score : 0.804307519650757
+  Motivo: The response correctly states that the CDC applies to online purchases and mentions the 7-day reflection period, which aligns with the Retrieval Context. However, it introduces additional advice about site security and personal data, which is not directly supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.886123722354081
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, it includes slightly more information than the Input, which could be seen as a minor deviation from the simplicity of the original question.
+
+
+► RELEVANCIA
+  Score : 0.9092697915495597
+  Motivo: The response directly addresses the user's query by confirming that the CDC applies to online purchases and contracts. It covers the key aspect of consumer rights, specifically mentioning the 7-day reflection period, which is relevant and logical. The advice on checking site security and personal data, while slightly beyond the scope, is still pertinent to the context of online transactions, thus not detracting from the response's relevance.
+
+
+--------------------------------------------------------------------------------
+
+
+[25] PERGUNTA: É lícito ao credor a inclusão do nome do devedor nos cadastros negativos, sem prévia cobrança ou sem lhe dar ciência?
+► FIDELIDADE
+  Score : 0.014806818551584408
+  Motivo: The Actual Output introduces information not found in the Retrieval Context, specifically referencing 'artigo 333' and requirements for notifying the debtor, which are not present in the provided context. The response does not adhere to the details available in the Retrieval Context and introduces external data.
+
+
+► SIMPLICIDADE
+  Score : 0.8070002935015216
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it introduces a reference to 'artigo 333' which might be slightly more complex for someone with limited education, slightly reducing its simplicity.
+
+
+► RELEVANCIA
+  Score : 0.9031485379273047
+  Motivo: The response directly addresses the user's query by stating that it is not permissible to include the debtor's name in negative registries without prior collection or notification, aligning well with the question. It covers all aspects of the question by mentioning both the need for prior collection and notification, demonstrating completeness. The response is logically coherent and does not contain irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[26] PERGUNTA: Segundo o CDC, qual o conceito de defeito?
+► FIDELIDADE
+  Score : 0.7974150867256892
+  Motivo: The Actual Output aligns well with the Retrieval Context by defining a defect as a problem in a product or service, which is consistent with the context's mention of defects related to product quality and quantity. However, it introduces additional details about consumer rights and repair requests not explicitly covered in the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.9430147348585844
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. The only minor shortcoming is the slightly longer sentence at the end, but overall, it remains accessible to the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.778185971469547
+  Motivo: The response directly addresses the question by defining 'defeito' as a problem with a product or service that does not meet expectations, aligning well with the CDC's concept. It covers various aspects such as non-conformance to seller information, physical damage, and functionality issues, which are relevant to the concept of defect. However, it lacks a direct reference to the CDC's specific definition, which would enhance completeness. The information is relevant and logically coherent, contributing to a strong but not perfect alignment with the evaluation criteria.
+
+
+--------------------------------------------------------------------------------
+
+
+[27] PERGUNTA: Comprei um computador de uma certa marca e ele estragou 4 vezes em menos de 1 ano. Gostaria de pedir a devolução, quais direitos eu tenho?
+► FIDELIDADE
+  Score : 0.4180533376428056
+  Motivo: The response partially aligns with the Retrieval Context by advising to make a written complaint in two copies, which is supported by the context. However, it introduces unrelated information about internet purchases and product packaging, which are not relevant to the user's request about returning a faulty computer. This inclusion of extraneous details not supported by the context reduces the alignment with the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.3680776134020044
+  Motivo: The Actual Output partially aligns with the evaluation steps. It uses simple language and avoids complex legal jargon, which is good for clarity. However, it introduces irrelevant information about internet security and product packaging that is not directly related to the user's question about their rights for a refund. This detracts from the straightforwardness and focus required by the evaluation steps.
+
+
+► RELEVANCIA
+  Score : 0.32151891840794183
+  Motivo: The response partially addresses the user's query by suggesting to file a written complaint to the supplier, which is relevant to seeking a refund. However, it fails to fully cover the user's rights regarding product returns or refunds under consumer protection laws. The mention of product packaging and internet security is irrelevant to the question about rights for a defective product, detracting from the focus and coherence of the response.
+
+
+--------------------------------------------------------------------------------
+
+
+[28] PERGUNTA: Produto que retornou da garantia chegou com defeito e a empresa alega que não pode resolver porque 'passou do prazo'. Como proceder?
+► FIDELIDADE
+  Score : 0.5707635443468269
+  Motivo: The response correctly references the legal timeframes for complaints about defects as per the Código de Defesa do Consumidor, which aligns with the Retrieval Context. However, it introduces additional advice about contacting consumer service and keeping documents, which is not directly supported by the Retrieval Context. This results in partial alignment with the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.8259615254654973
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it introduces some legal references like 'Código de Defesa do Consumidor' which might slightly complicate understanding for someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.89683640495899
+  Motivo: The response directly addresses the user's query by explaining the consumer's rights under the Código de Defesa do Consumidor and suggesting steps to take if the company refuses to resolve the issue. It covers the key aspects of the question, such as the time limits for complaints and the importance of documentation. The response is logically coherent and relevant, with no extraneous information. However, it could slightly improve by explicitly addressing the company's claim about the 'passed deadline' in more detail.
+
+
+--------------------------------------------------------------------------------
+
+
+[29] PERGUNTA: O Mercado Livre só oferece 30 dias para devolução mesmo para vícios ocultos. Tenho como recorrer?
+► FIDELIDADE
+  Score : 0.20223538081329212
+  Motivo: The Actual Output does not directly address the Input using the details from the Retrieval Context. It fails to provide any relevant information about the possibility of recourse for hidden defects within the 30-day return policy mentioned in the Input. Instead, it offers an unrelated apology and a vague offer to provide legal information, which is not supported by the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.26374613164382377
+  Motivo: The Actual Output uses simple language and short sentences, aligning with the Input's style. However, it introduces a question about providing legal information, which adds unnecessary complexity and deviates from the straightforwardness of the Input. The response also fails to directly address the user's question about recourse, impacting clarity and accessibility.
+
+
+► RELEVANCIA
+  Score : 0.22341603069353422
+  Motivo: The response acknowledges the user's query about recourse for hidden defects but fails to directly address it. It offers to provide information on laws and procedures, which is somewhat relevant, but does not specifically answer the question about recourse options. The response lacks completeness and coherence as it does not provide a direct or logical solution to the user's problem.
+
+
+--------------------------------------------------------------------------------
+
+
+[30] PERGUNTA: A Amazon é obrigada a substituir um produto com defeito?
+► FIDELIDADE
+  Score : 0.8343459324825728
+  Motivo: The response correctly identifies that the supplier must deliver products in perfect condition and is responsible for replacing defective products, aligning with the Retrieval Context. However, it introduces the term 'Amazon' and references the 'Código de Defesa do Consumidor' without explicit mention in the provided context, slightly deviating from strict adherence.
+
+
+► SIMPLICIDADE
+  Score : 0.8425741871490654
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand. It avoids complex legal jargon, aligning well with the simplicity of the Input. However, it introduces the term 'Código de Defesa do Consumidor,' which might be slightly complex for someone with limited education, slightly affecting clarity.
+
+
+► RELEVANCIA
+  Score : 0.9658417493859025
+  Motivo: The response directly addresses the user's query about Amazon's obligation to replace a defective product, referencing the Consumer Defense Code. It covers all aspects of the question logically and completely, without including irrelevant information, and maintains coherence throughout.
+
+
+--------------------------------------------------------------------------------
+
+
+[31] PERGUNTA: Uma loja de reparos de computador não obteve sucesso no conserto, eles podem me cobrar?
+► FIDELIDADE
+  Score : 0.08445017480881341
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about the rights or obligations of a computer repair shop or the conditions under which they can charge for unsuccessful repairs. The response introduces external information not supported by the context, such as the responsibility of the shop or customer and the importance of reading terms of service.
+
+
+► SIMPLICIDADE
+  Score : 0.8803173791645582
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input's style. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, the mention of 'termos de contratação' could be slightly simplified further to enhance accessibility.
+
+
+► RELEVANCIA
+  Score : 0.820830534544268
+  Motivo: The response directly addresses the user's query about whether a computer repair shop can charge if they fail to repair. It covers the possibility of charges depending on fault and advises checking terms, which aligns well with the question. However, it could be more complete by explicitly stating that charges depend on the terms of service, not just fault. The response is coherent and lacks irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[32] PERGUNTA: Comprei online e solicitei devolução nos 7 dias. A loja gerou voucher dos Correios, mas tenho deficiência física e a agência é distante. Cabe a mim arcar com o transporte até a agência?
+► FIDELIDADE
+  Score : 0.10976165754210343
+  Motivo: The Actual Output incorrectly claims that the store must provide transportation based on a law, but the Retrieval Context does not support this claim. The context only discusses transportation obligations related to health plans and voting accessibility, not online purchases or store obligations. The response fails to adhere strictly to the Retrieval Context and introduces unsupported legal obligations.
+
+
+► SIMPLICIDADE
+  Score : 0.988563148362873
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintaining clarity and straightforwardness, making it accessible to someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.8833774545567923
+  Motivo: The response directly addresses the user's query about whether they are responsible for transportation to the postal agency, given their physical disability and the distance involved. It correctly states that the store should provide assistance, aligning with legal obligations. The response is complete, relevant, and logically coherent, with no irrelevant information included.
+
+
+--------------------------------------------------------------------------------
+
+
+[33] PERGUNTA: O Mercado Livre está exigindo o produto na embalagem original para aceitar a devolução dentro do prazo de 7 dias (direito de arrependimento). Isso é legal?
+► FIDELIDADE
+  Score : 0.665981590509926
+  Motivo: The Actual Output correctly states that the right of withdrawal allows the consumer to cancel the purchase without justification within seven days, aligning with the Retrieval Context. However, it introduces the claim that the product does not need to be in its original packaging, which is not explicitly supported by the provided context. This slightly detracts from full adherence to the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.9236905902773328
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, effectively communicating the legal aspect of the right of withdrawal without requiring the original packaging. However, it could slightly improve by explicitly stating the 7-day period mentioned in the Input.
+
+
+► RELEVANCIA
+  Score : 0.9208269296905129
+  Motivo: The response directly addresses the user's query about the legality of requiring original packaging for returns under the right of withdrawal. It correctly states that the law does not specify the need for original packaging, covering the legal aspect of the question. The response is concise and relevant, with no irrelevant information, and maintains logical coherence with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[34] PERGUNTA: O Mercado Livre recusou a devolução de um produto que eu nem sequer tirei da caixa. O que fazer?
+► FIDELIDADE
+  Score : 0.2690091158229315
+  Motivo: The Actual Output partially aligns with the Retrieval Context by mentioning the need for a receipt and the possibility of claiming indemnification for defective products. However, it introduces external information not supported by the Retrieval Context, such as the right to a refund or exchange for unopened products, which is not explicitly covered in the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.8552061315881824
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the Actual Output is slightly longer than the Input, which could be more concise.
+
+
+► RELEVANCIA
+  Score : 0.8362661790154038
+  Motivo: The response directly addresses the user's query by advising on steps to take if a return is refused, such as presenting a receipt and showing the product intact. It covers the main aspects of the question, including the condition of the product and potential actions like seeking a refund or exchange. However, it introduces slightly irrelevant information about product issues like expiration, which was not mentioned in the query, slightly detracting from the focus.
+
+
+--------------------------------------------------------------------------------
+
+
+[35] PERGUNTA: O vendedor se recusa a coletar um produto que foi reembolsado e quer que eu assuma as custas da devolução. Sou obrigado?
+► FIDELIDADE
+  Score : 0.22013896536219849
+  Motivo: The Actual Output incorrectly states that the seller must collect the product after a refund, which is not supported by the Retrieval Context. The context does not provide specific guidance on post-refund product collection responsibilities, leading to a misalignment with the provided information.
+
+
+► SIMPLICIDADE
+  Score : 0.9874077240085211
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintaining clarity and straightforwardness, making it accessible to someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.9265830124363148
+  Motivo: The response directly addresses the user's query by clearly stating that the user is not obligated to pay for the return of a refunded product, aligning well with the input question. It covers the main aspect of the question regarding the obligation to pay for the return. The response is concise and free of irrelevant information, maintaining logical coherence with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[36] PERGUNTA: É possível devolver um produto após trocar o sistema operacional?
+► FIDELIDADE
+  Score : 0.14644304322732
+  Motivo: The Actual Output does not directly address the Input about returning a product after changing the operating system. It incorrectly focuses on phone cloning, which is not relevant to the Input. The Retrieval Context does not provide information about returning products after an OS change, leading to a lack of alignment with the Input. The response introduces unrelated details about phone cloning, which are not supported by the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.3087864712756462
+  Motivo: The Actual Output partially aligns with the evaluation steps. It uses simple language and avoids complex legal jargon, which is good for clarity. However, it introduces unnecessary complexity by discussing 'clonagem do telefone celular' and 'vulnerabilidade do serviço,' which are not directly related to the question about returning a product after changing the operating system. This detracts from the simplicity and directness required, as the response should have focused more directly on the return policy aspect.
+
+
+► RELEVANCIA
+  Score : 0.228148797901864
+  Motivo: The response partially addresses the question by mentioning phones, but it lacks clarity and completeness. It does not directly answer whether a product can be returned after changing the operating system, and introduces irrelevant information about phone cloning, which does not contribute to the query. The response lacks logical coherence as it fails to address the main topic adequately.
+
+
+--------------------------------------------------------------------------------
+
+
+[37] PERGUNTA: Recebi duas memórias RAM iguais do Mercado Livre, mas paguei só por uma. O que fazer?
+► FIDELIDADE
+  Score : 0.4246874048919877
+  Motivo: The response partially aligns with the evaluation steps. It correctly identifies that the Retrieval Context does not provide specific rules about RAM purchases on Mercado Livre, which is accurate. However, it introduces external advice by suggesting contacting a lawyer or checking Mercado Livre's terms, which is not supported by the Retrieval Context. Additionally, the response includes general legal principles that are not directly relevant to the specific situation described in the Input.
+
+
+► SIMPLICIDADE
+  Score : 0.38121781160006135
+  Motivo: The Actual Output partially aligns with the evaluation steps. It uses simple language and avoids complex legal jargon, which is good for accessibility. However, the sentences are longer and more complex than those in the Input, reducing clarity and directness. Additionally, the response includes unnecessary legal references that may confuse someone with limited education, detracting from the straightforwardness required.
+
+
+► RELEVANCIA
+  Score : 0.37754205936185703
+  Motivo: The response partially addresses the user's query by suggesting contacting the seller and consulting legal advice, which aligns with the user's situation of receiving an extra item. However, it lacks completeness as it does not provide a clear course of action or reference specific policies related to receiving extra items. The mention of general legal principles is somewhat irrelevant and does not directly contribute to resolving the specific issue of receiving an extra item from Mercado Livre. The response is logically coherent but could be more focused on practical steps.
+
+
+--------------------------------------------------------------------------------
+
+
+[38] PERGUNTA: Comprei um produto, a entrega atrasou e a empresa não me responde.
+► FIDELIDADE
+  Score : 0.29530138497931024
+  Motivo: The Actual Output partially aligns with the Retrieval Context by mentioning the protection under the Código de Defesa do Consumidor, which is relevant to the context. However, it introduces additional information about product defects and repair responsibilities that are not directly supported by the provided Retrieval Context. The context primarily discusses data handling and consumer rights in a broader sense, without specific details on delayed deliveries or defect handling.
+
+
+► SIMPLICIDADE
+  Score : 0.6622033503226714
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning well with the Input's simplicity. However, it includes additional information about product defects and consumer rights that were not mentioned in the Input, which slightly detracts from the directness and focus. The sentences are mostly short and direct, maintaining clarity and accessibility for the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.5743946419193753
+  Motivo: The response addresses the issue of delayed delivery and lack of response from the company, aligning with the consumer protection aspect. However, it introduces irrelevant information about defective products and repair processes, which are not part of the user's query. The response is logically coherent but lacks focus on the specific issue of non-response from the company.
+
+
+--------------------------------------------------------------------------------
+
+
+[39] PERGUNTA: A loja pode se recusar a entregar meu pedido só porque usei um cupom de desconto?
+► FIDELIDADE
+  Score : 0.14268965656033292
+  Motivo: The Actual Output does not align well with the Retrieval Context. The context does not provide specific information about the use of discount coupons or the refusal of delivery based on such usage. The response introduces external assumptions about consumer rights and complaint procedures that are not supported by the provided context. Additionally, the context primarily discusses consumer rights related to damages and legal recourse, which are not directly addressed in the Actual Output.
+
+
+► SIMPLICIDADE
+  Score : 0.8511538131219588
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the additional advice about seeking help elsewhere slightly deviates from the directness of the Input question.
+
+
+► RELEVANCIA
+  Score : 0.7324738865369762
+  Motivo: The response directly addresses the user's query by stating that a store cannot refuse delivery due to the use of a discount coupon, which aligns with the main concern of the question. However, the mention of seeking help elsewhere for product or service issues introduces slightly irrelevant information, as it does not pertain to the refusal of delivery based on coupon usage. The response is logically coherent and consistent with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[40] PERGUNTA: Quais providências legais posso tomar contra um fornecedor que não entrega o produto?
+► FIDELIDADE
+  Score : 0.9419926066603461
+  Motivo: The response accurately reflects the options available under article 35 of the Código de Defesa do Consumidor, which are supported by the Retrieval Context. It also correctly mentions the specific requirement in the State of São Paulo regarding delivery information, which is also present in the Retrieval Context. However, the mention of Procon is not directly supported by the provided context, slightly affecting the alignment.
+
+
+► SIMPLICIDADE
+  Score : 0.6493022523637718
+  Motivo: The response uses relatively simple language and provides clear options for action, aligning with the input's simplicity. However, it includes some legal references like 'artigo 35 do Código de Defesa do Consumidor' which may not be easily understood by someone with limited education. The sentences are mostly short and direct, but the inclusion of legal jargon slightly reduces accessibility.
+
+
+► RELEVANCIA
+  Score : 0.9980280872576758
+  Motivo: The response directly addresses the user's query about legal actions against a supplier who fails to deliver a product. It covers all aspects of the question by listing legal options such as enforcing the obligation, accepting an equivalent product, or rescinding the contract with restitution. Additionally, it provides specific information relevant to São Paulo, enhancing completeness without introducing irrelevant details. The response is logically coherent and consistent with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[41] PERGUNTA: Paguei por entrega via SEDEX, mas a empresa esperou até o último dia do prazo de entrega para postar o produto. Isso é correto?
+► FIDELIDADE
+  Score : 0.26393662994983297
+  Motivo: The Actual Output partially aligns with the Retrieval Context by addressing the issue of delivery timing and consumer rights. However, it introduces external information by stating 'A lei diz que o fornecedor deve entregar o produto dentro do prazo estabelecido,' which is not directly supported by the provided context. The Retrieval Context mentions the obligation to inform delivery date and time but does not specify the legality of waiting until the last day to post the product. Additionally, the suggestion to 'reclamar e pedir ressarcimento' is not explicitly supported by the context.
+
+
+► SIMPLICIDADE
+  Score : 0.9476579651063675
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the mention of 'a lei diz' could be slightly simplified further to enhance accessibility.
+
+
+► RELEVANCIA
+  Score : 0.9146187820785002
+  Motivo: The response directly addresses the user's query about the correctness of the delivery timing, stating that it is not correct and providing a legal perspective. It covers all aspects of the question by explaining the user's rights to complain and seek reimbursement. The response is coherent and relevant, with no irrelevant information included.
+
+
+--------------------------------------------------------------------------------
+
+
+[42] PERGUNTA: O entregador esteve na porta da minha casa e se recusou a entregar meu produto.
+► FIDELIDADE
+  Score : 0.07071685716420907
+  Motivo: The Actual Output does not align with the Retrieval Context, which contains no information about product delivery or related issues. The response introduces external information about delivery contracts and procedures, which is not supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.730954382001464
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, providing straightforward advice. However, the initial sentence about lacking information is slightly more complex than necessary, which slightly detracts from the overall simplicity.
+
+
+► RELEVANCIA
+  Score : 0.877462488900532
+  Motivo: The response directly addresses the user's query about a delivery refusal, providing logical steps to handle the situation. It covers all aspects of the issue, such as understanding the reason for refusal, checking contract clauses, and contacting the delivery company. The response is coherent and relevant, with no irrelevant information included.
+
+
+--------------------------------------------------------------------------------
+
+
+[43] PERGUNTA: Qual a diferença prática entre acionar o Procon e usar o Consumidor.gov.br?
+► FIDELIDADE
+  Score : 0.001302048775607093
+  Motivo: The Actual Output does not align with the Retrieval Context, which contains no relevant information about Procon or Consumidor.gov.br. The response introduces external information not supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.9692641983134737
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintaining clarity and straightforwardness. This makes the explanation accessible to someone with limited education, fulfilling all evaluation steps effectively.
+
+
+► RELEVANCIA
+  Score : 0.8176677012969173
+  Motivo: The response directly addresses the user's query by explaining the practical differences between Procon and Consumidor.gov.br, covering the main aspects such as the method of interaction (in-person vs. online) and the speed of resolution. However, it could be more complete by mentioning other practical differences like the scope of issues handled or the legal authority of Procon. The response is coherent and free of irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[44] PERGUNTA: Geralmente, o Serviço de Atendimento ao Consumidor (SAC) é obrigado a funcionar aos sábados?
+► FIDELIDADE
+  Score : 0.7784073713553165
+  Motivo: The Actual Output correctly identifies that the Retrieval Context does not contain information about the SAC or its operating hours, which aligns with the Input question. However, it could have explicitly stated that the context provided is unrelated to the SAC, rather than just stating the absence of information.
+
+
+► SIMPLICIDADE
+  Score : 0.574536404515903
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. However, it slightly deviates by not directly addressing the question about SAC's obligation to operate on Saturdays, which affects clarity and straightforwardness.
+
+
+► RELEVANCIA
+  Score : 0.18921644317576175
+  Motivo: The response correctly states 'Não', indicating that the SAC is not generally required to operate on Saturdays, which aligns with the question. However, it incorrectly claims that the text does not mention SAC and its hours, which is inaccurate as the question explicitly asks about SAC's operating hours. The response lacks completeness and coherence by not addressing the question fully and providing an incorrect justification.
+
+
+--------------------------------------------------------------------------------
+
+
+[45] PERGUNTA: Compraram um produto nas Casas Bahia usando o meu CPF. Como resolvo isso?
+► FIDELIDADE
+  Score : 0.39739592409258045
+  Motivo: The response partially aligns with the retrieval context by referencing Articles 12 and 13, which discuss the responsibility of manufacturers and importers for product defects. However, it introduces external information not present in the retrieval context, such as contacting the store for resolution and mentioning Article 32 about product information, which is not directly relevant to the issue of unauthorized purchases using a CPF. This diminishes the alignment with the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.3773027072308951
+  Motivo: The Actual Output partially aligns with the evaluation steps. It uses some simple language and provides a direct suggestion to contact the store, which maintains clarity. However, it includes complex legal references and jargon, such as 'Artigo 12' and 'Artigo 13', which are not aligned with the simplicity of the Input. The sentences are longer and more complex than those in the Input, reducing accessibility for someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.3682122473144256
+  Motivo: The response partially addresses the user's query by suggesting contacting Casas Bahia to resolve the issue. However, it includes irrelevant information about product safety and legal responsibilities of manufacturers, which does not directly relate to resolving unauthorized purchases. The response lacks specific guidance on steps to take regarding identity theft or fraud, which are crucial to fully addressing the user's concern.
+
+
+--------------------------------------------------------------------------------
+
+
+[46] PERGUNTA: Como fazer uma denúncia formal no Procon?
+► FIDELIDADE
+  Score : 0.19263568157524608
+  Motivo: The Actual Output provides steps for making a formal complaint to Procon, mentioning necessary documents and actions, which partially aligns with the general theme of consumer protection found in the Retrieval Context. However, it introduces specific details about Procon procedures that are not supported by the Retrieval Context, which lacks direct information about Procon or its complaint process.
+
+
+► SIMPLICIDADE
+  Score : 0.8320414036662355
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, providing straightforward instructions. However, it could be slightly more direct by omitting some details, such as the specific documents required, to better match the simplicity of the Input question.
+
+
+► RELEVANCIA
+  Score : 0.5051398017778161
+  Motivo: The response partially addresses the question by mentioning the need for documents like the invoice and warranty term, which are relevant for a formal complaint. However, it lacks details on the specific process of filing a complaint with Procon, such as where or how to submit these documents. Additionally, the suggestion to contact the supplier is not directly related to the process of making a formal complaint, which detracts from the focus on the main question.
+
+
+--------------------------------------------------------------------------------
+
+
+[47] PERGUNTA: A academia pode me cobrar multa de quebra de fidelidade se eu precisar cancelar o plano de 1 ano por motivo de mudança de cidade?
+► FIDELIDADE
+  Score : 0.2235371711561555
+  Motivo: The Actual Output partially addresses the Input by discussing the cancellation of contracts due to relocation. However, it introduces external information about consumer protection laws and cancellation procedures not found in the Retrieval Context. The Retrieval Context does not provide specific details about contract cancellation or penalties related to relocation, leading to discrepancies in the response.
+
+
+► SIMPLICIDADE
+  Score : 0.7915099344419531
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, explaining the situation in straightforward terms. However, the mention of 'carência' and 'legislação' introduces slightly more complexity than the Input, which could be simplified further for the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.8176489860040468
+  Motivo: The response directly addresses the user's query about cancellation due to moving cities, stating that the gym cannot charge a penalty, which aligns with the question. It covers the main aspect of the question by mentioning legal protection for consumers in such cases. However, the mention of 'carência' is slightly irrelevant as it does not directly relate to the user's situation, slightly detracting from the focus.
+
+
+--------------------------------------------------------------------------------
+
+
+[48] PERGUNTA: Minha operadora de internet aumentou o valor da minha fatura mensal sem me dar nenhum aviso prévio. Isso é legal?
+► FIDELIDADE
+  Score : 0.06257785435441005
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about the legality of increasing internet bills without notice or about restitution rights. The response introduces external information not supported by the context.
+
+
+► SIMPLICIDADE
+  Score : 0.7651305750530343
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, the mention of 'a prova pode ser obtida por outros meios' introduces a slightly more complex concept that could be simplified further.
+
+
+► RELEVANCIA
+  Score : 0.7933862465461187
+  Motivo: The response directly addresses the user's query about the legality of a price increase without prior notice, fulfilling the first evaluation step. It adequately covers the legal aspect and potential restitution, aligning with the second step. However, the mention of 'a prova pode ser obtida por outros meios' is slightly irrelevant, as it doesn't directly contribute to the main question, affecting the third step. The response is logically coherent and consistent with the context, satisfying the fourth step.
+
+
+--------------------------------------------------------------------------------
+
+
+[49] PERGUNTA: As companhias aéreas realmente podem cobrar uma taxa extra apenas para que o passageiro possa marcar um assento comum no voo?
+► FIDELIDADE
+  Score : 0.0514023764403862
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about airline fees or consumer protection laws related to seat selection fees. The response introduces external information not supported by the context.
+
+
+► SIMPLICIDADE
+  Score : 0.8584380764445354
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the mention of 'violation das leis de proteção ao consumidor' slightly introduces a more complex concept, which could be simplified further.
+
+
+► RELEVANCIA
+  Score : 0.783440845141455
+  Motivo: The response directly addresses the user's query by stating that airlines cannot charge extra for a common seat, aligning well with the question. It covers the aspect of consumer protection laws, which is relevant and logical. However, it could be more complete by mentioning any exceptions or specific regulations. The mention of contract clarity is relevant, but the emphasis on contract issues slightly deviates from the main focus.
+
+
+--------------------------------------------------------------------------------
+
+
+[50] PERGUNTA: Comprei uma TV na Black Friday por um preço muito baixo (provavelmente erro no site), mas a loja cancelou a compra unilateralmente no dia seguinte. Posso exigir a entrega pelo preço anunciado?
+► FIDELIDADE
+  Score : 0.5850635785488393
+  Motivo: The Actual Output correctly references the consumer's right to demand the product at the advertised price, aligning with the Retrieval Context's mention of Article 35 of the Consumer Defense Code. However, it introduces additional options not explicitly detailed in the provided context, such as accepting an equivalent product or rescinding the contract, which slightly deviates from strict adherence to the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.8505122783748809
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, it includes slightly more detail than necessary, which slightly affects the directness compared to the Input.
+
+
+► RELEVANCIA
+  Score : 0.9724870282120402
+  Motivo: The response directly addresses the user's query about whether they can demand the delivery of the TV at the advertised price. It thoroughly covers all aspects of the question by explaining the consumer's rights under the Consumer Protection Code, including the options available if a seller refuses to honor a price. The information is relevant and logically coherent, providing a clear and complete answer to the user's situation.
+
+
+--------------------------------------------------------------------------------
+
+
+[51] PERGUNTA: Fui vítima de um golpe no WhatsApp, fiz um PIX e o banco se recusa a devolver o dinheiro através do MED (Mecanismo Especial de Devolução). Posso processar a instituição financeira?
+► FIDELIDADE
+  Score : 0.26126894538341705
+  Motivo: The Actual Output correctly identifies that financial institutions can be held accountable under the Consumer Protection Code, which is mentioned in the Retrieval Context. However, it introduces external information about the Banco Central do Brasil and the process of reporting to consumer protection agencies, which is not supported by the Retrieval Context. This results in partial alignment with the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.7629315632100029
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it introduces additional information about the Banco Central do Brasil and consumer protection agencies, which slightly increases complexity compared to the Input.
+
+
+► RELEVANCIA
+  Score : 0.89172452889019
+  Motivo: The response directly addresses the user's query about the possibility of suing the financial institution, referencing the Consumer Protection Code and the role of the Central Bank of Brazil. It covers the aspects of the question by explaining the potential responsibility of the bank and suggesting actions the user can take, such as contacting consumer protection agencies. The response is coherent and relevant, with no irrelevant information. However, it could be slightly improved by explicitly mentioning the limitations or challenges in pursuing legal action.
+
+
+--------------------------------------------------------------------------------
+
+
+[52] PERGUNTA: Fizeram várias compras no meu nome de madrugada, mas o banco diz que não vai estornar porque foi usado o chip físico e a senha. Como provar que não fui eu?
+► FIDELIDADE
+  Score : 0.15149561909154016
+  Motivo: The Actual Output suggests contacting the bank and authorities, which is a reasonable response to suspected fraud. However, it does not adhere to the Retrieval Context, which focuses on consumer rights and procedures for product issues, not fraud or unauthorized transactions. The response lacks alignment with the specific details and context provided.
+
+
+► SIMPLICIDADE
+  Score : 0.7782676085830252
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, it could be slightly more direct in addressing the specific concern about proving identity, which slightly affects its straightforwardness.
+
+
+► RELEVANCIA
+  Score : 0.686060704144281
+  Motivo: The response addresses the user's query by suggesting contacting the bank, police, or consumer protection agency, which are logical steps for proving fraud. However, it lacks specific advice on how to gather evidence or challenge the bank's decision, leaving the response somewhat incomplete.
+
+
+--------------------------------------------------------------------------------
+
+
+[53] PERGUNTA: Fui em um rodízio de pizza e deixei algumas bordas no prato. O restaurante pode me cobrar a 'taxa de desperdício' que estava avisada no cardápio?
+► FIDELIDADE
+  Score : 0.0025957359364135856
+  Motivo: The Actual Output does not align with the Retrieval Context, which contains no relevant information about restaurant practices or 'taxa de desperdício'. The response introduces external assumptions not supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.8929294158726588
+  Motivo: The Actual Output uses simple language and short sentences, similar to the Input, making it easy to understand. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the mention of 'provavelmente uma brincadeira ou um erro no cardápio' introduces a slight assumption not present in the Input.
+
+
+► RELEVANCIA
+  Score : 0.4083938031290962
+  Motivo: The response addresses the question about the 'taxa de desperdício' but incorrectly assumes it is a joke or error, which may not be accurate. It fails to consider the possibility of such a charge being legitimate if clearly stated in the menu. The response lacks completeness by not exploring the legal or customary aspects of such charges. Additionally, the suggestion that the restaurant might ask the customer to take leftovers is irrelevant to the question of whether a charge can be applied.
+
+
+--------------------------------------------------------------------------------
+
+
+[54] PERGUNTA: Comprei um processador e uma placa mãe na Kabum e não coube no meu gabinete, posso pedir o arrependimento de 7 dias? Ou como fiz o uso eles não aceitam mais?
+► FIDELIDADE
+  Score : 0.9374733300865266
+  Motivo: The Actual Output accurately reflects the information in the Retrieval Context regarding the right of withdrawal for purchases made outside a commercial establishment, such as online purchases. It correctly states the 7-day period for cancellation and the requirement to return the product, aligning with the details provided in the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.8640635854839898
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the mention of 'protocolar o pedido de cancelamento' could be slightly simplified further.
+
+
+► RELEVANCIA
+  Score : 0.8806056108802235
+  Motivo: The response directly addresses the user's query about the right to cancel a purchase within 7 days, confirming the right to do so for online purchases. It provides complete and logical information on how to proceed with the cancellation, including the need to return the product and receive a refund. The response is coherent and relevant, with no irrelevant information. However, it could slightly improve by explicitly addressing the concern about having used the products.
+
+
+--------------------------------------------------------------------------------
+
+
+[55] PERGUNTA: Contexto: a pessoa comprou uma esteira que apresentou defeito e a empresa queria apenas consertá-la. Eu posso pedir a troca direto ou teria que aceitar o conserto?
+► FIDELIDADE
+  Score : 0.04048195198217444
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about consumer rights related to defective products or the right to request a replacement instead of a repair. The Actual Output introduces external information not supported by the Retrieval Context, which focuses on unrelated topics such as service regularization, billing, and club memberships.
+
+
+► SIMPLICIDADE
+  Score : 0.8695341147722206
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. The sentences are short and direct, similar to those in the Input. There is no complex legal jargon, maintaining clarity and straightforwardness. However, the mention of 'ligações não realizadas' could be slightly more direct to fully match the simplicity of the Input.
+
+
+► RELEVANCIA
+  Score : 0.6230521896480059
+  Motivo: The response addresses the user's query by stating that the person can request a replacement for the defective treadmill, which aligns with the question about whether they can ask for a replacement instead of accepting a repair. However, it lacks completeness as it does not explicitly mention the option of accepting a repair, which is part of the user's query. The response includes some irrelevant information about the company covering additional costs, which is not directly related to the main question. Overall, the response is logically coherent but could be more focused and complete.
+
+
+--------------------------------------------------------------------------------
+
+
+[56] PERGUNTA: Contexto: o produto custava R$ 930 quando comprado, mas atualmente custava cerca de R$ 2.000; a assistência informou que não poderia consertá-lo nem trocar por outro. Posso fazer algo sobre isso? Ou realmente me ferrei?
+► FIDELIDADE
+  Score : 0.5032012185001661
+  Motivo: The Actual Output partially aligns with the Retrieval Context by referencing the consumer's right to a replacement or refund if a product is not repaired within 30 days, which is mentioned in the context. However, it introduces specific monetary values and a direct application of the law to the situation, which are not supported by the Retrieval Context. The context does not provide details about the specific product or its current value, nor does it confirm the applicability of the law to this particular case.
+
+
+► SIMPLICIDADE
+  Score : 0.9107765348632165
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. The only minor shortcoming is the slightly longer sentence explaining the consumer rights, but it remains clear and direct.
+
+
+► RELEVANCIA
+  Score : 0.9074359391510554
+  Motivo: The response directly addresses the user's query by explaining their rights under the Código de Defesa do Consumidor, which is relevant to the situation described. It covers the options available if the product cannot be repaired, such as exchange, refund, or price reduction, aligning well with the user's context. The response is coherent and logical, with no irrelevant information. However, it could slightly improve by explicitly acknowledging the user's concern about being 'ferrei' to fully address the emotional aspect of the query.
+
+
+--------------------------------------------------------------------------------
+
+
+[57] PERGUNTA: Contexto: O usuário estava pensando em comprar uma placa de vídeo usada que ainda teria aproximadamente dois anos de garantia do fabricante e perguntou como poderia utilizar essa garantia se precisasse. Como isso funciona?
+► FIDELIDADE
+  Score : 0.8905865732768697
+  Motivo: The Actual Output aligns well with the Retrieval Context by explaining the process of utilizing a warranty for a used product with a defect. It correctly mentions that if a defect was not previously disclosed, the consumer can seek repair within the warranty period, which matches the context. The output also advises checking the warranty terms, consistent with the context's emphasis on understanding warranty details. However, it slightly deviates by introducing the idea of checking if the defect was informed to the consumer, which is not explicitly detailed in the context.
+
+
+► SIMPLICIDADE
+  Score : 0.8724870270233248
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, it could be slightly more direct in addressing the user's question about how to use the warranty.
+
+
+► RELEVANCIA
+  Score : 0.832242668154405
+  Motivo: The response directly addresses the user's query about using the warranty for a used graphics card, explaining the steps to take if the product has a defect and is still under warranty. It covers the necessary actions and conditions for the warranty to be valid, such as checking if the defect was previously disclosed and ensuring the warranty terms were provided. However, it could be more complete by explicitly mentioning the need to contact the manufacturer or retailer to initiate the warranty process, which is implied but not directly stated.
+
+
+--------------------------------------------------------------------------------
+
+
+[58] PERGUNTA: Contexto: o ventilador apresentou defeito logo após a compra, mas a mãe do usuário havia descartado a caixa. Eu tenho a nota fiscal e a garantia, posso trocar o produto, ou vou perder meu dinheiro?
+► FIDELIDADE
+  Score : 0.4965062210704362
+  Motivo: The Actual Output partially aligns with the Retrieval Context by suggesting contacting the store for resolution, which is consistent with the advice to contact the supplier in case of product issues. However, it lacks specific reference to formalizing a complaint with consumer protection or judicial recourse, which is mentioned in the Retrieval Context. Additionally, the Output does not address the necessity of the product's packaging for complaint registration, as indicated in the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.9640635841117623
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintain clarity and straightforwardness, making it accessible to someone with limited education. The response directly addresses the user's concern about exchanging the product despite the missing box, which is consistent with the Input context.
+
+
+► RELEVANCIA
+  Score : 0.902197862872168
+  Motivo: The response directly addresses the user's query by confirming that the product can be exchanged with the receipt and warranty, despite the box being discarded. It suggests contacting the store for assistance, which is logical and relevant. The response is complete and coherent, with no irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[59] PERGUNTA: Contexto: uma TV OLED de R$ 5 mil apresentou o mesmo problema três vezes, mesmo após duas trocas da tela pela garantia. Dito isso, tenho direito a um produto completamente novo e na caixa ou devolução dos valores pagos? Qual o melhor canal pra exigir esse direito?
+► FIDELIDADE
+  Score : 0.7616003717743964
+  Motivo: The response correctly identifies the consumer's right to a refund as per the Consumer Protection Code, aligning with the Retrieval Context. It also suggests contacting the supplier, which is consistent with the context's guidance on addressing issues with the provider. However, the mention of contacting Procon is not directly supported by the Retrieval Context, which slightly detracts from full alignment.
+
+
+► SIMPLICIDADE
+  Score : 0.8973061588250968
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity and straightforwardness, aligning well with the Input. However, it slightly introduces a legal reference ('Código de Defesa do Consumidor') which could be simplified further.
+
+
+► RELEVANCIA
+  Score : 0.9414898845796769
+  Motivo: The response directly addresses the user's query by confirming the right to a refund due to repeated issues with the TV, aligning with consumer protection laws. It also suggests contacting the store and provides additional guidance on involving Procon if needed. The response is complete, covering both the refund and the appropriate channels for action, with no irrelevant information. The logical coherence is maintained throughout, making the advice clear and actionable.
+
+
+--------------------------------------------------------------------------------
+
+
+[60] PERGUNTA: Contexto: a mãe do usuário comprou um celular por R$ 1.400, mas acabou fazendo um carnê de 15 × R$ 240, totalizando aproximadamente R$ 3.600. Quero saber se posso fazer algo para reverter esta compra.
+► FIDELIDADE
+  Score : 0.7491114209014855
+  Motivo: The Actual Output correctly identifies that if the price charged was different from the advertised price, the consumer can demand compliance with the original offer or a refund, which aligns with the Retrieval Context's mention of article 35 of the Consumer Defense Code. However, it does not address other potential issues like defects or the right to cancel within seven days for purchases made outside a commercial establishment, which are also part of the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.814502157793662
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning well with the Input's simplicity. The sentences are mostly short and direct, maintaining clarity and straightforwardness. However, the explanation could be slightly more concise to better match the brevity of the Input.
+
+
+► RELEVANCIA
+  Score : 0.4539086828480857
+  Motivo: The response partially addresses the user's query by suggesting actions if the price was misrepresented, which is relevant to reversing the purchase. However, it does not fully cover the user's situation, as it doesn't address the possibility of canceling the purchase due to buyer's remorse or other consumer rights that might apply. Additionally, it lacks specific advice on how to proceed with the reversal process, making the response incomplete. There is no irrelevant information, but the logical coherence is limited by the incomplete coverage of potential solutions.
+
+
+--------------------------------------------------------------------------------
+
+
+[61] PERGUNTA: Imobiliária na venda de imóvel é muito necessário? Eu e mais 2 irmãos temos um imóvel de herança que pretendemos vender. Já temos um comprador (o atual inquilino, que mora lá faz anos) que vai financiar parte do valor pela caixa econômica. A questão é que um dos irmãos falou que o processo deve ser feito através de uma imobiliária (disse inclusive que somente poderia ser feito desse modo), que recebe um % do valor, e agora estou em dúvida se é realmente necessário. Tenho um advogado próximo que pode ajudar no contrato, mas fora isso, queria a opinião se realmente é necessário a imobiliária.
+► FIDELIDADE
+  Score : 0.5929822626168685
+  Motivo: The Actual Output correctly states that using a real estate agency is not mandatory, aligning with the Retrieval Context which does not specify any legal requirement for such. It emphasizes the importance of a well-drafted contract and registration, which is consistent with the context's focus on legal documentation. However, it introduces the idea of real estate agencies facilitating the process, which is not directly supported by the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.9377540675801802
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the Output could be slightly more direct in some parts, but overall it effectively communicates the necessary information.
+
+
+► RELEVANCIA
+  Score : 0.9153121754132693
+  Motivo: The response directly addresses the user's query by clarifying that using a real estate agency is not mandatory, which aligns with the user's situation of having a buyer already. It covers all aspects of the question, including the role of a lawyer and the optional benefits of using an agency. The output is coherent and free of irrelevant information, providing a clear and logical explanation of the options available.
+
+
+--------------------------------------------------------------------------------
+
+
+[62] PERGUNTA: Diminuição de Parcelas de Financiamento de Casa. Eu comprei uma casa recentemente, e pago 1.400$ por mês da caixa e mais 1.000$ (40 parcelas) da entrada. Desde que assinei (faz 1 ano), recebo muitos contatos de advogados e consultorias, falando de revisão de contrato e redução de parcelas. Principalmente quando o valor é acima de mil. Isso realmente funciona? Como é isso? Pois eles divulgam como se servisse para todos contratos imobiliários.
+► FIDELIDADE
+  Score : 0.2583581725550354
+  Motivo: The Actual Output partially aligns with the Input by addressing the possibility of reducing financing installments and the need to check contract clauses. However, it introduces the idea that a high entry value might allow for reduction, which is not supported by the Retrieval Context. The Retrieval Context lacks specific information about reducing installments based on entry value or general contract revision, leading to discrepancies in the response.
+
+
+► SIMPLICIDADE
+  Score : 0.9112190285541011
+  Motivo: The Actual Output uses simple language and short, direct sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, it could slightly improve by directly addressing the question 'Isso realmente funciona?' more explicitly.
+
+
+► RELEVANCIA
+  Score : 0.8165321160484739
+  Motivo: The response directly addresses the user's query about the possibility of reducing house financing installments, covering key aspects such as contract conditions and the role of legal consultations. It logically explains that not all contracts allow for such changes and advises verifying contract clauses. However, it could be more complete by explaining why offers are common when the amount is above a thousand, as mentioned in the input.
+
+
+--------------------------------------------------------------------------------
+
+
+[63] PERGUNTA: Xingamento no telemarketing. Uma empresa de cobranças me liga insistentemente faz meses procurando uma mulher que eu nunca ouvi falar. Sempre pedi educadamente inúmeras vezes para retirar meu nome e o atendente me diz que está tudo certo. Essa semana eu me descontrolei a passei a xingar. Na prática isso pode resultar em algum processo contra mim?
+► FIDELIDADE
+  Score : 0.23183069097260764
+  Motivo: The Actual Output partially addresses the Input by acknowledging potential legal issues from the xingamento, but it introduces external information about legal consequences not supported by the Retrieval Context. The Retrieval Context lacks specific details on legal repercussions for xingamento, focusing instead on telemarketing regulations and consumer rights. Thus, the response does not strictly adhere to the available information.
+
+
+► SIMPLICIDADE
+  Score : 0.8716874492805176
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the explanation about legal consequences could be slightly more direct to fully match the Input's straightforwardness.
+
+
+► RELEVANCIA
+  Score : 0.8987654904424394
+  Motivo: The response directly addresses the user's query about potential legal consequences of using offensive language during telemarketing calls. It covers the possibility of legal action against the user and acknowledges the user's rights regarding unwanted calls, thus addressing all aspects of the question. The response is logically coherent and relevant, with no extraneous information.
+
+
+--------------------------------------------------------------------------------
+
+
+[64] PERGUNTA: VIVO me cobrando WiFi que eu não uso. Mais ou menos pro dia 15 de junho me mudei, liguei para a Vivo antes solicitando transferência de lugar da minha fibra, porém, me informaram que o local para onde eu ia não tinha cobertura e nisso eles me passaram para a Claro onde eu assinei um plano de WiFi. Vale ressaltar que meu plano de Internet é junto com o do celular, onde R$95 era de WiFi e R$40 de celular. Hoje liguei para a Vivo informando que não ia pagar os R$95 da fibra pois estou a mais de um mês sem usá-la e eles por ativamente me informarem que eu não tinha como ter WiFi da Vivo na minha nova casa, deveriam ter feito o cancelamento dela já que foi isso que solicitei. E agora, nessa ligação me falaram que SIM tinha cobertura da Vivo onde eu moro, o motivo de terem dito que não tinha eu não sei. Agora estão me cobrando esse valor e ainda disseram que se eu cancelar agora terei que pagar uma multa por cancelamento, pois quero pagar somente o plano de celular, e não posso cancelar da Claro pois também tem multa.
+► FIDELIDADE
+  Score : 0.09412267992444492
+  Motivo: The Actual Output does not align with the Retrieval Context, which lacks any information about telecommunications services or cancellation policies related to WiFi or internet services. The response introduces external advice and assumptions not supported by the provided context, which focuses on health plan cancellations and legal penalties unrelated to the user's issue with Vivo.
+
+
+► SIMPLICIDADE
+  Score : 0.773100848827024
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, addressing the issue of being charged for unused WiFi and the potential cancellation fee. However, it could be more direct in addressing the specific details of the Input, such as the confusion about coverage and the transition to Claro, which slightly affects the alignment.
+
+
+► RELEVANCIA
+  Score : 0.4962780321992096
+  Motivo: The response addresses the user's issue of being charged for a service not used and suggests contacting Vivo to cancel without a penalty. However, it lacks completeness by not addressing the confusion about coverage availability and the transition to Claro. The advice to send an email or letter is relevant but does not fully resolve the user's complex situation involving multiple service providers and potential penalties.
+
+
+--------------------------------------------------------------------------------
+
+
+[65] PERGUNTA: Fiz uma aplicação por engano e o banco não quer devolver meu dinheiro. Ano passado apliquei 400 reais em renda fixa, mas não reparei que só poderia sacar em 2028. Entrei em contato com o banco e eles disseram que não seria possível ressarcir o dinheiro. Existe algum meio que eu possa recorrer ou vou ter que esperar mesmo?
+► FIDELIDADE
+  Score : 0.1979656053736188
+  Motivo: The Actual Output suggests contacting the bank and consumer protection agencies, which is a reasonable approach. However, it does not strictly adhere to the Retrieval Context, which lacks specific information about consumer rights or banking policies related to the situation described in the Input. The response introduces external advice not supported by the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.909658098749928
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity and straightforwardness, aligning well with the simplicity of the Input. However, it could slightly improve by directly addressing the specific situation mentioned in the Input.
+
+
+► RELEVANCIA
+  Score : 0.7912795102866803
+  Motivo: The response directly addresses the user's query by suggesting steps to resolve the issue, such as contacting the bank and seeking help from consumer protection agencies like PROCON. It covers the main aspects of the question, including potential recourse options. However, it lacks specific legal advice or acknowledgment of the fixed-term nature of the investment, which slightly affects completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[66] PERGUNTA: O banco pode descontar a parcela do meu empréstimo direto da minha conta salário e me deixar sem dinheiro nenhum?
+► FIDELIDADE
+  Score : 0.23134825773473483
+  Motivo: The Actual Output partially aligns with the Input by addressing the question about the bank deducting loan installments from a salary account. However, it introduces external information about consent and laws not present in the Retrieval Context. The Retrieval Context does not provide specific details about loan deductions or consent, leading to discrepancies in the response.
+
+
+► SIMPLICIDADE
+  Score : 0.880069200922993
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, the mention of 'antecipado' could be slightly confusing without further simplification.
+
+
+► RELEVANCIA
+  Score : 0.9218358428976305
+  Motivo: The response directly addresses the user's query by stating that the bank cannot deduct loan payments from the salary account without consent, aligning well with the question. It covers the key aspect of consent and legal requirements, making the answer complete and coherent. There is no irrelevant information present.
+
+
+--------------------------------------------------------------------------------
+
+
+[67] PERGUNTA: Fui demitido e não consigo mais pagar o financiamento do carro, posso devolver o veículo para quitar a dívida amigavelmente?
+► FIDELIDADE
+  Score : 0.3308112056160769
+  Motivo: The Actual Output correctly states that there is no information available in the Retrieval Context about returning a vehicle to settle a car loan debt. However, it fails to address the Input directly and does not provide any guidance or alternative suggestions based on the Retrieval Context. The response is accurate in not introducing external information but lacks depth in addressing the user's query.
+
+
+► SIMPLICIDADE
+  Score : 0.6009694003340551
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input's style. However, it does not directly address the question about returning the vehicle to settle the debt, which affects clarity and straightforwardness.
+
+
+► RELEVANCIA
+  Score : 0.2305560785002005
+  Motivo: The response acknowledges the user's question but fails to provide any relevant information or guidance on the possibility of returning a vehicle to settle a car loan debt. It lacks completeness and does not address the main concern, which is whether returning the vehicle is a viable option. The response is coherent but ultimately unhelpful, as it does not cover any aspect of the user's query.
+
+
+--------------------------------------------------------------------------------
+
+
+[68] PERGUNTA: Existe um limite máximo de juros que o banco pode me cobrar no rotativo do cartão de crédito?
+► FIDELIDADE
+  Score : 0.2804769600253959
+  Motivo: The Actual Output incorrectly states that the law does not address interest rate limits on credit cards, which is not supported by the Retrieval Context. The context provided does not mention credit card interest rates, focusing instead on government debt and credit operations. The response fails to align with the context and introduces unsupported claims about the law.
+
+
+► SIMPLICIDADE
+  Score : 0.7982427119522804
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it could be slightly more direct by explicitly stating that there is no legal limit on credit card interest rates, rather than focusing on what the law does cover.
+
+
+► RELEVANCIA
+  Score : 0.29890694308862414
+  Motivo: The response incorrectly states that there is no legal limit on credit card interest rates, which is misleading. While it mentions the law's focus on government debts and credit operations, it fails to address specific regulations or guidelines that might apply to credit card interest rates. The response lacks completeness and contains irrelevant information about government debts, which does not directly answer the user's question about credit card interest limits.
+
+
+--------------------------------------------------------------------------------
+
+
+[69] PERGUNTA: O que acontece na prática se eu não conseguir pagar nem o valor mínimo da fatura do meu cartão?
+► FIDELIDADE
+  Score : 0.8195711729338797
+  Motivo: The Actual Output aligns well with the Retrieval Context by stating that the administrator can demand the full invoice amount and remove the minimum payment option if the minimum payment is not made. This is supported by the context mentioning that the administrator can withdraw the minimum payment option and require full payment. However, the output introduces the idea of charging the full invoice and fees, which is not explicitly detailed in the context, slightly reducing the alignment.
+
+
+► SIMPLICIDADE
+  Score : 0.8932477742685105
+  Motivo: The Actual Output uses simple language and short sentences, similar to the Input, making it easy to understand. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity and directness required for the intended audience. However, it could slightly improve by simplifying the explanation of 'encargos' to ensure complete accessibility.
+
+
+► RELEVANCIA
+  Score : 0.7946825076549036
+  Motivo: The response directly addresses the user's query about the consequences of not paying the minimum credit card bill, covering key aspects such as the potential for the full amount and charges to be demanded and the removal of the minimum payment option. However, it lacks details on other possible consequences like credit score impact or legal actions, which affects completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[70] PERGUNTA: Descobri um empréstimo consignado no meu benefício do INSS que eu nunca pedi e nem assinei nada, o que devo fazer?
+► FIDELIDADE
+  Score : 0.021498771505521395
+  Motivo: The Actual Output does not align with the Retrieval Context, which contains legal articles unrelated to the issue of unauthorized loans on INSS benefits. The response introduces external advice and entities not mentioned in the Retrieval Context, failing to adhere to the provided information.
+
+
+► SIMPLICIDADE
+  Score : 0.7521398477907877
+  Motivo: The Actual Output uses simple language and short sentences, making it accessible to someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the Input. However, it introduces slightly more detail than necessary, such as mentioning specific institutions and roles, which could be simplified further.
+
+
+► RELEVANCIA
+  Score : 0.7613326179820115
+  Motivo: The response directly addresses the user's query by advising them to contact the relevant authorities (Caixa Econômica Federal or INSS) to investigate and potentially cancel the unauthorized loan. It also suggests seeking legal or social assistance, which is relevant and helpful. However, the mention of negotiating payment for a debt that the user did not incur is slightly misleading, as it implies responsibility for the unauthorized loan. Overall, the response is mostly complete and coherent, with minor issues in logical consistency.
+
+
+--------------------------------------------------------------------------------
+
+
+[71] PERGUNTA: Cancelei minha internet no mês passado, mas recebi uma fatura cobrando o mês inteiro atual, sou obrigado a pagar?
+► FIDELIDADE
+  Score : 0.28347995574772317
+  Motivo: The Actual Output correctly identifies that the consumer should not be charged for services not received after cancellation, aligning with the general principle of consumer rights. However, it introduces advice not explicitly supported by the Retrieval Context, such as asking the supplier for an explanation and documenting the situation, which are not mentioned in the provided context. The Retrieval Context focuses on the process of cancellation and documentation but does not explicitly cover the scenario of receiving a bill post-cancellation.
+
+
+► SIMPLICIDADE
+  Score : 0.9647798231551248
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintaining clarity and straightforwardness, making it accessible to someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.9134413579688377
+  Motivo: The response directly addresses the user's query about whether they are obligated to pay for a service after cancellation, clearly stating that they are not required to pay. It covers all aspects of the question by explaining the user's rights and suggesting they contact the provider for clarification. The information is relevant and logically coherent, with no deviation from the topic.
+
+
+--------------------------------------------------------------------------------
+
+
+[72] PERGUNTA: Uma empresa de cobrança me mandou mensagem no WhatsApp ameaçando bloquear meus bens em 24h, isso é legal?
+► FIDELIDADE
+  Score : 0.046579476634128765
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about the legality of debt collection practices or threats made by companies. The response introduces external information about legal procedures and crimes of coercion, which are not supported by the details in the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.8968807510214262
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, the mention of 'crime de coação' could be slightly simplified further to enhance understanding.
+
+
+► RELEVANCIA
+  Score : 0.979310594140365
+  Motivo: The response directly addresses the user's query about the legality of the company's threat, clearly stating that it is not legal. It covers all aspects of the question by explaining the legal requirements for debt collection and the illegality of threats, ensuring completeness. There is no irrelevant information, and the response is logically coherent and consistent with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[73] PERGUNTA: Paguei a mensalidade da faculdade duas vezes por engano no mesmo mês, como faço para receber meu dinheiro de volta?
+► FIDELIDADE
+  Score : 0.012225826348075713
+  Motivo: The Actual Output does not align with the Retrieval Context, which contains information unrelated to the query about refunding a double payment to a university. The response introduces external information about general refund procedures and institutional policies, which are not supported by the provided Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.8724870270233248
+  Motivo: The Actual Output uses simple language and short, direct sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, the initial apology and explanation about not having specific information slightly deviates from the directness of the Input.
+
+
+► RELEVANCIA
+  Score : 0.9023950024901879
+  Motivo: The response directly addresses the user's query about receiving a refund for a double payment of a college fee. It provides a logical and complete explanation of the general process, including contacting the institution and following their procedures. The response is coherent and relevant, with no irrelevant information. However, it could be slightly improved by mentioning the importance of keeping payment records for verification.
+
+
+--------------------------------------------------------------------------------
+
+
+[74] PERGUNTA: O banco me cobrou uma tarifa de manutenção de conta que eu não fui avisado, posso pedir o estorno desse valor?
+► FIDELIDADE
+  Score : 0.05382425769119233
+  Motivo: The Actual Output introduces external information about consumer rights and laws regarding bank fees and contract copies, which are not present in the Retrieval Context. The Retrieval Context does not contain any relevant information about bank fees, consumer rights, or contract obligations, leading to a complete misalignment with the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.8069907771201361
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, the mention of 'fraude no cartão de crédito' introduces a slightly more complex concept not present in the Input, which could affect understanding.
+
+
+► RELEVANCIA
+  Score : 0.8076342563461589
+  Motivo: The response directly addresses the user's query about requesting a refund for an unnotified maintenance fee, aligning well with the evaluation steps. It correctly states that the user can request a refund and mentions the legal requirement for banks to inform consumers about fees. However, it introduces slightly irrelevant information about fraud on credit cards, which is not directly related to the user's situation, slightly affecting completeness and relevance.
+
+
+--------------------------------------------------------------------------------
+
+
+[75] PERGUNTA: Recebi uma cobrança de um serviço de antivírus que eu não contratei, preciso pagar para não sujar meu nome e só depois reclamar?
+► FIDELIDADE
+  Score : 0.13799173279936644
+  Motivo: The Actual Output advises not to pay for a service not contracted, suggesting it might be fraud, which aligns with consumer rights principles. However, the Retrieval Context does not provide specific information about handling fraudulent charges or consumer rights related to unsolicited services. The response introduces external advice not supported by the provided context, leading to a low score.
+
+
+► SIMPLICIDADE
+  Score : 0.898388848060762
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the sentence 'O contrato deve ter sido assinado por você, mas pode ser um erro ou uma fraude' could be slightly simplified for even better alignment.
+
+
+► RELEVANCIA
+  Score : 0.9622459331201855
+  Motivo: The response directly addresses the user's query by advising not to pay for a service they did not contract, which aligns with the user's concern about an unauthorized charge. It covers all aspects of the question by explaining the possibility of fraud and suggesting the user has the right to dispute the charge. The response is coherent and relevant, providing logical advice without any irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[76] PERGUNTA: Comprei um celular, deixei cair na água e ele parou de funcionar. A garantia de fábrica cobre mau uso ou acidente?
+► FIDELIDADE
+  Score : 0.022632963466252223
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about warranty coverage for cell phones or accidents, nor does it mention 'Extensão de Garantia'. The response introduces external information not supported by the context, failing to adhere to the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.8066882565865582
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, there is a slight complexity introduced with the mention of 'Extensão de Garantia,' which could be simplified further.
+
+
+► RELEVANCIA
+  Score : 0.5637335036706187
+  Motivo: The response partially addresses the user's query by stating that the factory warranty does not cover misuse but may cover accidents. However, it incorrectly suggests that the warranty might cover water damage without acknowledging that most standard warranties do not cover such incidents unless explicitly stated. The mention of 'Extensão de Garantia' is relevant but not clearly explained, leaving the response incomplete and somewhat misleading.
+
+
+--------------------------------------------------------------------------------
+
+
+[77] PERGUNTA: A loja me vendeu um produto 'de mostruário' com um risco na porta. Se ele der defeito no motor, eu perco a garantia por ser de mostruário?
+► FIDELIDADE
+  Score : 0.9930458251155316
+  Motivo: The Actual Output accurately reflects the Retrieval Context by explaining that a product 'de mostruário' with a defect not listed on the invoice is still covered by warranty. It correctly states that if the defect was informed beforehand, the warranty does not apply, aligning with the context's details about pre-informed defects and warranty conditions.
+
+
+► SIMPLICIDADE
+  Score : 0.7860964038383215
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning well with the Input's simplicity. The sentences are mostly short and direct, maintaining clarity and straightforwardness. However, the explanation about the note fiscal and the distinction between legal and contractual warranty could be slightly complex for someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.885716624795255
+  Motivo: The response directly addresses the user's query about the warranty implications for a 'de mostruário' product with a motor defect. It explains the conditions under which the warranty would be voided, specifically if the defect was noted at purchase. The response is complete, covering both scenarios of noted and unnoted defects, and is logically coherent. There is no irrelevant information present.
+
+
+--------------------------------------------------------------------------------
+
+
+[78] PERGUNTA: Comprei uma geladeira nova e ela veio muito amassada da transportadora, a loja é obrigada a trocar ou apenas me dar um desconto?
+► FIDELIDADE
+  Score : 0.2469162447733952
+  Motivo: The Actual Output partially aligns with the Input by addressing the issue of a damaged product and suggesting that the store should either replace it or offer a discount. However, it introduces external advice about written complaints, which is not supported by the Retrieval Context. The Retrieval Context does not provide specific guidance on the store's obligations in case of damage, leading to a lack of strict adherence to the available information.
+
+
+► SIMPLICIDADE
+  Score : 0.9006980068064714
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, the additional advice about written complaints, while helpful, slightly increases complexity compared to the Input.
+
+
+► RELEVANCIA
+  Score : 0.8451218571881448
+  Motivo: The response directly addresses the user's query by stating that the store must either replace the damaged refrigerator or offer a discount, aligning well with the user's question. It also provides additional advice on documenting the damage, which is relevant and useful. However, it could be more explicit about the legal obligation of the store to replace the item, which slightly affects completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[79] PERGUNTA: Deixei meu notebook na assistência técnica autorizada e eles disseram que a peça vem de fora e vai demorar 45 dias, eles podem passar de 30 dias?
+► FIDELIDADE
+  Score : 0.1790235606777129
+  Motivo: The Actual Output incorrectly states that the repair time can exceed 30 days if the part is from outside, which is not supported by the Retrieval Context. The context specifies a maximum of 30 days for repairs, with no mention of exceptions for parts sourced externally. This introduces external information not present in the context, failing to adhere strictly to the provided details.
+
+
+► SIMPLICIDADE
+  Score : 0.905015974233429
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, it could slightly improve by explicitly stating the legal basis for the extension beyond 30 days.
+
+
+► RELEVANCIA
+  Score : 0.7990135871765739
+  Motivo: The response directly addresses the user's query about the repair time exceeding 30 days due to parts coming from abroad. It explains that while the maximum is typically 30 days, exceptions are made for parts sourced externally, which aligns with the user's situation. However, it lacks a more detailed explanation of the legal basis or conditions under which this extension is permissible, which would enhance completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[80] PERGUNTA: O que é exatamente a garantia estendida que as lojas empurram no caixa? Vale a pena comprar?
+► FIDELIDADE
+  Score : 0.8738645718424918
+  Motivo: The Actual Output accurately describes the concept of extended warranty as a paid insurance that extends coverage beyond the legal or contractual warranty, aligning with the Retrieval Context. It correctly notes that coverage may be partial, such as only covering the phone and not the battery. The advice to read the contract and the non-obligatory nature of purchasing the warranty are also supported by the Retrieval Context. However, it lacks specific mention of the SUSEP regulations and the potential for monetary compensation or product replacement, which are detailed in the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.8909520822991931
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, the sentence about reading the contract could be slightly simplified to enhance directness.
+
+
+► RELEVANCIA
+  Score : 0.8916062649868085
+  Motivo: The response directly addresses the user's query by explaining what an extended warranty is and whether it is worth purchasing. It covers both aspects of the question adequately, providing a clear definition and advice on purchasing. The response is logically coherent and relevant, with no irrelevant information included. However, it could slightly improve by mentioning common scenarios where an extended warranty might be beneficial.
+
+
+--------------------------------------------------------------------------------
+
+
+[81] PERGUNTA: Fiz uma compra por uma página do Instagram e a loja me bloqueou, o meu banco pode cancelar a compra no cartão de crédito?
+► FIDELIDADE
+  Score : 0.6579416496729429
+  Motivo: The response correctly identifies that the consumer has the right to cancel purchases made online within seven days, as per the Código de Defesa do Consumidor, which aligns with the Retrieval Context. However, it introduces the idea that the bank can cancel the purchase, which is not explicitly supported by the provided context, leading to a slight misalignment.
+
+
+► SIMPLICIDADE
+  Score : 0.8943425714372808
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, it slightly introduces a legal reference ('Código de Defesa do Consumidor'), which could be simplified further.
+
+
+► RELEVANCIA
+  Score : 0.9067334230608569
+  Motivo: The response directly addresses the user's query about canceling a credit card purchase due to being blocked by an Instagram store, aligning well with the evaluation steps. It covers the possibility of bank intervention and references consumer rights, ensuring completeness. The information is relevant and logically coherent, with no deviation from the topic.
+
+
+--------------------------------------------------------------------------------
+
+
+[82] PERGUNTA: Comprei uma passagem aérea pela internet, tenho direito a cancelar e receber o dinheiro de volta se eu me arrepender em até 7 dias?
+► FIDELIDADE
+  Score : 0.8940728444770075
+  Motivo: The Actual Output correctly states that the consumer has the right to cancel an online purchase within 7 days, aligning with the Retrieval Context. It accurately references the need to send a cancellation request with acknowledgment of receipt, which is supported by the context. However, it introduces the method of sending the request via mail or in person, which is not explicitly detailed in the provided context, slightly affecting the strict adherence to the context.
+
+
+► SIMPLICIDADE
+  Score : 0.807577188769255
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input's simplicity. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, the mention of 'aviso de recebimento (AR)' could be slightly complex for someone with limited education, slightly affecting accessibility.
+
+
+► RELEVANCIA
+  Score : 0.8745206809654226
+  Motivo: The response directly addresses the user's query about the right to cancel an online purchase within 7 days, aligning well with the evaluation steps. It correctly references the Consumer Protection Code, which is relevant to the question. However, it slightly deviates by mentioning the method of cancellation (via mail or in person), which, while useful, is not directly asked in the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[83] PERGUNTA: O produto chegou, mas a cor é bem diferente da foto do site. Se eu usar o direito de arrependimento, quem tem que pagar o frete de devolução?
+► FIDELIDADE
+  Score : 0.31227804754567307
+  Motivo: The Actual Output correctly identifies the right of withdrawal under the Código de Defesa do Consumidor, which is mentioned in the Retrieval Context. However, it incorrectly states that the company must pay for the return shipping, which is not supported by the provided context. The context does not specify who bears the cost of return shipping, leading to a discrepancy in the response.
+
+
+► SIMPLICIDADE
+  Score : 0.936658974324231
+  Motivo: The Actual Output uses simple language and short sentences, similar to the Input, making it easy to understand. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the mention of 'Código de Defesa do Consumidor' could be slightly complex for someone with limited education, preventing a perfect score.
+
+
+► RELEVANCIA
+  Score : 0.9939913349615601
+  Motivo: The response directly addresses the user's query about who is responsible for paying the return shipping when exercising the right of withdrawal. It clearly states that the company must pay the return shipping, referencing consumer protection laws, which covers all aspects of the question. There is no irrelevant information, and the response is logically coherent and consistent with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[84] PERGUNTA: Comprei um curso online, baixei o material e assisti algumas aulas. Ainda posso pedir o cancelamento total nos primeiros 7 dias?
+► FIDELIDADE
+  Score : 0.959933565635905
+  Motivo: The Actual Output accurately reflects the Retrieval Context by confirming the right to cancel an online course within 7 days, as per the Código de Defesa do Consumidor. It correctly advises on the procedure for cancellation, including sending a written request and retaining proof, which aligns with the context provided. There are no discrepancies or unsupported information in the response.
+
+
+► SIMPLICIDADE
+  Score : 0.8746138998675775
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the mention of 'Código de Defesa do Consumidor' could be slightly complex for the intended audience, preventing a perfect score.
+
+
+► RELEVANCIA
+  Score : 0.9963779947906273
+  Motivo: The response directly addresses the user's query about the possibility of canceling an online course within 7 days, aligning with consumer protection laws. It covers all aspects of the question by confirming the right to cancel, explaining the process, and mentioning the need to return materials. The information is relevant and logically coherent, with no deviations from the topic.
+
+
+--------------------------------------------------------------------------------
+
+
+[85] PERGUNTA: Fiz um pedido de comida por aplicativo, demorou duas horas e chegou totalmente frio. Sou obrigado a aceitar e pagar?
+► FIDELIDADE
+  Score : 0.04218727681297359
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about food delivery, consumer rights related to delayed or cold food, or the possibility of requesting compensation. The response introduces external information not supported by the context.
+
+
+► SIMPLICIDADE
+  Score : 0.9247987431798028
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, the phrase 'pedir indenização' might be slightly more complex than the rest of the language used.
+
+
+► RELEVANCIA
+  Score : 0.8281400233309466
+  Motivo: The response directly addresses the user's query about whether they are obligated to accept and pay for a delayed and cold food delivery, advising that they have the right to complain and seek compensation. It covers the main aspects of the question, including potential actions like requesting a credit. However, it could be improved by explicitly mentioning the option to refuse payment, which is implied but not directly stated. The response is coherent and relevant, with no extraneous information.
+
+
+--------------------------------------------------------------------------------
+
+
+[86] PERGUNTA: A operadora de celular pode cortar ou diminuir a velocidade da minha internet móvel se eu atingir meu limite de dados no mês?
+► FIDELIDADE
+  Score : 0.053711090488782254
+  Motivo: The Actual Output does not align with the Retrieval Context. The context does not provide any information about mobile data limits or the actions operators can take when limits are reached. The response introduces unsupported claims about blocking calls and not reducing internet speed, which are not mentioned in the context.
+
+
+► SIMPLICIDADE
+  Score : 0.6131060066933711
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input's style. However, it introduces additional information about blocking calls, which is not present in the Input, slightly affecting clarity and focus. The response avoids complex legal jargon, maintaining accessibility for the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.2649697201768914
+  Motivo: The response incorrectly states that the operator cannot reduce the speed of the mobile internet upon reaching the data limit, which is a common practice. It also introduces irrelevant information about blocking calls, which was not part of the question. The response lacks completeness and logical coherence as it fails to accurately address the main query about data limits and speed reduction.
+
+
+--------------------------------------------------------------------------------
+
+
+[87] PERGUNTA: Quero mudar para um plano mais barato da mesma operadora, mas eles dizem que isso gera multa por quebra de fidelidade, procede?
+► FIDELIDADE
+  Score : 0.16735650103412525
+  Motivo: The Actual Output incorrectly states that changing to a cheaper plan without a penalty is allowed by law, which is not supported by the Retrieval Context. The context does not provide any specific information about changing plans or penalties related to fidelity. The response introduces external information about legal permissions that are not present in the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.9237138788212216
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, it could slightly improve by omitting the suggestion to check plan coverages, which adds a minor layer of complexity.
+
+
+► RELEVANCIA
+  Score : 0.7188702791168097
+  Motivo: The response directly addresses the user's query by stating that switching to a cheaper plan should not incur a penalty, aligning with the user's concern about a fidelity breach fee. However, it lacks a detailed explanation of the legal basis or conditions under which this is true, which affects completeness. The suggestion to check plan coverages is relevant but not directly related to the penalty issue, slightly detracting from focus.
+
+
+--------------------------------------------------------------------------------
+
+
+[88] PERGUNTA: Fiquei três dias sem sinal de internet em casa por problema na rede, a empresa tem que descontar automaticamente esse período da minha fatura?
+► FIDELIDADE
+  Score : 0.13276836161637293
+  Motivo: The Actual Output partially addresses the Input by suggesting contacting the company, which is mentioned in the Retrieval Context. However, it incorrectly states that the company does not need to automatically discount the period without service, which is not supported by the Retrieval Context. Additionally, it introduces external information about the Código de Defesa do Consumidor that is not relevant to the specific issue of internet service disruption.
+
+
+► SIMPLICIDADE
+  Score : 0.7549635348431404
+  Motivo: The Actual Output uses simple language and short sentences, similar to the Input, making it easy to understand. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it introduces additional information about the Consumer Defense Code and cancellation terms, which slightly deviates from the simplicity of the Input.
+
+
+► RELEVANCIA
+  Score : 0.718493130094138
+  Motivo: The response directly addresses the user's query by stating that the company is not required to automatically discount the period without service. It advises the user to contact the company, which is relevant and logical. However, the mention of the seven-day cancellation period for purchases outside a commercial establishment is not directly related to the question about automatic billing adjustments, making it slightly irrelevant.
+
+
+--------------------------------------------------------------------------------
+
+
+[89] PERGUNTA: Estão me cobrando na fatura por um pacote de canais de filmes que eu já pedi para cancelar há três meses, o que eu faço?
+► FIDELIDADE
+  Score : 0.8006365716718851
+  Motivo: The Actual Output aligns well with the Retrieval Context by advising written communication for cancellation, which is supported by the context's emphasis on formalizing cancellation requests in writing. However, the Output lacks specific reference to the legal framework or specific laws mentioned in the Retrieval Context, such as the Code of Consumer Protection or specific state laws, which could have strengthened the response.
+
+
+► SIMPLICIDADE
+  Score : 0.7189117259773496
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning well with the Input's simplicity. However, some sentences are longer and slightly more complex than those in the Input, such as the explanation about sending a letter and keeping proof of communication. Overall, the response maintains clarity and straightforwardness, making it accessible to the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.8395693740144747
+  Motivo: The response directly addresses the user's issue of being charged for a canceled service by advising on steps to dispute the charge, such as sending a letter and keeping proof of communication. It covers the main aspects of the query, including the importance of written communication to prevent future charges. However, it could be improved by suggesting contacting customer service directly for immediate resolution. The response is coherent and relevant to the user's problem.
+
+
+--------------------------------------------------------------------------------
+
+
+[90] PERGUNTA: A empresa de telefonia pode negativar meu nome no Serasa se eu me recusar a pagar apenas a multa de fidelidade abusiva?
+► FIDELIDADE
+  Score : 0.09232387980096049
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about consumer rights, the Code of Consumer Protection, or the legality of negative credit reporting related to abusive fidelity fines. The response introduces external information not supported by the context, failing to adhere to the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.8106770320888428
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning well with the Input's simplicity. The sentences are mostly short and direct, maintaining clarity and straightforwardness. However, the response could be slightly more concise to better match the brevity of the Input.
+
+
+► RELEVANCIA
+  Score : 0.7023792700078249
+  Motivo: The response addresses the main question about whether a company can negatively report a consumer for not paying an abusive loyalty penalty, stating that it cannot. It also provides relevant information about consumer rights and suggests actions if the penalty is deemed abusive. However, it incorrectly states that a company cannot report a debt to Serasa, which is misleading, and includes some irrelevant details about negotiating with the company, which slightly detracts from the focus.
+
+
+--------------------------------------------------------------------------------
+
+
+[91] PERGUNTA: A companhia de energia elétrica pode cortar minha luz na sexta-feira à tarde ou no fim de semana por falta de pagamento?
+► FIDELIDADE
+  Score : 0.8135638557103182
+  Motivo: The response correctly states that the energy company cannot cut off electricity without prior notice, aligning with the Retrieval Context which mentions the requirement of a 15-day notice as per ANEEL's Resolução 414/10. However, the response introduces the idea of contacting the company if the bill is paid, which is not directly supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.8727975448905978
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, providing a straightforward explanation about the need for prior notice before cutting electricity. However, the mention of 'conforme a lei' slightly introduces a legal reference, which could be simplified further.
+
+
+► RELEVANCIA
+  Score : 0.7327609437631126
+  Motivo: The response directly addresses the user's query about whether electricity can be cut off on a Friday afternoon or weekend due to non-payment, explaining that prior notice is required by law. It covers the main aspect of the question regarding the timing and conditions of service interruption. However, it includes slightly irrelevant information about paying on time and contacting the company, which is not directly related to the specific timing question.
+
+
+--------------------------------------------------------------------------------
+
+
+[92] PERGUNTA: Não recebi a fatura de água este mês na minha caixa de correio. Sou obrigado a ir atrás da segunda via ou posso esperar o mês que vem para pagar sem juros?
+► FIDELIDADE
+  Score : 0.047677087306508534
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about water bill payments or the process for obtaining a second copy of a bill. Instead, it discusses legal procedures unrelated to the query. The response introduces external information not supported by the context, such as involving a judge for a second copy of a water bill, which is not mentioned in the context.
+
+
+► SIMPLICIDADE
+  Score : 0.3757612548829371
+  Motivo: The Actual Output uses simple language and short sentences, aligning with the Input's style. However, it introduces unnecessary legal references, such as 'juiz da zona' and 'publicar um anúncio', which complicate the response and deviate from the Input's straightforwardness. This reduces clarity and accessibility for the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.3010489421356332
+  Motivo: The response partially addresses the user's query by suggesting that they can wait until next month to pay without interest. However, it incorrectly advises contacting a judge for a duplicate bill, which is irrelevant and misleading. The response lacks logical coherence and completeness, as it does not provide a practical or accurate method for obtaining a duplicate bill.
+
+
+--------------------------------------------------------------------------------
+
+
+[93] PERGUNTA: Tive um vazamento invisível no cano debaixo da terra e a conta de água veio em 2 mil reais. A concessionária pode dar um desconto?
+► FIDELIDADE
+  Score : 0.11802465049943991
+  Motivo: The Actual Output does not address the Input question about a water bill discount due to a leak, and instead offers unrelated assistance about laws and regulations. The Retrieval Context does not provide relevant information about water bill discounts, but the response fails to acknowledge the specific issue raised in the Input.
+
+
+► SIMPLICIDADE
+  Score : 0.35337657501015357
+  Motivo: The Actual Output uses simple language and short sentences, aligning with the Input's style. However, it fails to address the specific question about a discount for a water bill due to a leak, which affects clarity and straightforwardness. The response also introduces an unrelated offer to provide information about laws and regulations, which does not align with the simplicity and directness of the Input.
+
+
+► RELEVANCIA
+  Score : 0.21035865676869053
+  Motivo: The response acknowledges the user's issue but fails to directly address the question about whether the utility company can offer a discount. It offers to provide information on laws and regulations, which is somewhat relevant but does not adequately cover the user's query. The response lacks completeness and coherence in addressing the specific concern about discounts.
+
+
+--------------------------------------------------------------------------------
+
+
+[94] PERGUNTA: Moro de aluguel e o antigo inquilino fugiu deixando dívida de luz. A companhia pode se recusar a ligar a energia para o meu nome?
+► FIDELIDADE
+  Score : 0.19778767921236187
+  Motivo: The Actual Output partially addresses the Input by stating that the company cannot refuse to connect the energy in the new tenant's name. However, it introduces external information by assuming the user is the new property owner, which is not supported by the Retrieval Context. Additionally, the Retrieval Context does not provide specific guidance on handling debts left by previous tenants, leading to a lack of alignment with the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.9044923966991154
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, ensuring accessibility for someone with limited education. However, the mention of 'regularizar a situação' could be slightly simplified for even greater clarity.
+
+
+► RELEVANCIA
+  Score : 0.793304646328391
+  Motivo: The response directly addresses the user's query by stating that the company cannot refuse to connect the electricity in the new tenant's name, which aligns with the main concern of the question. It also provides a logical next step by advising the user to contact the company to regularize the situation. However, the response incorrectly identifies the user as the 'new proprietor' instead of a tenant, which slightly detracts from its accuracy and completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[95] PERGUNTA: Com quantos dias exatos de atraso no pagamento a empresa de energia ou água pode cortar o fornecimento da minha casa?
+► FIDELIDADE
+  Score : 0.836488880266448
+  Motivo: The Actual Output correctly identifies that the Retrieval Context does not specify the exact number of days of payment delay before service interruption. It accurately references the relevant legislation (Lei de Concessões and Resolução 414/10 da ANEEL) mentioned in the Retrieval Context, which allows service interruption due to non-payment but does not specify a timeframe. However, the response could be improved by explicitly stating that the Retrieval Context lacks specific details on the exact number of days, rather than implying it.
+
+
+► SIMPLICIDADE
+  Score : 0.6368216033877041
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning with the Input's simplicity. However, it includes references to specific laws and resolutions, which may introduce some complexity. The sentences are mostly short and direct, maintaining clarity and straightforwardness for the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.7933046467946012
+  Motivo: The response directly addresses the user's query by explaining that there is no specific number of days mentioned in the regulations for cutting off services due to non-payment. It references relevant legal frameworks, which adds to the completeness and logical coherence of the answer. However, it could improve by suggesting that users check with their local utility provider for specific policies, as this would provide a more complete answer.
+
+
+--------------------------------------------------------------------------------
+
+
+[96] PERGUNTA: O plano de saúde pode se recusar a cobrir uma cirurgia de emergência alegando que eu ainda estou cumprindo o período de carência de 180 dias?
+► FIDELIDADE
+  Score : 0.9955981349039705
+  Motivo: The response accurately reflects the information in the Retrieval Context, which states that the maximum waiting period for emergency and urgent cases is 24 hours after signing the contract. The Actual Output correctly addresses the Input by stating that a health plan cannot refuse coverage for an emergency surgery due to a 180-day waiting period, aligning with the legal provisions mentioned in the context.
+
+
+► SIMPLICIDADE
+  Score : 0.9724870282120402
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintaining clarity and straightforwardness, making it accessible to someone with limited education.
+
+
+► RELEVANCIA
+  Score : 1.0
+  Motivo: The response directly addresses the user's query about whether a health plan can refuse to cover an emergency surgery due to a 180-day waiting period. It correctly explains that emergency cases have a waiting period of only 24 hours, thus covering all aspects of the question logically and without irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[97] PERGUNTA: A mensalidade da escola do meu filho aumentou 20 Por cento de um ano para o outro. Existe algum teto estipulado pelo governo para esse reajuste anual?
+► FIDELIDADE
+  Score : 0.4151321172678668
+  Motivo: The Actual Output correctly states that there is no government-imposed cap on school fee increases, which aligns with the lack of such information in the Retrieval Context. However, it introduces additional information about schools needing a formula to calculate costs and suggests verifying with the school, which is not supported by the Retrieval Context. This reduces the alignment with the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.8984114758532327
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, the use of 'instituições de ensino' could be slightly simplified to match the simplicity of the Input more closely.
+
+
+► RELEVANCIA
+  Score : 0.9038913865632378
+  Motivo: The response directly addresses the user's query by stating that there is no government-imposed cap on school fee increases, aligning well with the evaluation steps. It covers all aspects of the question by explaining the legal requirement for schools to have a cost calculation formula, thus ensuring completeness. The suggestion to check with the school for justification is relevant and logical, enhancing the response's coherence. There is no irrelevant information present.
+
+
+--------------------------------------------------------------------------------
+
+
+[98] PERGUNTA: Cancelei meu contrato anual da academia no terceiro mês. É correto eles cobrarem uma multa rescisória de 30 por cento ou 50 por cento sobre o valor que falta?
+► FIDELIDADE
+  Score : 0.25246679628907204
+  Motivo: The Actual Output acknowledges the lack of specific information about gym contracts and suggests checking the contract or consulting a lawyer, which is a reasonable approach. However, it introduces external information about general penalty rules and PROCON-SP guidelines, which are not supported by the Retrieval Context. The Retrieval Context does not provide specific details about gym contract penalties, leading to a lack of direct alignment with the Input.
+
+
+► SIMPLICIDADE
+  Score : 0.7277402124237433
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning well with the Input's simplicity. The sentences are mostly short and direct, maintaining clarity and straightforwardness. However, the explanation about 'multa moratória' introduces a concept not directly related to the question, which could slightly confuse the intended audience.
+
+
+► RELEVANCIA
+  Score : 0.7147593442143682
+  Motivo: The response addresses the user's query by explaining that the penalty percentage depends on the specific contract and applicable legislation, which aligns with the user's question about the correctness of a 30% or 50% penalty. It advises checking the contract and consulting a lawyer, which is relevant. However, it includes irrelevant information about 'multa moratória,' which does not pertain to the user's question about contract cancellation penalties, slightly detracting from completeness and relevance.
+
+
+--------------------------------------------------------------------------------
+
+
+[99] PERGUNTA: O plano de saúde pode cancelar meu contrato por iniciativa deles só porque eu atrasei a mensalidade em 10 dias neste mês?
+► FIDELIDADE
+  Score : 1.0
+  Motivo: The Actual Output accurately reflects the information in the Retrieval Context, which states that a health plan cannot be canceled for a delay of less than 60 days. The response correctly addresses the Input by stating that the contract cannot be canceled for a 10-day delay, aligning with the context provided.
+
+
+► SIMPLICIDADE
+  Score : 0.9123328076515584
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon and maintains clarity, providing a straightforward explanation about the conditions under which a health plan can be canceled. However, it could be slightly more concise to match the brevity of the Input.
+
+
+► RELEVANCIA
+  Score : 0.8962839340613723
+  Motivo: The response directly addresses the user's query about whether a health plan can cancel a contract due to a 10-day payment delay, stating that cancellation is not possible for such a short delay. It provides relevant information about the conditions under which a contract can be suspended or rescinded, enhancing completeness. The response is logically coherent and free of irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[100] PERGUNTA: A faculdade pode impedir o aluno de fazer as provas finais ou reter o diploma histórico se ele estiver com duas mensalidades atrasadas?
+► FIDELIDADE
+  Score : 0.29156687166892803
+  Motivo: The response correctly states that the law does not mention penalties for students with debts, which aligns with the lack of such information in the Retrieval Context. However, it incorrectly claims that the law discusses requirements for university admission and teachers' rights, which are not supported by the provided context. This introduces discrepancies not found in the Retrieval Context.
+
+
+► SIMPLICIDADE
+  Score : 0.79902923406408
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it could be slightly more direct in addressing the specific question about penalties for students with overdue payments.
+
+
+► RELEVANCIA
+  Score : 0.2987937442873162
+  Motivo: The response partially addresses the question by stating 'Não', suggesting that the faculdade cannot impede the student. However, it incorrectly claims that the law does not address this issue, which is misleading. The response lacks completeness as it does not mention relevant laws or regulations that specifically address student debts and their consequences. Additionally, the mention of 'requisitos para ingresso em universidades e direitos dos professores' is irrelevant to the question about student debts and penalties.
+
+
+--------------------------------------------------------------------------------
+
+
+[101] PERGUNTA: Vi um anúncio de TV no folheto do mercado, mas quando cheguei lá disseram que o estoque promocional tinha acabado. Eles são obrigados a arrumar outra TV pelo mesmo preço?
+► FIDELIDADE
+  Score : 0.07195879396615598
+  Motivo: The Actual Output introduces information not supported by the Retrieval Context, such as the claim that suppliers can end promotions at any time and the suggestion to ask for a discount. The Retrieval Context does not provide any relevant details about promotional stock obligations or consumer rights in this scenario.
+
+
+► SIMPLICIDADE
+  Score : 0.8257177052956035
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand, which aligns well with the Input. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, it could be slightly more direct in addressing the question about the obligation to provide another TV at the same price.
+
+
+► RELEVANCIA
+  Score : 0.6754096703841019
+  Motivo: The response addresses the user's query by explaining that the store is not obligated to provide another TV at the same price once the promotional stock is depleted. It references the Consumer Defense Code, which is relevant to the question. However, it introduces the idea of asking for a discount or another option, which is not directly related to the obligation aspect of the question, slightly deviating from the main focus.
+
+
+--------------------------------------------------------------------------------
+
+
+[102] PERGUNTA: É permitido que um bar, balada ou restaurante cobre 'consumação mínima' obrigatória para o cliente poder entrar no estabelecimento?
+► FIDELIDADE
+  Score : 0.05640076716741131
+  Motivo: The Actual Output does not align with the Retrieval Context. The context provided does not contain any information about the legality of 'consumação mínima' or the specific provisions of the Código de Defesa do Consumidor related to this practice. Therefore, the response introduces external information not supported by the context.
+
+
+► SIMPLICIDADE
+  Score : 0.8782099652313218
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input's style. It avoids complex legal jargon, maintaining clarity and straightforwardness. However, the phrase 'restrição ilegal ao acesso do consumidor' could be slightly simplified for even greater accessibility.
+
+
+► RELEVANCIA
+  Score : 0.9194504236826484
+  Motivo: The response directly addresses the question about the legality of 'consumação mínima' by stating it is not allowed, aligning well with the query. It covers the main aspect by referencing the Código de Defesa do Consumidor, which is relevant and logical. However, it could be slightly improved by providing more context or examples, but overall, it is coherent and focused.
+
+
+--------------------------------------------------------------------------------
+
+
+[103] PERGUNTA: Fui barrado na porta do cinema porque estava com um lanche que comprei na praça de alimentação. Eles podem me obrigar a comprar só na lanchonete deles?
+► FIDELIDADE
+  Score : 0.06249091534399698
+  Motivo: The Actual Output introduces information about consumer rights and the Código de Defesa do Consumidor that is not supported by the Retrieval Context. The context does not provide any relevant details about cinema policies or consumer rights related to bringing food into cinemas, leading to a complete misalignment with the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.9679178692681616
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintain clarity and straightforwardness, making it accessible to someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.7805511738033034
+  Motivo: The response directly addresses the user's query about whether cinemas can force patrons to buy snacks only from their concession stands, aligning well with the question. It correctly references consumer rights, which is relevant and logical. However, it lacks a mention of potential exceptions or specific legal nuances that might apply, which slightly affects completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[104] PERGUNTA: A loja de roupas colocou um cartaz gigante dizendo 'Não trocamos peças em promoção e liquidação'. Esse aviso tem validade perante o Código do Consumidor?
+► FIDELIDADE
+  Score : 0.39051911337290607
+  Motivo: The Actual Output partially aligns with the Retrieval Context by mentioning consumer rights related to defective products, which is a general principle in consumer protection. However, it introduces information not explicitly found in the Retrieval Context, such as the specific allowance for not exchanging promotional items, which is not supported by the provided context. The Retrieval Context does not directly address the validity of the store's notice under the Consumer Code, leading to a lack of strict adherence to the available information.
+
+
+► SIMPLICIDADE
+  Score : 0.9103918162287336
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, the first sentence could be slightly more direct to fully match the simplicity of the Input.
+
+
+► RELEVANCIA
+  Score : 0.9125370430651236
+  Motivo: The response directly addresses the question about the validity of the store's notice under the Consumer Code, explaining that while the notice is allowed, consumer protection laws still apply. It covers the key aspect of the question by clarifying that defective products must be exchanged or refunded, aligning with consumer rights. The response is coherent and relevant, with no irrelevant information, but could slightly expand on the specific legal provisions for completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[105] PERGUNTA: O garçom incluiu a taxa de 10 por cento de serviço no final da minha conta no restaurante. Eu sou obrigado por lei a pagar essa gorjeta?
+► FIDELIDADE
+  Score : 0.11666676592821128
+  Motivo: The Actual Output does not align with the Retrieval Context, which lacks any information about restaurant service charges or legal obligations regarding tips. The response introduces external information not supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.9640635854839898
+  Motivo: The Actual Output uses simple language that is easy to understand, aligning well with the Input. Sentences are short and direct, avoiding complex legal jargon, and maintaining clarity and straightforwardness, making it accessible to someone with limited education.
+
+
+► RELEVANCIA
+  Score : 0.8819541819777177
+  Motivo: The response directly addresses the user's query about the legal obligation to pay a service charge, stating that it is not mandatory by law. It covers all aspects of the question by explaining the lack of legal requirement and suggesting discussing the charge with the restaurant manager. The information is relevant and logically coherent, with no deviation from the topic.
+
+
+--------------------------------------------------------------------------------
+
+
+[106] PERGUNTA: Afinal, quem a lei brasileira considera como 'fornecedor' de produtos ou serviços para o Código de Defesa do Consumidor funcionar?
+► FIDELIDADE
+  Score : 0.21995384474381768
+  Motivo: The Actual Output provides a general definition of 'fornecedor' that aligns with common understanding but lacks direct support from the Retrieval Context. The context does not explicitly define 'fornecedor' or list the entities considered as such, leading to a reliance on external knowledge. This results in a partial alignment with the evaluation steps, as the output introduces information not directly supported by the context.
+
+
+► SIMPLICIDADE
+  Score : 0.9195541708477292
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, the sentence structure could be slightly more direct to fully match the Input's style.
+
+
+► RELEVANCIA
+  Score : 0.9855851150643969
+  Motivo: The response directly addresses the user's query by clearly defining who is considered a 'fornecedor' under Brazilian law, covering all relevant entities such as manufacturers, importers, sellers, and retailers. The answer is complete, logically coherent, and free from irrelevant information.
+
+
+--------------------------------------------------------------------------------
+
+
+[107] PERGUNTA: Se eu tenho um pequeno negócio e compro um computador para usar na administração da minha loja, eu sou considerado consumidor final e protegido pelo CDC?
+► FIDELIDADE
+  Score : 0.2484518599948792
+  Motivo: The Actual Output claims that the individual is considered a consumer and protected by the CDC, but the Retrieval Context does not provide specific information about whether a business purchase qualifies as a consumer transaction under the CDC. The context mentions consumer rights and protections but lacks details on the applicability to business purchases, leading to an unsupported conclusion in the Actual Output.
+
+
+► SIMPLICIDADE
+  Score : 0.9105272774020206
+  Motivo: The Actual Output uses simple language and short sentences, aligning well with the Input. It avoids complex legal jargon and maintains clarity, making it accessible to someone with limited education. However, it could be slightly more direct by omitting the explanation of rights, which slightly extends the response.
+
+
+► RELEVANCIA
+  Score : 0.8745835245547602
+  Motivo: The response directly addresses the user's query by confirming that the user is considered a final consumer and protected by the CDC, which aligns with the question about purchasing a computer for business use. The explanation is complete and logically coherent, mentioning protection against abusive practices. However, it could slightly expand on why a business purchase still qualifies under the CDC to achieve full completeness.
+
+
+--------------------------------------------------------------------------------
+
+
+[108] PERGUNTA: O Código de Defesa do Consumidor serve para processar hospitais do SUS ou serviços públicos totalmente gratuitos prestados pelo Estado?
+► FIDELIDADE
+  Score : 0.045773677440186025
+  Motivo: The Actual Output does not align with the Retrieval Context, which lacks any information about the Código de Defesa do Consumidor or its applicability to public services like SUS hospitals. The response introduces external information not supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.9227903181678355
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity, aligning well with the simplicity of the Input. However, it could be slightly more direct by omitting the explanation about paid services, which slightly detracts from the straightforwardness.
+
+
+► RELEVANCIA
+  Score : 0.9542714103814152
+  Motivo: The response directly addresses the user's query by clearly stating that the Consumer Protection Code does not apply to free public services like SUS hospitals. It covers all aspects of the question logically and concisely, without including irrelevant information, and maintains coherence with the context of the question.
+
+
+--------------------------------------------------------------------------------
+
+
+[109] PERGUNTA: O que significa e como funciona na prática a 'inversão do ônus da prova' quando eu processo uma empresa?
+► FIDELIDADE
+  Score : 0.003567854946785155
+  Motivo: The Actual Output does not align with the Retrieval Context, which does not contain any information about 'inversão do ônus da prova'. The response introduces external concepts not supported by the provided context, failing to adhere to the evaluation steps.
+
+
+► SIMPLICIDADE
+  Score : 0.6820900678891176
+  Motivo: The Actual Output uses simple language and avoids complex legal jargon, aligning well with the Input's simplicity. However, the chess analogy introduces unnecessary complexity, which slightly detracts from the clarity and straightforwardness required for the intended audience. The sentences are mostly short and direct, maintaining accessibility.
+
+
+► RELEVANCIA
+  Score : 0.5204924583446536
+  Motivo: The response addresses the concept of 'inversão do ônus da prova' by explaining that it shifts the burden of proof to the company being sued, which aligns with the user's query. However, it inaccurately states that the plaintiff must prove wrongdoing to trigger the inversion, which is misleading. The chess analogy is irrelevant and does not contribute to understanding the legal concept, detracting from the coherence and focus of the explanation.
+
+
+--------------------------------------------------------------------------------
+
+
+[110] PERGUNTA: Qual é a diferença entre ir no PROCON, no portal Consumidor.gov e no Juizado Especial Cível (Pequenas Causas)?
+► FIDELIDADE
+  Score : 0.11245856382664435
+  Motivo: The Actual Output does not align with the Retrieval Context, which lacks relevant information about Procon, Consumidor.gov, or Juizado Especial Cível. The response introduces external information not supported by the provided context.
+
+
+► SIMPLICIDADE
+  Score : 0.9377540661794489
+  Motivo: The Actual Output uses simple language and short sentences, making it easy to understand for someone with limited education. It avoids complex legal jargon and maintains clarity and straightforwardness, aligning well with the simplicity of the Input. However, the explanation of the Juizado Especial Cível could be slightly simplified further to enhance accessibility.
+
+
+► RELEVANCIA
+  Score : 0.8083190324609575
+  Motivo: The response directly addresses the user's query by explaining the roles of PROCON, Consumidor.gov, and Juizado Especial Cível, covering the main differences between them. It provides a clear and logical comparison, highlighting that PROCON and Consumidor.gov are for registering complaints, while the Juizado Especial Cível is for legal disputes. However, the explanation could be more detailed regarding the specific functions and processes of each entity, which would enhance completeness.
+
+
+--------------------------------------------------------------------------------

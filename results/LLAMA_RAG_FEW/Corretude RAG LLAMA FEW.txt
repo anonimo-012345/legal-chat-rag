@@ -1,0 +1,1481 @@
+﻿=== RELATÓRIO DE AVALIAÇÃO JURÍDICA (G-EVAL) ===
+
+
+--- AVALIAÇÃO 1 ---
+Pergunta: Estabelecimentos podem cobrar valores diferentes para cartão de crédito e dinheiro?
+Resposta IA: Sim! A lei permite que estabelecimentos cobrem valores diferentes para pagamentos com cartão de crédito e dinheiro. Isso é chamado de "diferença de valor" ou "taxa de conversão". Mas, se você pagar com cartão e o valor for diferente do que foi pago em dinheiro, você tem direito a reclamar.
+
+
+Exemplo: comprou um produto por R$ 100,00 com cartão e pagou R$ 120,00. Você pode pedir a diferença de volta ao estabelecimento.
+Nota: 2/5
+Justificativa: A Lei Federal nº 13.455/2017 autoriza expressamente a diferenciação de preços de bens e serviços oferecidos ao público em função do prazo ou do meio de pagamento utilizado (dinheiro, cartão de crédito, etc.), desde que as informações sobre os descontos/acréscimos estejam visíveis ao consumidor. A resposta da IA acerta ao dizer que é permitido ('Sim!'), porém se contradiz gravemente em seguida. Ao afirmar que o consumidor tem o direito de 'pedir a diferença de volta' caso pague um valor maior no cartão do que em dinheiro, a IA orienta o leigo de forma totalmente contrária à lei e à lógica do dispositivo legal. Além disso, inventa expressões inadequadas para o contexto (como 'taxa de conversão'). Se o usuário leigo seguir esse conselho, exigindo reembolso por uma cobrança diferenciada legítima, passará por constrangimento e fundamentará uma reclamação descabida.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 2 ---
+Pergunta: Após receber um produto novo através da garantia, como fica a garantia desse novo produto?
+Resposta IA: Se você recebeu um produto novo por meio da garantia, o prazo de garantia do novo produto é de 30 dias para serviços não-duráveis e 90 dias para produtos duráveis. Além disso, se o conserto foi feito na residência, o prazo máximo de 30 dias começa a contar a partir da entrega do produto à assistência técnica autorizada ou da comunicação da ocorrência do vício ao fornecedor.
+Nota: 3/5
+Justificativa: A resposta da IA apresenta acertos parciais, mas peca na precisão técnica ao misturar institutos jurídicos distintos do Código de Defesa do Consumidor (CDC). A primeira parte está correta ao indicar que a substituição por um produto novo gera a renovação do prazo da garantia legal (art. 26 do CDC: 30 dias para bens não duráveis e 90 dias para bens duráveis). Contudo, a segunda parte da resposta introduz uma confusão conceitual grave: cita o prazo de 30 dias para o fornecedor sanar o vício (art. 18, § 1º do CDC) e fala em 'conserto', o que não se aplica diretamente à dúvida do usuário, que tratava especificamente do recebimento de um produto novo (substituição). Essa mistura de informações pode confundir o leigo quanto aos seus direitos.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 3 ---
+Pergunta: Estabelecimentos devem ser responsáveis pelos veículos estacionados em seus estacionamentos?
+Resposta IA: Sim! A lei diz que os estabelecimentos não podem se beneficiar de veículos usados para fins políticos. Mas, sobre o estacionamento, a resposta é diferente.
+
+
+A lei não fala diretamente sobre estacionamentos, mas há uma regra geral: quem estaciona um veículo em um local privado (como um estacionamento) é responsável por ele. Se alguém estacionar seu carro no estacionamento de um comércio e causar danos a outro veículo, o dono do estacionamento pode ser acionado para pagar as indenizações.
+
+
+Mas se o estabelecimento permitir que os clientes estacionem seus carros em seu estacionamento, eles podem ser considerados responsáveis por qualquer dano causado. É como se fossem guardiões dos veículos.
+Nota: 1/5
+Justificativa: A resposta fornecida pela IA é gravemente incorreta e confusa. Em primeiro lugar, introduz uma afirmação sem qualquer nexo com o tema ('veículos usados para fins políticos'). Em segundo lugar, afirma erroneamente que a lei não trata do assunto, ignorando o Código de Defesa do Consumidor (Art. 14) e a Súmula 130 do Superior Tribunal de Justiça (STJ), que estabelece expressamente: 'A empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento'. A explicação traz contradições e conceitos jurídicos distorcidos que induzem o leiro a erro sobre a responsabilidade civil objetiva e o dever de guarda do estabelecimento.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 4 ---
+Pergunta: O prazo de entrega não foi respeitado, e agora?
+Resposta IA: Se o prazo para entregar os papéis ou valores não foi respeitado, você tem direito a reclamar. O artigo 361 do Código Civil diz que, se houver infração, será concedido ao infrator um prazo de dez dias para defesa. Isso significa que você pode pedir explicações e justificativas por não ter entregue os papéis ou valores no prazo estabelecido.
+Nota: 1/5
+Justificativa: A resposta fornecida pela IA é totalmente incorreta e fundamentada em uma alucinação jurídica grave. 1) O descumprimento do prazo de entrega em uma relação de consumo é regido pelo Artigo 35 do Código de Defesa do Consumidor (Lei 8.078/1990), que garante ao consumidor o direito de escolher entre o cumprimento forçado da obrigação, a aceitação de produto/serviço equivalente ou a rescisão do contrato com restituição dos valores pagos atualizados e eventuais perdas e danos. 2) O Artigo 361 do Código Civil brasileiro trata, na realidade, da novação das obrigações ('Não havendo ânimo de novar...'), não tendo qualquer relação com infrações, prazo de dez dias para defesa ou entregas de papéis/valores. 3) A orientação induz o usuário leigo ao erro, fazendo-o acreditar erroneamente que deve conceder prazo de defesa de 10 dias ao infrator com base em um dispositivo civilista inexistente para o caso, prejudicando o exercício imediato dos seus direitos previstos no CDC.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 5 ---
+Pergunta: O comerciante pode recusar receber cartão para produtos de baixo custo, como cigarro, balas ou sorvete?
+Resposta IA: Sim! O comerciante não pode recusar receber cartão para produtos de baixo custo. Isso é uma violação à lei e você pode reclamar no Procon.
+
+
+Lembre-se: o cartão é um meio de pagamento legítimo, mesmo para produtos baratos. Se a loja recusar, isso é um problema!
+Nota: 2/5
+Justificativa: A resposta da IA contém erros jurídicos relevantes e uma contradição lógica imediata. Em primeiro lugar, a IA responde 'Sim!' à pergunta sobre se o comerciante pode recusar, mas em seguida afirma que ele 'não pode recusar', gerando confusão ao leigo. Em segundo lugar, no direito brasileiro, o comerciante NÃO é obrigado a aceitar pagamento via cartão de crédito ou débito (a única moeda de aceitação obrigatória é o Real em espécie). O que o Código de Defesa do Consumidor (CDC, Art. 39, I e IX) proíbe é o estabelecimento de um 'valor mínimo' para pagamento em cartão CASO o estabelecimento já aceite essa modalidade de pagamento. Portanto, se a loja aceita cartão, ela não pode recusar a venda de itens baratinhos no cartão; porém, se a loja não aceita cartão de forma geral, ela está no seu direito. A IA pecou na precisão técnica ao dar a entender que a aceitação de cartão é obrigatória, o que induz o consumidor leigo ao erro.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 6 ---
+Pergunta: Quanto tempo meu nome deve sair do SPC/SERASA após pagamento da dívida?
+Resposta IA: Se você pagou uma dívida, seu nome deve ser removido do SPC/SERASA dentro de 30 dias. Isso é porque a lei diz que o registro deve ser atualizado quando o débito for pago. Se isso não acontecer, você pode reclamar ao órgão responsável pelo SPC/SERASA.
+Nota: 2/5
+Justificativa: A resposta fornecida pela IA contém um erro jurídico grave em relação ao prazo. De acordo com o entendimento pacificado pelo Superior Tribunal de Justiça (STJ) na Súmula 548, o prazo para que o credor retire o nome do devedor dos cadastros de proteção ao crédito (como SPC e SERASA) é de 5 (cinco) dias úteis, a contar do primeiro dia útil subsequente à disponibilização do valor do pagamento. Informar ao consumidor leigo que o prazo é de 30 dias é prejudicial, pois o induz a aceitar uma manutenção indevida da negativação por um período muito superior ao permitido pela jurisprudência, atrasando a busca por seus direitos.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 7 ---
+Pergunta: Pode haver promoção que aceite pagamento só em dinheiro?
+Resposta IA: Sim! Algumas promoções podem exigir pagamento apenas em dinheiro.
+Lembre-se de sempre ler as regras da promoção antes de participar. Se a promoção não especifica como pagar, é melhor perguntar ao organizador para evitar problemas.
+
+
+Exemplo: uma loja promove um sorteio e diz que o prêmio pode ser pago apenas em dinheiro. Nesse caso, se você ganhar, terá que receber o prêmio em dinheiro.
+Nota: 2/5
+Justificativa: A resposta da IA parte de uma premissa inicial correta (Sim, o fornecedor pode exigir pagamento apenas em dinheiro, pois a moeda corrente em espécie é a única de aceitação compulsória no Brasil, conforme o Art. 315 do Código Civil e Art. 43 da Lei das Contravenções Penais, não havendo obrigação legal de aceitar cartão ou cheque). Porém, a IA erra gravemente na explicação e no exemplo fornecido. A IA confunde 'pagamento efetuado pelo consumidor' com 'recebimento de prêmio em sorteio'. Além disso, o exemplo dado é ilegal: no Brasil, as promoções comerciais e sorteios realizados por lojas são regulados pela Lei nº 5.768/1971, cujo Artigo 2º proíbe expressamente a conversão de prêmios em dinheiro. Trata-se de uma falha jurídica grave de interpretação e fundamentação que induz o leigo ao erro.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 8 ---
+Pergunta: O preço da etiqueta está menor que o preço no caixa, qual devo pagar?
+Resposta IA: Se o preço na etiqueta for menor do que o preço no caixa, você deve pagar o valor da etiqueta. Isso é uma regra básica em lojas e supermercados. Se a loja cobrar mais do que o preço marcado, isso é considerado um abuso e você pode reclamar.
+Nota: 5/5
+Justificativa: A resposta fornecida pela IA está juridicamente correta e em consonância direta com o Código de Defesa do Consumidor (Art. 30 e 35 do CDC) e, especificamente, com o Art. 5º da Lei Federal nº 10.962/2004, que disciplina a oferta e as formas de afixação de preços de produtos e serviços. A legislação brasileira determina expressamente que, havendo divergência de preços entre o sistema do caixa e a etiqueta/prateleira, o consumidor tem o direito de pagar o menor valor. A explicação é acessível, não induz o consumidor leigo ao erro e aplica corretamente o direito ao caso concreto, embora pudesse ter mencionado fundamentação legal expressa para dar ainda mais credibilidade, o que não compromete sua excelência prática.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 9 ---
+Pergunta: Estabelecimentos podem informar os preços dos produtos em moeda estrangeira, como o dólar?
+Resposta IA: Não! A lei diz que os preços devem ser informados em reais. Se a loja mostrar preço em dólares, isso é enganoso e você pode reclamar.
+
+
+Lembre-se de verificar sempre se o preço está em reais antes de comprar algo. E se tiver dúvidas, pergunte à loja!
+Nota: 5/5
+Justificativa: A resposta da IA está juridicamente correta. No Brasil, o Código de Defesa do Consumidor (Art. 31 da Lei nº 8.078/1990) e o Decreto nº 5.903/2006 (Art. 2º, I) determinam expressamente que a informação dos preços de produtos e serviços deve ser prestada em moeda corrente nacional, isto é, em Reais. Ademais, o Art. 318 do Código Civil e a Lei nº 10.192/2001 estipulam a nulidade de estipulações de pagamento em moeda estrangeira no território nacional, salvo exceções pontuais (como lojas francas/free shops). A IA respondeu de forma direta, precisa e adequada para o público leigo, orientando corretamente sobre a obrigatoriedade da precificação em reais.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 10 ---
+Pergunta: Pode haver um valor mínimo para pagamento com cartão de crédito ou débito?
+Resposta IA: Sim! Existem valores mínimos para pagamento com cartão de crédito ou débito. Segundo a lei, se o valor da transação for igual ou inferior a 40 salários mínimos, o pagamento deve ser feito diretamente ao Poder Judiciário. Se o valor ultrapassar esse limite, o pagamento será feito por meio de precatório.
+Nota: 1/5
+Justificativa: A resposta fornecida pela IA é totalmente incorreta e hallucina conceitos jurídicos completamente desassociados do Direito do Consumidor. Em primeiro lugar, o Código de Defesa do Consumidor (CDC), em seu artigo 39, inciso IX, veda ao fornecedor recusar a venda de bens ou a prestação de serviços a quem se disponha a adquiri-los mediante pronto pagamento. Caso o estabelecimento comercial opte por aceitar cartões de crédito ou débito como forma de pagamento, ele não pode impor um valor mínimo para aceitá-los. Em segundo lugar, a IA misturou conceitos de Direito Processual Civil e Direito Constitucional/Administrativo referentes a limites de alçada dos Juizados Especiais Cíveis (até 40 salários mínimos) e formas de pagamento de dívidas pela Fazenda Pública (Requisição de Pequeno Valor - RPV vs. Precatórios), o que não tem absolutamente nenhuma relação com compras no comércio usando cartão. A informação é extremamente prejudicial e bizarra para um usuário leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 11 ---
+Pergunta: Quais informações devem constar na etiqueta de preços de produtos em lojas?
+Resposta IA: Na etiqueta ou similar afixada diretamente no produto exposto à venda, deve ter sua face principal voltada ao consumidor. Isso garante a pronta visualização do preço, independentemente de solicitação do consumidor ou intervenção do comerciante.
+
+
+A etiqueta deve conter as seguintes informações:
+
+
+* Preço do produto à vista
+* Unidades fundamentais de medida (capacidade, massa, volume, comprimento ou área), de acordo com a forma habitual de comercialização de cada tipo de produto
+
+
+Essas informações são importantes para que o consumidor saiba quanto está pagando e possa comparar preços.
+Nota: 5/5
+Justificativa: A resposta da IA está juridicamente impecável e totalmente alinhada com a legislação brasileira de direito do consumidor, em especial a Lei nº 10.962/2004 (Lei de Precificação) e o Decreto nº 5.903/2006. O Decreto nº 5.903/2006, em seu artigo 4º, estabelece expressamente que a etiqueta fixada diretamente no produto deve ter sua face principal voltada ao consumidor para pronta visualização, contendo obrigatoriamente o preço à vista e a especificação da unidade fundamental de medida (quando aplicável). A resposta resume de forma clara, precisa e didática esses deveres de informação, sem induzir o consumidor leigo a erro nem omitir regras essenciais sobre a afixação de preços diretos na mercadoria.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 12 ---
+Pergunta: Como os preços dos produtos e serviços devem ser informados nos supermercados?
+Resposta IA: Os preços dos produtos e serviços devem ser informados de forma clara e acessível ao consumidor. Se não for possível afixar o preço diretamente no produto, é permitido usar relações de preços escritas e claras. Isso está previsto na Lei nº 13.175/2015.
+Nota: 2/5
+Justificativa: A resposta da IA apresenta erros significativos de fundamentação legal e imprecisões técnicas sobre a precificação no comércio varejista (supermercados). Em primeiro lugar, a IA cita equivocadamente a 'Lei nº 13.175/2015', que não disciplina a afixação de preços ao consumidor (a norma correta que dispõe sobre a oferta e as formas de afixação de preços de produtos e serviços para o consumidor é a Lei nº 10.962/2004, regulamentada pelo Decreto nº 5.903/2006, além do art. 31 do Código de Defesa do Consumidor). Em segundo lugar, no contexto de supermercados, a legislação exige a afixação direta no produto, em gôndolas/prateleiras de forma ostensiva ou mediante código de barras com leitores óticos franqueados ao consumidor. A menção genérica a 'relações de preços escritas' aplica-se a outras modalidades de comércio/serviços (como restaurantes ou vendas a retalho específicas), não sendo a regra adequada nem suficiente para um supermercado. Portanto, a resposta alucina a fundamentação legal e traz orientações imprecisas que podem confundir o consumidor.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 13 ---
+Pergunta: Comprei um produto importado que não tem garantia no Brasil, e agora?
+Resposta IA: Se você comprou um produto importado sem garantia no Brasil, é importante saber quem é responsável pelo problema. O documento diz que a responsabilidade pelo produto é do importador.
+
+
+Isso significa que se o produto tiver algum vício ou defeito, você pode reclamar para onde foi comprado e pedir ajuda. Se não houver garantia, você pode tentar resolver o problema com quem vendeu o produto.
+
+
+Lembre-se de guardar a nota fiscal e qualquer documentação relacionada à compra. Isso pode ajudar se precisar reclamar ou procurar ajuda.
+Nota: 3/5
+Justificativa: A resposta da IA está parcialmente correta, mas apresenta imprecisões técnicas e omissões relevantes. Em primeiro lugar, no Direito do Consumidor brasileiro (CDC), a garantia legal (Art. 26 do CDC: 30 dias para bens não duráveis e 90 dias para bens duráveis) é obrigatória e independe de termo de garantia estipulado pelo fabricante (Art. 24 do CDC). Assim, a afirmação 'Se não houver garantia' gera confusão no leigo, pois confunde a garantia contratual com a garantia legal, que sempre existe se a compra ocorreu no mercado nacional ou por meio de importador. Além disso, se o produto foi importado por canal oficial ou se a marca possui representação/filial no Brasil, o STJ reconhece a responsabilidade solidária da rede/importador nacional (Teoria da Aparencia e Proteção da Confiança). Por fim, o trecho 'O documento diz que...' denota uma falha na geração do texto (contexto truncado). Apesar disso, a orientação de cobrar o importador/vendedor e guardar a nota fiscal não prejudica gravemente o consumidor.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 14 ---
+Pergunta: Lojas têm obrigação de trocar produtos sem defeito?
+Resposta IA: Sim! Se você comprar um produto e ele tiver defeito, a loja tem que trocá-lo ou consertá-lo. Isso é lei!
+
+
+Se o vício for fácil de ver (como um produto riscado), a loja tem 30 dias para resolver. Se o vício for difícil de ver (como um problema que aparece depois de usar o produto por algum tempo), a loja tem 90 dias.
+
+
+A loja não pode se recusar a trocar ou consertar o produto, pois é obrigada por lei.
+Nota: 1/5
+Justificativa: A resposta da IA contém erros jurídicos graves e induz o usuário a erro. Em primeiro lugar, a pergunta do usuário foi sobre a obrigação de trocar produtos SEM defeito. Em compras realizadas em lojas físicas, o Código de Defesa do Consumidor (CDC) NÃO obriga o comerciante a trocar produtos sem vício/defeito (por motivo de cor, tamanho ou gosto), a menos que a loja tenha prometido no momento da venda. Responder 'Sim!' passa uma informação totalmente contrária ao direito aplicável. Em segundo lugar, a IA confunde a regramento dos defeitos: os prazos de 30 dias (bens não duráveis) e 90 dias (bens duráveis) do Art. 26 do CDC dizem respeito à durabilidade do bem, e não se o defeito é 'fácil ou difícil de ver' (vício aparente vs. oculto). Além disso, o prazo de 30 dias do Art. 18 é o tempo que o fornecedor tem para sanar o vício antes que o consumidor possa exigir a troca, restituição ou abatimento. Essa orientação pode prejudicar gravemente o leigo ao gerar falsas expectativas e conflitos indevidos com lojistas.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 15 ---
+Pergunta: Se desistir de uma compra já concretizada, o fornecedor é obrigado a me devolver a quantia paga?
+Resposta IA: Sim! Se você mudar de ideia sobre uma compra e quiser cancelá-la, o fornecedor deve devolver a quantia que você pagou. Isso está previsto na lei. Você tem direito a desistir da compra se não quiser mais continuar com ela. O fornecedor não pode se recusar a devolver seu dinheiro.
+Nota: 1/5
+Justificativa: A resposta da IA é juridicamente incorreta e induz o usuário ao erro. No Direito do Consumidor brasileiro (CDC), o direito de arrependimento com devolução integral do valor (Artigo 49 do CDC) aplica-se EXCLUSIVAMENTE a compras realizadas FORA do estabelecimento comercial (pela internet, telefone, catálogo, etc.) no prazo de até 7 dias. Para compras efetuadas em lojas físicas, o fornecedor NÃO é obrigado a aceitar a desistência nem a devolver o dinheiro apenas por mera mudança de ideia do consumidor, a menos que haja defeito não sanado no produto (Artigo 18 do CDC) ou promessa contratual/comercial expressa. A afirmação categórica de que o fornecedor nunca pode se recusar a devolver o dinheiro prejudica gravemente o usuário leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 16 ---
+Pergunta: Posso trocar um produto por outro após efetuar uma compra?
+Resposta IA: Sim! Se você comprou algo e não gostou, pode pedir troca. Mas é importante lembrar que a loja tem regras para isso.
+
+
+Se o produto está dentro do prazo de garantia (normalmente 90 dias), você pode levar o produto de volta à loja e pedir troca por outro da mesma marca ou modelo, desde que não tenha sido usado antes. Se o produto estiver vencido ou estragado, a loja pode recusar a troca.
+
+
+Lembre-se de ter a nota fiscal para comprovar a compra!
+Nota: 1/5
+Justificativa: A resposta do sistema de IA contém erros jurídicos graves e orienta o consumidor de forma contrária ao Código de Defesa do Consumidor (CDC - Lei nº 8.078/1990):
+
+
+1. Troca por mero desgosto: Nas compras em lojas físicas, o fornecedor não é obrigado a trocar o produto apenas porque o cliente 'não gostou', salvo se a própria loja oferecer essa cortesia ou se for compra fora do estabelecimento comercial (Art. 49, CDC - Direito de Arrependimento de 7 dias).
+
+
+2. Confusão entre garantia e sanção por vício: A resposta confunde garantia com direito de troca imediata por produto idêntico. Havendo vício (defeito), o fornecedor tem, em regra, até 30 dias para sanar o problema (Art. 18, §1º), não sendo a troca imediata um direito automático em todos os casos.
+
+
+3. Erro grave e prejudicial ao leigo: A afirmação de que 'Se o produto estiver vencido ou estragado, a loja pode recusar a troca' é totalmente incorreta e contrária ao direito brasileiro. Produtos vencidos ou deteriorados são impróprios para uso e consumo (Art. 18, § 6º, I e III do CDC), gerando responsabilidade do fornecedor em sanar o vício ou realizar a troca/restituição, além de constituir crime contra as relações de consumo (Lei 8.137/90). Orientar que a loja pode recusar a troca nesses casos induz o leigo a aceitar um prejuízo ilegal.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 17 ---
+Pergunta: Posso desistir da compra quanto tempo após a mesma?
+Resposta IA: Sim! Se você mudou de ideia sobre comprar o imóvel, pode desistir.
+Mas é importante saber que tem um prazo para isso. O prazo varia dependendo do tipo de contrato, mas geralmente é até 7 dias após a assinatura do contrato.
+
+
+Se você assinou o contrato e agora quer desistir, vá à loja ou ao escritório onde fez a compra e peça para cancelar. Mostre o contrato e explique que mudou de ideia. Se eles não quiserem aceitar, você pode procurar ajuda em um cartório ou no Procon.
+
+
+Lembre-se: é sempre melhor falar com os vendedores antes de desistir da compra. Eles podem ter regras específicas para cancelamentos.
+Nota: 2/5
+Justificativa: A resposta da IA contém erros graves de interpretação jurídica que induzem o usuário leigo ao erro e podem prejudicá-lo. Em primeiro lugar, a IA assumiu sem premissa que a compra se tratava de um imóvel. Em segundo lugar, e mais grave, a IA afirmou que o prazo de desistência de 7 dias se aplica a compras presenciais ('vá à loja ou ao escritório'). O Direito de Arrependimento (Art. 49 do Código de Defesa do Consumidor) aplica-se exclusivamente a compras realizadas FORA do estabelecimento comercial (como internet ou telefone). Para compras físicas, não há direito legal de desistência por mero arrependimento. Além disso, a orientação de procurar um 'cartório' para resolver a recusa do cancelamento é juridicamente sem sentido, pois cartórios não têm competência para atuar em conflitos de consumo. A orientação dada pode levar o usuário a exigir direitos inexistentes e passar por constrangimentos desnecessários.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 18 ---
+Pergunta: Qual o prazo máximo para solicitação de reparação de danos por produtos ou serviços com vício?
+Resposta IA: O prazo máximo é de 90 dias para produtos duráveis e 30 dias para não duráveis. Se você reclamar antes disso, a empresa tem que responder. Se o defeito for oculto (não aparecer logo), o prazo começa quando você descobrir o problema.
+Nota: 3/5
+Justificativa: A resposta da IA está parcialmente correta, mas peca pela falta de precisão técnica ao confundir 'vício do produto' com 'reparação de danos' (fato do produto), o que pode induzir o leigo a erro. No Código de Defesa do Consumidor (CDC), existem duas situações distintas: 1) Para reclamar do vício em si (sanar o defeito, trocar ou devolver), aplicam-se os prazos decadenciais de 30 dias (bens não duráveis) e 90 dias (bens duráveis), contados do conhecimento do problema se for vício oculto (Art. 26 do CDC), conforme a IA explicou. 2) No entanto, para a 'reparação de danos' (prejuízos patrimoniais ou morais causados pelo produto/serviço defeituoso - fato do produto), o prazo é prescricional de 5 anos (Art. 27 do CDC). Como o usuário perguntou especificamente sobre 'reparação de danos', a IA omitiu o prazo quinquenal do Art. 27. Um leigo que sofreu danos por conta do produto poderia desistir de buscar a indenização achando que o seu prazo acabou em 90 dias, quando na verdade teria 5 anos.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 19 ---
+Pergunta: Qual o prazo mínimo de garantia?
+Resposta IA: O prazo mínimo de garantia é 90 dias. Mas, dependendo do produto, pode ser mais tempo. Por exemplo, se você comprou um celular, a garantia pode ser de 1 ano ou até mesmo 2 anos. O importante é verificar o termo da garantia que vem com o produto e saber exatamente por quanto tempo você está protegido.
+Nota: 3/5
+Justificativa: A resposta da IA é parcialmente correta, mas peca na precisão técnica ao generalizar o prazo mínimo de garantia legal. No Direito do Consumidor brasileiro (Art. 26 do CDC), o prazo mínimo de garantia legal é de 30 dias para produtos e serviços não duráveis (como alimentos ou serviços de lavagem) e de 90 dias para produtos e serviços duráveis (como eletrônicos e eletrodomésticos). Ao afirmar categoricamente que o prazo mínimo é de 90 dias, a IA ignora a categoria dos bens não duráveis. Além disso, a resposta confunde a 'garantia legal' (obrigatória por lei) com a 'garantia contratual' (oferecida pelo fornecedor/fabricante através do termo de garantia, nos termos do Art. 50 do CDC, que é complementar à legal). Embora não traga um prejuízo grave imediato ao consumidor, omite distinções jurídicas vitais.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 20 ---
+Pergunta: Descobri um vício de fabricação, mas a garantia já acabou. Tenho direito à correção?
+Resposta IA: Sim! Se você descobrir um vício de fabricação no produto e a garantia já acabou, você tem direito a reclamar.
+O artigo 51 do Código de Defesa do Consumidor diz que as cláusulas contratuais que impossibilitam ou atenuem a responsabilidade do fornecedor por vícios nos produtos são nulas. Isso significa que o fabricante ainda é responsável pelo vício, mesmo se a garantia já acabou.
+Você pode reclamar ao fornecedor e pedir a correção do problema. Se ele não atender, você pode procurar ajuda no Procon ou na Justiça.
+Nota: 3/5
+Justificativa: A resposta da IA acerta ao afirmar que o consumidor pode reclamar de um vício de fabricação mesmo após o fim da garantia contratual, mas comete erros técnicos importantes na fundamentação jurídica. O artigo correto para fundamentar o vício oculto é o Artigo 26, § 3º do CDC (que estabelece que o prazo decadencial se inicia no momento em que o defeito fica evidenciado), associado ao critério da vida útil do produto adotado pelo STJ, e não o Artigo 51 (que trata de cláusulas abusivas). Além disso, a IA omitiu a informação crucial de que o consumidor tem um prazo decadencial de 30 dias (produtos não duráveis) ou 90 dias (produtos duráveis) A PARTIR da descoberta do vício para fazer a reclamação. Como omitiu os prazos e a fundamentação correta, enquadra-se na nota 3 (parcialmente correta, peca na precisão técnica e omite detalhes vitais).
+
+
+==================================================
+
+
+--- AVALIAÇÃO 21 ---
+Pergunta: O fornecedor pode devolver um produto usado quando o consumidor opta pela substituição por vício em garantia?
+Resposta IA: Não! Se o produto tem vício e está na garantia, você tem direito a conserto ou troca. O fornecedor não pode devolver um produto usado se você pediu troca. Leia o manual do usuário ou o termo de garantia para saber como proceder.
+Nota: 3/5
+Justificativa: A resposta da IA está parcialmente correta, mas peca na precisão técnica ao omitir regras fundamentais do Código de Defesa do Consumidor (CDC). De acordo com o art. 18, § 1º, I do CDC, quando o consumidor opta pela substituição do produto (após decorrido o prazo legal de 30 dias para sanar o vício), o fornecedor deve entregar um produto da mesma espécie 'em perfeitas condições de uso', o que em regra veda a entrega de produto usado ou recondicionado sem o consentimento do consumidor. Contudo, a IA errou ao insinuar que o consumidor pode exigir a troca imediatamente ('você tem direito a conserto ou troca'), omitindo que o fornecedor dispõe, em regra, do prazo de 30 dias para reparar o produto antes que o consumidor possa exercer a escolha pela substituição, restituição ou abatimento (art. 18, § 1º, do CDC). Além disso, remeter o leigo ao 'termo de garantia' pode induzi-lo a erro, já que as garantias contratuais não podem restringir os direitos previstos na garantia legal do CDC. Portanto, a resposta contém omissões importantes que afetam a precisão jurídica.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 22 ---
+Pergunta: Optei pela substituição de um produto com vício de fabricação por um novo, mas não há mais disponibilidade do mesmo, tenho direito a outro similar?
+Resposta IA: Sim! Se o produto quebrou e você optou por trocar por outro da mesma espécie, o fornecedor deve oferecer outro igual. Se não houver disponibilidade do mesmo modelo, ele deve oferecer um equivalente. Você tem direito a escolher entre os dois.
+Nota: 3/5
+Justificativa: A resposta da IA é parcialmente correta, mas peca na precisão técnica e omite detalhes relevantes previstos no Código de Defesa do Consumidor (CDC). De acordo com o Art. 18, § 4º do CDC, na impossibilidade de substituição por produto da mesma espécie, o consumidor pode aceitar um produto de espécie, marca ou modelo diversos, devendo haver complementação ou restituição de eventual diferença de preço. Além disso, se não houver o produto idêntico, o consumidor não é obrigado a aceitar o similar, podendo optar pelas outras alternativas do § 1º (restituição imediata do valor pago ou abatimento proporcional do preço). A frase 'Você tem direito a escolher entre os dois' é confusa, pois se o original não está disponível, a escolha não é 'entre os dois', mas sim aceitar um modelo diverso (ajustando o preço) ou rescindir o contrato com reembolso.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 23 ---
+Pergunta: Comprei um produto e o mesmo apresenta vícios de fabricação. E agora?
+Resposta IA: Se você comprou um produto e ele tem defeito, você pode reclamar ao fornecedor.
+O prazo máximo para consertar ou trocar é 30 dias. Se isso não acontecer, você pode escolher entre:
+- Trocar o produto por outro igual;
+- Pedir a devolução do dinheiro que pagou;
+- Ter um desconto no preço.
+
+
+Lembre-se de guardar as notas e comprovantes para provar sua compra!
+Nota: 3/5
+Justificativa: A resposta da IA acerta ao citar os direitos previstos no Artigo 18, § 1º do Código de Defesa do Consumidor (CDC), referente às alternativas do consumidor caso o vício não seja sanado (substituição do produto, restituição da quantia paga ou abatimento proporcional do preço). No entanto, apresenta imprecisões técnicas e omissões importantes: 1) Afirma que o prazo de 30 dias é para 'consertar ou trocar', quando na verdade é o prazo do fornecedor para *sanar o vício* (reparo); a troca é uma opção do consumidor somente após decorrido esse prazo sem solução; 2) Omitiu os prazos decadenciais para o consumidor reclamar (Art. 26 do CDC: 30 dias para produtos não duráveis e 90 dias para produtos duráveis), o que pode fazer com que o leigo perca o direito por decurso de prazo; 3) Omitiu a exceção do § 3º do Art. 18 (produtos essenciais ou quando a extensão do vício compromete o produto, hipóteses em que o consumidor não precisa esperar os 30 dias). Por omitir prazos de reclamação e exceções importantes, enquadra-se na nota 3.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 24 ---
+Pergunta: O CDC se aplica à compras e contratações realizadas pela internet?
+Resposta IA: Sim! O Código de Defesa do Consumidor (CDC) é uma lei que protege os direitos dos consumidores. E sim, ela se aplica a compras e contratações feitas pela internet.
+
+
+Se você comprar algo pela internet, o vendedor tem que cumprir as regras do CDC. Isso inclui informar corretamente o preço, entregar o produto no prazo certo e resolver problemas de forma justa.
+
+
+Lembre-se: se algo der errado, você pode reclamar!
+Nota: 5/5
+Justificativa: A resposta fornecida pela IA é juridicamente correta e perfeita para o contexto de um usuário leigo. O Código de Defesa do Consumidor (Lei nº 8.078/1990) aplica-se integralmente às relações de consumo estabelecidas no e-commerce, sendo inclusive regulamentado pelo Decreto nº 7.962/2013 (Decreto do Comércio Eletrônico). A IA afirmou corretamente que o CDC se aplica, destacando deveres do fornecedor como informação clara de preços e cumprimento de prazos. Não há nenhuma alucinação jurídica, erro doutrinário ou orientação que possa prejudicar o usuário.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 25 ---
+Pergunta: É lícito ao credor a inclusão do nome do devedor nos cadastros negativos, sem prévia cobrança ou sem lhe dar ciência?
+Resposta IA: Não! O credor não pode incluir o nome do devedor nos cadastros negativos sem prévia cobrança ou sem lhe dar ciência. Isso é uma violação dos direitos do devedor.
+
+
+Se você foi incluído em um cadastro negativo sem saber, você tem direito a reclamar e pedir que o seu nome seja removido. O credor precisa seguir as regras para cobrar uma dívida, como notificar o devedor antes de tomar medidas mais sérias.
+
+
+Lembre-se: é importante guardar provas de qualquer comunicação com o credor, como cartas ou e-mails. Isso pode ajudar a provar que você não sabia sobre a inclusão no cadastro negativo.
+Nota: 4/5
+Justificativa: A resposta da IA está substancialmente correta e orienta bem o consumidor leigo, pois o art. 43, § 2º, do Código de Defesa do Consumidor (CDC) exige expressamente a prévia comunicação por escrito ao devedor antes de sua inscrição nos cadastros de inadimplentes, tornando ilícita a manutenção do nome sem a devida ciência. A única imprecisão técnica irrelevante para o leigo é atribuir ao credor a obrigação direta de notificar, quando a Súmula 359 do Superior Tribunal de Justiça (STJ) estabelece que a responsabilidade pela notificação prévia é do órgão mantenedor do cadastro (ex: Serasa/SPC). De forma geral, a orientação não prejudica o usuário e reflete corretamente a exigência de notificação prévia.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 26 ---
+Pergunta: Segundo o CDC, qual o conceito de defeito?
+Resposta IA: Um defeito é um problema no produto que não funciona como deveria. Isso pode incluir coisas como:
+
+
+* O produto foi entregue quebrado ou avariado.
+* O produto não corresponde às informações fornecidas pelo vendedor.
+* O produto não funciona corretamente.
+* A quantidade do produto é inferior ao indicado na embalagem.
+
+
+Se o seu produto tem um desses problemas, você pode reclamar e pedir reparo ou troca.
+Nota: 2/5
+Justificativa: A resposta da IA cometeu um erro conceitual técnico fundamental no Direito do Consumidor brasileiro. No CDC, existe uma distinção clara e essencial entre 'Vício' (arts. 18 a 21) e 'Defeito' (arts. 12 a 17). O CDC conceitua 'Defeito' (ou Fato do Produto/Serviço) como uma falha que vai além do funcionamento do produto e atinge a segurança ou a saúde do consumidor (art. 12, § 1º), gerando um dano extra ou risco de dano (acidente de consumo). O que a IA descreveu (produto quebrado, que não funciona ou com quantidade inferior) são, na verdade, exemplos de 'Vício de Qualidade ou Quantidade' (arts. 18 e 19). Essa confusão pode prejudicar o usuário leigo, pois os prazos para reclamar de vícios (prazos decadenciais do art. 26) são completamente diferentes dos prazos para reparar danos causados por defeitos (prazo prescricional do art. 27). Portanto, ao ser questionada especificamente sobre o conceito 'segundo o CDC', a IA errou na interpretação técnica dos institutos do código.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 27 ---
+Pergunta: Comprei um computador de uma certa marca e ele estragou 4 vezes em menos de 1 ano. Gostaria de pedir a devolução, quais direitos eu tenho?
+Resposta IA: Se o seu computador estragou várias vezes em menos de um ano, você tem direito a reclamar! A lei protege os consumidores e garante que produtos duráveis sejam feitos para funcionar corretamente.
+
+
+Você pode pedir devolução ou conserto. Se a loja não quiser ajudar, você pode denunciar na Procon ou Receita Federal.
+
+
+Lembre-se de guardar as notas fiscais e comprovantes de compra. Isso é importante para provar que você comprou o produto e tem direito a reclamar se ele estragar.
+Nota: 2/5
+Justificativa: A resposta da IA apresenta erros graves que podem prejudicar e confundir o usuário leigo. De acordo com o Artigo 18, § 1º, do Código de Defesa do Consumidor (CDC), caso o produto apresente vício não sanado no prazo de 30 dias (ou se o defeito persistir após tentativas de conserto), o consumidor tem o direito de escolher entre a substituição do produto, a restituição imediata da quantia paga (devolução do dinheiro) ou o abatimento proporcional do preço. A IA não explicou adequadamente essa regra e esses direitos específicos. Além disso, o erro mais grave foi orientar o usuário a denunciar o caso à 'Receita Federal', um órgão de fiscalização tributária que não possui qualquer competência para tratar de direito do consumidor ou vícios em produtos. Essa orientação equivocada faria o consumidor perder tempo e buscar atendimento no órgão errado.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 28 ---
+Pergunta: Produto que retornou da garantia chegou com defeito e a empresa alega que não pode resolver porque 'passou do prazo'. Como proceder?
+Resposta IA: Se o produto voltou da garantia e veio com defeito, você tem direito a reclamar. O prazo para reclamar é de 90 dias se for um produto durável (como geladeira ou celular). Se passar disso, você pode tentar negociar com a empresa, mas não há mais obrigação dela.
+
+
+Lembre-se: o prazo começa a contar desde que você recebeu o produto defeituoso. Entregue o produto de volta à empresa e peça uma solução.
+Nota: 3/5
+Justificativa: A IA acerta ao afirmar que o prazo para reclamar de produtos duráveis é de 90 dias (Art. 26, II do CDC) e que a contagem se inicia/recarrega a partir do momento em que o consumidor recebe o produto de volta com defeito (Art. 26, § 1º do CDC), o que desmente a alegação incorreta da empresa de que 'passou do prazo'. Contudo, a resposta é incompleta e omite uma regra vital do Direito do Consumidor: caso o produto tenha ido para a garantia e retornado com o mesmo defeito ou sem reparo adequado, o prazo de 30 dias para o fornecedor sanar o vício (Art. 18, § 1º do CDC) já se esgotou ou foi frustrado. Nesses casos, o consumidor NÃO é obrigado a enviar o produto novamente para conserto, podendo exigir imediatamente a substituição do produto, a restituição quantia paga ou o abatimento proporcional do preço. Ao orientar apenas a 'pedir uma solução', a IA induz o leigo a aceitar novos reparos indefinidos.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 29 ---
+Pergunta: O Mercado Livre só oferece 30 dias para devolução mesmo para vícios ocultos. Tenho como recorrer?
+Resposta IA: Sim! Você tem direito a reclamar se o produto tiver vício oculto.
+O Código de Defesa do Consumidor diz que você pode pedir troca, cancelamento da compra ou abatimento proporcional do preço se o produto apresentar vício dentro dos 30 dias.
+Se o Mercado Livre não atender a isso, você pode recorrer ao Procon.
+Nota: 2/5
+Justificativa: A resposta da IA contém um erro jurídico grave em relação ao conceito de vício oculto no Código de Defesa do Consumidor (CDC). Segundo o Art. 26, § 3º do CDC, tratando-se de vício oculto, o prazo decadencial (de 30 dias para produtos não duráveis ou 90 dias para produtos duráveis) inicia-se no momento em que o defeito fica evidenciado, e não necessariamente 'dentro dos 30 dias' da compra ou entrega. Ao afirmar que o vício precisa se apresentar dentro dos 30 dias, a IA induz o leigo ao erro, podendo levá-lo a desistir de exercer um direito legítimo caso o defeito surja após esse período. Portanto, a orientação é prejudicial ao consumidor.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 30 ---
+Pergunta: A Amazon é obrigada a substituir um produto com defeito?
+Resposta IA: Sim! Se o produto quebrar ou tiver defeito, você tem direito a reclamar. A Amazon deve entregar produtos em perfeitas condições de uso e conforme as informações prestadas no momento da compra.
+
+
+Se o produto for entregue quebrado, avariado ou não funcionar, você pode pedir troca ou conserto. Se o defeito for oculto (aparece após algum tempo), você tem 90 dias para reclamar.
+
+
+A Amazon é responsável por produtos com defeitos, mesmo se o fabricante não puder ser identificado. Você deve guardar a nota fiscal como prova de compra.
+Nota: 3/5
+Justificativa: A resposta da IA está parcialmente correta, mas apresenta imprecisões técnicas relevantes de acordo com o Código de Defesa do Consumidor (CDC):
+
+
+1. **Direito à Substituição (Art. 18 do CDC)**: A resposta afirma que o consumidor pode pedir diretamente a troca ou conserto. Em regra, pelo Art. 18 do CDC, o fornecedor tem um prazo de até 30 dias para sanar o vício (conserto). Apenas se o defeito não for reparado nesse prazo (ou se tratar de produto essencial/vício que comprometa a qualidade) é que o consumidor pode exigir a substituição imediata, a restituição do valor ou o abatimento proporcional.
+
+
+2. **Confusão entre Vício e Fato do Produto (Art. 18 x Art. 13 do CDC)**: A IA afirma que a Amazon só é responsável 'mesmo se o fabricante não puder ser identificado'. Essa regra refere-se à responsabilidade por *fato do produto* (acidentes de consumo decorrentes de defeito de segurança, Art. 13). Tratando-se de *vício do produto* (falha de funcionamento ou avaria, Art. 18), a responsabilidade da cadeia de fornecedores (incluindo o comerciante/Amazon) é **solidária e direta**, sem necessidade de subsidiariedade ligada à identificação do fabricante.
+
+
+3. **Prazos de Vício Oculto**: A menção ao prazo de 90 dias está correta para bens duráveis (Art. 26, II e §3º), embora não tenha mencionado o prazo de 30 dias para bens não duráveis.
+
+
+Em suma, a IA pecou na precisão técnica e omitiu etapas importantes do processo de garantia do CDC, enquadrando-se na nota 3.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 31 ---
+Pergunta: Uma loja de reparos de computador não obteve sucesso no conserto, eles podem me cobrar?
+Resposta IA: Não! Se a loja não conseguiu consertar o seu computador, ela não pode te cobrar pelo serviço. Você tem direito a reclamar e pedir uma solução melhor.
+
+
+Se você pagou para que a loja consertasse o problema, mas eles não conseguiram, é como se estivessem vendendo um produto defeituoso. E isso é proibido por lei!
+
+
+Você pode ir ao PROCON (Instituto de Proteção do Consumidor) e reclamar sobre o caso. Eles podem ajudar a resolver o problema e garantir que você receba uma solução justa.
+Nota: 3/5
+Justificativa: A resposta está parcialmente correta ao orientar que o consumidor não deve pagar pelo conserto que não resolveu o problema, tendo em vista que o Código de Defesa do Consumidor (Art. 20) protege o consumidor contra serviços com vícios de qualidade ou não executados a contento. No entanto, a IA peca na precisão técnica ao afirmar que 'é como se estivessem vendendo um produto defeituoso' (trata-se de vício na prestação de serviços, e não vício do produto). Além disso, a resposta omite uma exceção vital: a loja pode cobrar uma taxa de diagnóstico ou orçamento técnico, desde que tal cobrança tenha sido expressa e previamente acordada e autorizada pelo consumidor (Art. 40 do CDC). Por ocultar essa exceção relevante e apresentar imprecisão conceitual, a resposta se enquadra na nota 3.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 32 ---
+Pergunta: Comprei online e solicitei devolução nos 7 dias. A loja gerou voucher dos Correios, mas tenho deficiência física e a agência é distante. Cabe a mim arcar com o transporte até a agência?
+Resposta IA: Não! Se você comprou online e solicitou devolução nos 7 dias, a loja deve garantir o transporte para você, mesmo que seja difícil de ir à agência dos Correios. Isso é porque a lei protege pessoas com deficiência física. A loja deve enviar alguém para pegar o voucher ou fazer tudo por você.
+Nota: 3/5
+Justificativa: A resposta da IA acerta o princípio fundamental do Código de Defesa do Consumidor (CDC, art. 49): o direito de arrependimento no prazo de 7 dias não deve gerar ônus financeiro ou barreiras desproporcionais ao consumidor, sendo os custos de logística reversa de responsabilidade do fornecedor. Além disso, em atenção à acessibilidade e às limitações do consumidor com deficiência física (alinhado também ao Estatuto da Pessoa com Deficiência - Lei 13.146/2015), o fornecedor deve oferecer uma alternativa viável, como a coleta domiciliar do produto por transportadora ou pelos próprios Correios. Contudo, a resposta peca gravemente na precisão técnica e na clareza ao afirmar que 'a loja deve enviar alguém para pegar o voucher ou fazer tudo por você'. O voucher (código de postagem) é o instrumento de autorização, e o que deve ser recolhido é o produto. Essa imprecisão na orientação pode confundir o leigo ao se comunicar com o SAC da empresa, em vez de orientá-lo a solicitar formalmente a 'coleta domiciliar do produto' devido à impossibilidade de locomoção.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 33 ---
+Pergunta: O Mercado Livre está exigindo o produto na embalagem original para aceitar a devolução dentro do prazo de 7 dias (direito de arrependimento). Isso é legal?
+Resposta IA: Não! O direito de arrependimento é garantido por lei, mas não significa que o produto precise estar na embalagem original.
+Se você comprou algo e se arrependeu, tem 7 dias para reclamar. Mas a loja pode pedir que você devolva o produto como está, sem precisar ter a embalagem original.
+Lembre-se: a lei protege o consumidor, não o vendedor!
+Nota: 4/5
+Justificativa: A resposta da IA está juridicamente correta no seu ponto central: a exigência de devolução do produto obrigatoriamente na embalagem original para o exercício do direito de arrependimento (Art. 49 do CDC) é considerada prática abusiva pela jurisprudência brasileira e pelos órgãos de defesa do consumidor (PROCON), visto que o consumidor precisa abrir a embalagem para examinar o produto e o risco do negócio é do fornecedor. Contudo, há pequenas imprecisões de linguagem, como usar 'reclamar' no lugar de 'desistir/devolver' (o que pode confundir com garantia por vício) e a afirmação reducionista de que 'a lei protege o consumidor, não o vendedor' (o CDC busca a harmonia das relações de consumo com base na vulnerabilidade, Art. 4º, III). Por não prejudicar o leigo e responder corretamente à dúvida, a nota é 4.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 34 ---
+Pergunta: O Mercado Livre recusou a devolução de um produto que eu nem sequer tirei da caixa. O que fazer?
+Resposta IA: Se o Mercado Livre recusar a devolução, você pode reclamar no Procon ou na Receita Federal. Guarde a nota fiscal e mostre ao vendedor que não abriu a embalagem. Se ele insistir em não devolver, você tem direito a indenização.
+Nota: 2/5
+Justificativa: A resposta da IA contém erros jurídicos graves e orientações descabidas que podem prejudicar o usuário leigo. Em primeiro lugar, o artigo 49 do Código de Defesa do Consumidor (CDC) garante o direito de arrependimento no prazo de 7 dias para compras fora do estabelecimento comercial (como no Mercado Livre), independentemente do produto ter sido aberto ou não. Em segundo lugar, indicar a Receita Federal para resolver um litígio de consumo é um erro crasso e sem fundamento legal, pois o órgão trata de tributos e alfândega, não de direitos do consumidor. Por fim, afirmar categoricamente que o usuário 'tem direito a indenização' sem ressalvar o contexto ou o processo adequado (como o Juizado Especial Cível) gera uma falsa expectativa. A recomendação do Procon está correta, mas a inclusão da Receita Federal compromete gravemente a utilidade da resposta.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 35 ---
+Pergunta: O vendedor se recusa a coletar um produto que foi reembolsado e quer que eu assuma as custas da devolução. Sou obrigado?
+Resposta IA: Não! Se você comprou algo e o vendedor já deu o reembolso, ele é responsável por coletar o produto.
+Se ele se recusar, você pode reclamar no Procon ou na Receita Federal. O vendedor deve devolver o dinheiro e cuidar com a devolução do produto.
+Nota: 2/5
+Justificativa: A resposta acerta na premissa principal de que o consumidor não deve arcar com os custos de devolução do produto (de acordo com o Código de Defesa do Consumidor, seja no direito de arrepender-se do Art. 49 ou por vício do produto no Art. 18, o risco e os custos do negócio são do fornecedor). Contudo, a IA comete um erro grave de orientação jurídica e institucional ao sugerir que o usuário pode reclamar na 'Receita Federal'. A Receita Federal cuida de tributos e alfândega, não tendo qualquer competência para tratar de relações de consumo ou conflitos de devolução de produtos. Orientar um leigo a procurar a Receita Federal gera extrema confusão, perda de tempo e prejuízo prático. Além disso, o vendedor é responsável pelos custos, mas não necessariamente obrigado a 'coletar' no domicílio se disponibilizar logística reversa gratuita (como código de postagem dos Correios). Por conter uma orientação flagrantemente descabida (Receita Federal), a resposta recebe nota 2.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 36 ---
+Pergunta: É possível devolver um produto após trocar o sistema operacional?
+Resposta IA: Não! Se você trocou o sistema operacional do seu celular e ele ainda não funciona direito, é melhor procurar a loja onde comprou. Ela deve ajudar a resolver o problema.
+
+
+Se a loja não ajudar, você pode reclamar no Procon ou na Receita Federal. Eles podem ajudar a resolver o problema e garantir que a loja faça as coisas certas.
+
+
+Lembre-se: se um produto não funciona direito, você tem direito a reclamar!
+Nota: 1/5
+Justificativa: A resposta da IA contém um erro grave ao sugerir que o consumidor pode reclamar na Receita Federal para resolver um problema de direito do consumidor ou garantia de produto. A Receita Federal não possui qualquer competência para tratar de relações de consumo ou intermediar conflitos entre consumidores e fornecedores. Além disso, a IA responde categoricamente 'Não!' sem esclarecer as nuances do Código de Defesa do Consumidor (CDC), como a diferença entre o Direito de Arrependimento (Art. 49 do CDC, em compras online) e a garantia por vício do produto (Art. 18 do CDC), onde a alteração do sistema operacional só anularia a garantia se comprovadamente causou o defeito (mau uso). Portanto, a resposta é juridicamente incorreta, induz o leigo a erro e orienta o envio de reclamação a um órgão totalmente alheio à matéria.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 37 ---
+Pergunta: Recebi duas memórias RAM iguais do Mercado Livre, mas paguei só por uma. O que fazer?
+Resposta IA: Se você comprou duas coisas iguais e pagou apenas por uma, é provável que tenha sido enganado.
+
+
+O Mercado Livre tem regras claras sobre devoluções e trocas. Se você recebeu dois produtos iguais e pagou apenas por um, pode reclamar ao vendedor.
+
+
+Você deve entrar em contato com o vendedor e explicar a situação. Ele deve te dar uma solução justa, como devolver o dinheiro ou enviar o outro produto.
+
+
+Lembre-se de guardar as provas da compra, como a nota fiscal, para usar se precisar.
+Nota: 1/5
+Justificativa: A resposta da IA é completamente incoerente e juridicamente incorreta para a situação apresentada. O usuário informou ter recebido um produto a mais por engano do vendedor (recebeu duas memórias RAM tendo pago apenas por uma). A IA interpretou erroneamente que o usuário 'foi enganado' e orientou que ele peça 'devolução do dinheiro ou o envio do outro produto', o que não faz sentido algum. Sob a ótica do Direito Brasileiro, o recebimento de produto excedente por erro de envio do fornecedor configura, em tese, a obrigação de comunicação para devolução ou pagamento, sob pena de enriquecimento sem causa (Art. 884 do Código Civil), ou a análise da regra do produto não solicitado (Art. 39, parágrafo único do CDC). A orientação prestada pela IA confunde o leigo, inverte totalmente os fatos e induz a condutas absurdas.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 38 ---
+Pergunta: Comprei um produto, a entrega atrasou e a empresa não me responde.
+Resposta IA: Se você comprou um produto e a entrega atrasou, e a empresa não está respondendo, você tem direito a reclamar. A empresa deve entregar o produto dentro do prazo acordado. Se isso não acontecer, você pode ir ao Procon ou à Receita Federal para denunciar.
+Nota: 2/5
+Justificativa: A resposta da IA apresenta uma orientação parcialmente correta ao indicar que o consumidor tem direito de reclamar do atraso na entrega (fundamentado no art. 35 do Código de Defesa do Consumidor) e ao apontar o Procon como canal legítimo. No entanto, comete um erro grave de orientação ao sugerir que o consumidor vá à 'Receita Federal' para denunciar o caso. A Receita Federal é um órgão focado em administração tributária e fiscalização aduaneira, não tendo qualquer competência para tratar de atrasos de entrega no comércio eletrônico ou intermediar conflitos de consumo. Indicar a Receita Federal induz o usuário leigo a um erro prático relevante, fazendo-o perder tempo. Além disso, a IA omite as opções do art. 35 do CDC (exigir o cumprimento forçado, aceitar outro produto equivalente ou rescindir o contrato com reembolso integral). Por conter erro grave que prejudica o usuário, a nota atribuída é 2.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 39 ---
+Pergunta: A loja pode se recusar a entregar meu pedido só porque usei um cupom de desconto?
+Resposta IA: Não! A loja não pode se recusar a entregar seu pedido apenas por causa do uso de um cupom de desconto.
+Se você usou o cupom corretamente, a loja deve cumprir com o pedido. Se ela se recusa, você pode reclamar no Procon ou na Receita Federal.
+
+
+Lembre-se: sempre guarde as notas fiscais e os recibos para provar suas compras!
+Nota: 2/5
+Justificativa: A resposta da IA acerta no mérito principal ao informar que a loja não pode se recusar a entregar o produto, com base no Princípio da Vinculação da Oferta (artigos 30 e 35 do Código de Defesa do Consumidor - CDC). No entanto, a IA comete um erro grave de orientação prática ao sugerir que o consumidor reclame na Receita Federal. A Receita Federal possui competência exclusivamente tributária e aduaneira, não tendo qualquer atribuição para resolver conflitos de consumo ou descumprimento de oferta comercial. Induzir o leigo a acionar a Receita Federal gera desinformação, perda de tempo e prejuízo ao exercício dos seus direitos, que deveriam ser buscados perante o Procon, Consumidor.gov.br ou Juizados Especiais Cíveis.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 40 ---
+Pergunta: Quais providências legais posso tomar contra um fornecedor que não entrega o produto?
+Resposta IA: Se o fornecedor não entregar o produto, você pode:
+
+
+1. Pedir ao fornecedor para informar data e turno de entrega.
+2. Reclamar no Procon ou Receita Federal se a loja recusar.
+3. Exigir a restituição do dinheiro pago, atualizado monetariamente.
+
+
+Lembre-se: o fornecedor deve entregar o produto dentro dos prazos estabelecidos e informar data e turno de entrega. Se isso não acontecer, você tem direito a reclamar!
+Nota: 2/5
+Justificativa: A resposta da IA apresenta equívocos graves de orientação jurídica. O erro mais crítico é sugerir a 'Receita Federal' como órgão para registrar reclamação sobre atraso ou não entrega de produtos por fornecedor. A Receita Federal é um órgão de fiscalização tributária e aduaneira, sem qualquer competência para tratar de conflitos de consumo, o que induziria o usuário leigo a erro e perda de tempo. Além disso, embora cite corretamente o direito à restituição do valor pago (art. 35, III, do CDC), a IA omite as outras opções legais expressas do art. 35 do CDC (exigir o cumprimento forçado da obrigação ou aceitar produto equivalente) e não menciona a possibilidade de buscar o Juizado Especial Cível (JEC). Por conter orientação manifestamente descabida (Receita Federal), a resposta se enquadra na nota 2.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 41 ---
+Pergunta: Paguei por entrega via SEDEX, mas a empresa esperou até o último dia do prazo de entrega para postar o produto. Isso é correto?
+Resposta IA: Não! A lei obriga os fornecedores a entregar os produtos dentro do prazo estipulado.
+Se você pagou por SEDEX e a empresa esperou até o último dia para enviar, isso pode ser considerado um problema. Você tem direito a reclamar e pedir que a empresa explique por que não entregou no tempo certo.
+Nota: 3/5
+Justificativa: A resposta da IA é tecnicamente imprecisa e pode induzir o consumidor leigo ao erro ao afirmar categoricamente 'Não!'. De acordo com o Código de Defesa do Consumidor (CDC, Art. 35), o que vincula o fornecedor é o cumprimento do prazo total de entrega ofertado no momento da compra. O prazo global engloba tanto o tempo de processamento interno da empresa quanto o tempo de transporte. Portanto, se a empresa postou no último dia via SEDEX, mas o produto chegou (ou chegará) dentro da data limite prometida ao cliente, não há qualquer ilegalidade ou infração contratual. A IA errou ao confundir a data de postagem com o descumprimento do prazo final de entrega, orientando o usuário a fazer uma reclamação sem fundamento jurídico se a entrega total foi tempestiva.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 42 ---
+Pergunta: O entregador esteve na porta da minha casa e se recusou a entregar meu produto.
+Resposta IA: Se o entregador foi até sua casa e se recusou a entregar seu produto, você tem direito a reclamar. Ele deve entregar o produto em sua residência, não pode simplesmente se recusar.
+
+
+Lembre-se de guardar a nota fiscal como prova de compra. Se precisar, você pode ir à loja ou ao órgão competente para resolver o problema.
+Nota: 4/5
+Justificativa: 1. Análise de Fundamentação Legal: A resposta está alinhada com o Código de Defesa do Consumidor (CDC), especificamente no tocante ao descumprimento da oferta e falha na prestação do serviço (Arts. 14, 30 e 35 do CDC). O fornecedor/entregador não pode recusar injustificadamente a entrega do produto.
+2. Aplicação ao Caso Concreto: A orientação está correta ao informar que o consumidor tem direito de reclamar e solicitar a reparação/entrega do bem. A recomendação de guardar a Nota Fiscal como prova documental é juridicamente adequada para comprovação do vínculo contratual.
+3. Risco ao Usuário: Não há risco ao usuário leigo, pois as orientações são benéficas e corretas no âmbito administrativo (Procon/Loja).
+4. Ressalva de Imprecisão: Embora correta, a resposta é genérica e omite contextualizações práticas do mercado atual (como a exigência de código de validação, confirmação de identidade por segurança ou recusa em subir até o apartamento), que poderiam justificar a atitude do entregador. Por ser juridicamente correta, mas ligeiramente superficial diante de possíveis exceções práticas, a nota é 4.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 43 ---
+Pergunta: Qual a diferença prática entre acionar o Procon e usar o Consumidor.gov.br?
+Resposta IA: O Procon é um órgão que ajuda os consumidores a resolver problemas com empresas. Já o Consumidor.gov.br é um site do governo que fornece informações sobre direitos dos consumidores.
+
+
+Se você tiver um problema com uma empresa, pode ir ao Procon e eles vão ajudar a resolver. O Consumidor.gov.br é mais para informação, como saber seus direitos ou como proceder em caso de problemas.
+
+
+Pense assim: o Procon é como um médico que ajuda a curar o problema, enquanto o Consumidor.gov.br é como um livro de receitas que mostra como fazer as coisas certas.
+Nota: 2/5
+Justificativa: A resposta fornecida pela IA contém um erro conceitual e prático grave sobre as ferramentas de defesa do consumidor no Brasil. O Consumidor.gov.br NÃO é um mero site informativo ou 'livro de receitas' de direitos. Trata-se de um serviço público oficial, gerido pela Secretaria Nacional do Consumidor (Senacon), voltado para a mediação direta e resolução alternativa de conflitos de consumo pela internet entre consumidores e empresas cadastradas. Ao afirmar que o Consumidor.gov.br serve apenas para consulta de informações e que só o Procon resolve problemas, a IA induz o consumidor leigo a erro, fazendo-o perder uma via célere e eficaz de solução de problemas. A informação prestada desvirtua completamente a função da plataforma pública.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 44 ---
+Pergunta: Geralmente, o Serviço de Atendimento ao Consumidor (SAC) é obrigado a funcionar aos sábados?
+Resposta IA: Não! O SAC não é obrigado a funcionar aos sábados. A lei não exige que os serviços de atendimento ao consumidor funcionem nos fins de semana. Mas, se você precisar de ajuda em um sábado, pode tentar entrar em contato com o SAC por telefone ou e-mail.
+Nota: 2/5
+Justificativa: A resposta da IA está juridicamente incorreta. No direito brasileiro, o Decreto nº 11.034/2022 (Novo Decreto do SAC), que regulamenta o atendimento ao consumidor em serviços regulados pelo Poder Executivo Federal (como telefonia, bancos, energia elétrica, aviação civil, planos de saúde, entre outros), estabelece expressamente no Art. 4º, § 1º, que o atendimento telefônico do SAC deve estar disponível 24 horas por dia, 7 dias por semana (o que inclui obrigatoriamente sábados, domingos e feriados). Ao afirmar categoricamente que 'a lei não exige que os serviços de atendimento ao consumidor funcionem nos fins de semana', a IA incorre em erro grave que prejudica o consumidor leigo, podendo induzi-lo a aceitar a negação de atendimento por parte de concessionárias e empresas de serviços regulados em finais de semana.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 45 ---
+Pergunta: Compraram um produto nas Casas Bahia usando o meu CPF. Como resolvo isso?
+Resposta IA: Se alguém usou seu CPF para comprar algo em uma loja, como as Casas Bahia, você pode reclamar.
+
+
+O fabricante e a loja são responsáveis por qualquer problema com o produto. Eles devem fornecer informações corretas sobre o produto, incluindo riscos à saúde ou segurança.
+
+
+Se você não comprou nada, mas alguém usou seu CPF para comprar algo, você pode ir ao Procon (Conselho de Defesa do Consumidor) e reclamar. Eles podem ajudar a resolver o problema.
+
+
+Lembre-se: é importante guardar as notas fiscais e comprovantes de compra para casos como esse.
+Nota: 2/5
+Justificativa: A resposta da IA apresenta erros graves de interpretação jurídica e orientações inadequadas para uma situação de uso indevido de CPF (possível fraude/falsidade ideológica). Em primeiro lugar, a IA mistura o problema de uso indevido de dados com a responsabilidade por vícios de produto e riscos à saúde/segurança (arts. 8º e 12 do CDC), o que é completamente irrelevante para o caso. Em segundo lugar, sugere que o usuário 'guarde os comprovantes de compra', o que é contraditório, visto que a vítima não efetuou a compra e, portanto, não possui tais documentos. Além disso, erra a nomenclatura do Procon ('Conselho' em vez de Programa/Fundação de Proteção e Defesa do Consumidor) e omite orientações vitais e urgentes, como o registro de um Boletim de Ocorrência (BO) para se resguardar de fraudes e o contato imediato com o SAC da empresa para contestar a cobrança e evitar a negativação indevida nos órgãos de proteção ao crédito. Essas falhas podem induzir o leigo a erro e prejudicá-lo juridicamente.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 46 ---
+Pergunta: Como fazer uma denúncia formal no Procon?
+Resposta IA: Para fazer uma denúncia formal no Procon, você precisa ter os documentos necessários. Isso inclui a nota fiscal do produto ou serviço adquirido e a descrição completa do fornecedor e do produto.
+
+
+Se houver irregularidade, entre em contato com o fornecedor para regularizar o problema ou cancelar a compra. Se necessário, formalize reclamação junto ao Procon ou recorra ao Poder Judiciário.
+Nota: 3/5
+Justificativa: A resposta fornecida pela IA é parcialmente correta, porém genérica e incompleta. Embora indique corretamente a necessidade de reunir documentos probatórios (como nota fiscal e identificação do fornecedor) e recomende o contato prévio com a empresa, ela falha em responder concretamente ao comando do usuário sobre 'como' fazer a denúncia. A IA não menciona os meios práticos de atendimento (portais online dos Procons estaduais/municipais, aplicativo, atendimento presencial ou a plataforma Consumidor.gov.br), tampouco diferencia a reclamação individual da denúncia de interesse coletivo. Apesar de não conter erros jurídicos graves ou alucinações que prejudiquem o usuário, peca pela falta de precisão prática e técnica.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 47 ---
+Pergunta: A academia pode me cobrar multa de quebra de fidelidade se eu precisar cancelar o plano de 1 ano por motivo de mudança de cidade?
+Resposta IA: Não! Se você precisa cancelar o contrato por motivo de mudança de cidade, a academia não pode cobrar multa de quebra de fidelidade. Você tem direito a rescindir o contrato sem penalidades.
+
+
+Lembre-se de que os contratos de plano de saúde têm regras específicas para cancelamento e carência. Leia as condições do seu contrato antes de tomar qualquer decisão.
+Nota: 2/5
+Justificativa: A resposta da IA contém erros jurídicos graves e informações completamente desconectadas do contexto. Primeiro, no direito brasileiro (Código de Defesa do Consumidor e Decreto nº 22.626/33), a cobrança de multa rescisória por cancelamento antecipado de plano fidelidade de academia é legal, desde que razoável (geralmente limitada a 10% do valor das parcelas restantes). A mudança de cidade do consumidor, por si só, não gera direito automático de rescisão isenta de multa, salvo se houver previsão contratual explícita ou se a academia não puder prestar o serviço na nova localidade por culpa própria. Afirmar categoricamente que a academia não pode cobrar multa pode induzir o usuário a erro e gerar prejuízos financeiros. Segundo, a resposta comete um erro de alucinação/confusão de contexto ao mencionar 'contratos de plano de saúde', assunto totalmente alheio à pergunta sobre academia.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 48 ---
+Pergunta: Minha operadora de internet aumentou o valor da minha fatura mensal sem me dar nenhum aviso prévio. Isso é legal?
+Resposta IA: Não! A lei exige que a empresa te avise antes de mudar os preços.
+Se ela não avisou e você pagou, você tem direito a reclamar.
+Pode procurar o Procon ou a Receita Federal para saber como proceder.
+Nota: 2/5
+Justificativa: A resposta acerta ao afirmar que o aumento sem aviso prévio é indevido, visto que o Código de Defesa do Consumidor (art. 6º, III) e a regulamentação da Anatel (Resolução nº 632/2014, art. 52) exigem transparência e comunicação prévia de no mínimo 30 dias ao consumidor sobre alterações de valores. Contudo, a IA cometeu um erro grave ao orientar o usuário a procurar a 'Receita Federal' para resolver um problema de direito do consumidor/telecomunicações. A Receita Federal cuida de tributos federais e aduana, não tendo qualquer competência para tratar de cobranças indevidas de internet. Essa orientação errônea prejudica o leigo, fazendo-o perder tempo e recorrer ao órgão público incorreto (o correto seria indicar o Procon, a Anatel ou a plataforma Consumidor.gov.br). Por conter erro grave de orientação prática e institucional, a resposta recebe nota 2.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 49 ---
+Pergunta: As companhias aéreas realmente podem cobrar uma taxa extra apenas para que o passageiro possa marcar um assento comum no voo?
+Resposta IA: Não! As companhias aéreas não podem cobrar taxa extra por isso. O contrato de transporte aéreo já inclui o direito ao assento escolhido, desde que seja disponível. Se você quiser marcar um assento específico, é só pedir à companhia e ela deve atender.
+Nota: 1/5
+Justificativa: A resposta fornecida pela IA é juridicamente incorreta e contrária à regulamentação vigente no Brasil. De acordo com a Resolução nº 400/2016 da ANAC (Agência Nacional de Aviação Civil) e a jurisprudência dominante, as companhias aéreas têm permissão para cobrar uma taxa extra pela marcação/escolha antecipada de assentos comuns (antes da abertura do check-in gratuito). O contrato de transporte aéreo garante o transporte do passageiro e a atribuição de um assento no momento do check-in, mas não o direito de escolher previamente qualquer assento específico gratuitamente. Ao afirmar categoricamente que a cobrança é proibida, a IA orienta o leigo de forma totalmente contrária ao direito aplicável, o que pode induzi-lo a erro ao exigir um direito inexistente frente à companhia aérea.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 50 ---
+Pergunta: Comprei uma TV na Black Friday por um preço muito baixo (provavelmente erro no site), mas a loja cancelou a compra unilateralmente no dia seguinte. Posso exigir a entrega pelo preço anunciado?
+Resposta IA: Sim! Se você comprou algo com um preço errado, o fornecedor deve entregar pelo preço correto.
+O Código de Defesa do Consumidor diz que se houver divergência nos valores anunciados, você pode escolher entre:
+- Cumprir a oferta original;
+- Receber outro produto equivalente;
+- Cancelar a compra e receber o dinheiro de volta.
+
+
+Se a loja cancelou a compra sem sua escolha, isso é errado. Você tem direito à entrega pelo preço correto ou ao abatimento proporcional no preço.
+Nota: 3/5
+Justificativa: A resposta da IA está parcialmente correta ao citar o regramento geral do Código de Defesa do Consumidor (Art. 35 do CDC), que estabelece o princípio da vinculação da oferta e confere ao consumidor o direito de exigir o cumprimento forçado da obrigação. No entanto, a resposta incorre em falhas graves e omitiu uma exceção jurídica vital ao caso concreto apresentado pelo usuário: o instituto do erro crasso (ou erro grosseiro) fundamentado no princípio da boa-fé objetiva (Art. 4º, III do CDC e Art. 422 do CC). A jurisprudência consolidada do Superior Tribunal de Justiça (STJ) entende que, quando o preço anunciado é manifestamente desproporcional ao valor real do produto (como um erro evidente de digitação na Black Friday), a empresa não é obrigada a cumprir a oferta, a fim de evitar o enriquecimento sem causa do consumidor. Além disso, a IA utiliza termos confusos ao dizer que 'o fornecedor deve entregar pelo preço correto', o que gera imprecisão técnica. Orientar o usuário leigo de forma categórica a exigir o produto nessas condições pode levá-lo a demandar judicialmente sem chances reais de êxito.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 51 ---
+Pergunta: Fui vítima de um golpe no WhatsApp, fiz um PIX e o banco se recusa a devolver o dinheiro através do MED (Mecanismo Especial de Devolução). Posso processar a instituição financeira?
+Resposta IA: Sim! Se você foi vítima de um golpe e fez um PIX, mas o banco não devolveu o dinheiro, você tem direito a reclamar.
+
+
+O MED (Mecanismo Especial de Devolução) é uma lei que protege os consumidores em casos como esse. O banco deve devolver o dinheiro se você comprovou que foi vítima de um golpe.
+
+
+Se eles não fizeram isso, você pode processar a instituição financeira. Lembre-se de guardar todas as provas e documentação relacionada ao caso.
+Nota: 2/5
+Justificativa: A resposta da IA contém erros jurídicos graves que podem induzir o usuário leigo a erro e causar-lhe prejuízos financeiros adicionais. Em primeiro lugar, o MED (Mecanismo Especial de Devolução) não é uma lei, mas sim uma regulamentação do Banco Central do Brasil (Resolução BCB nº 1/2020). Em segundo lugar, e mais grave, a IA afirma categoricamente que 'o banco deve devolver o dinheiro se você comprovou que foi vítima de um golpe'. Juridicamente, a devolução pelo MED depende da existência de saldo na conta do recebedor (golpista). Caso o valor já tenha sido sacado, o banco não é automaticamente obrigado a ressarcir a vítima com recursos próprios, a menos que seja demonstrada falha na prestação do serviço bancário (como falha na checagem de segurança da conta receptora ou inércia injustificada após a notificação do golpe, configurando fortuito interno - Súmula 479/STJ). Se a transação ocorreu por culpa exclusiva da vítima enganada por terceiro (art. 14, § 3º, II do CDC), a jurisprudência afasta a responsabilidade do banco. Induzir o leigo a achar que o direito ao ressarcimento bancário é automático pode levá-lo a ajuizar uma ação judicial sem os requisitos necessários, arcando com custas e sucumbência.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 52 ---
+Pergunta: Fizeram várias compras no meu nome de madrugada, mas o banco diz que não vai estornar porque foi usado o chip físico e a senha. Como provar que não fui eu?
+Resposta IA: Se você acha que alguém fez compras em seu nome sem permissão, é importante registrar uma reclamação no Procon ou na polícia.
+
+
+Para provar que não foi você quem fez as compras, você pode:
+
+
+*   Pedir ao banco para verificar se há alguma suspeita de fraude.
+*   Registrar um boletim de ocorrência na delegacia de polícia.
+*   Fornecer documentos como a sua identidade e comprovantes de residência.
+
+
+Lembre-se de que é importante agir rapidamente para evitar danos maiores.
+Nota: 2/5
+Justificativa: A resposta da IA é extremamente genérica e juridicamente superficial, pecando gravemente ao responder à dúvida específica do usuário. No Direito do Consumidor brasileiro (CDC) e na jurisprudência consolidada (Súmula 479 do STJ), a realização de compras fora do perfil habitual do cliente e em horários atípicos (como de madrugada) gera presunção de falha na prestação do serviço e no dever de segurança do banco. Além disso, vigora a inversão do ônus da prova (Art. 6º, VIII do CDC), cabendo ao banco demonstrar que não houve fraude em seu sistema. A IA sugere medidas ineficazes como 'fornecer comprovante de residência' para provar a ausência de autoria, o que em nada ajuda em transações por chip e senha, e sugere 'pedir ao banco para verificar se há suspeita' quando o próprio usuário informou que o banco já recusou o estorno. A resposta omite meios reais de prova e defesa jurídica (como alegação de quebra do perfil de consumo, notificação ao Banco Central/Consumidor.gov.br e ação judicial com pedido de inversão do ônus da prova). Por orientar o leigo de forma ineficaz diante do esgotamento da via administrativa direta com o banco, a resposta merece nota 2.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 53 ---
+Pergunta: Fui em um rodízio de pizza e deixei algumas bordas no prato. O restaurante pode me cobrar a 'taxa de desperdício' que estava avisada no cardápio?
+Resposta IA: Não! Se o cardápio tiver uma "taxa de desperdício", isso é ilegal.
+O restaurante não pode cobrar por algo que você fez normalmente, como comer a pizza. Você pagou pelo prato e não há nada errado em deixar algumas bordas.
+
+
+Se o restaurante quiser cobrar, você pode reclamar no Procon ou na Receita Federal.
+Nota: 3/5
+Justificativa: A resposta da IA acerta o ponto principal: a cobrança da 'taxa de desperdício' em restaurantes e rodízios é considerada prática abusiva perante o Código de Defesa do Consumidor (art. 39, V e X, e art. 51, IV, do CDC), pois o consumidor já paga pelo serviço/refeição e a imposição de multa por sobra de alimentos desequilibra a relação contratual. A indicação de recorrer ao Procon também está correta. No entanto, a IA incorre em um erro crasso de precisão técnica ao orientar o consumidor a reclamar na 'Receita Federal', órgão tributário que não possui qualquer competência sobre relações de consumo. Essa imprecisão compromete a qualidade técnica da orientação jurídica fornecida a um leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 54 ---
+Pergunta: Comprei um processador e uma placa mãe na Kabum e não coube no meu gabinete, posso pedir o arrependimento de 7 dias? Ou como fiz o uso eles não aceitam mais?
+Resposta IA: Não! O Código de Defesa do Consumidor diz que você tem direito a cancelar compras feitas fora do estabelecimento comercial, como na internet, dentro de 7 dias. Mas isso só vale para produtos que não foram entregues ainda ou se o produto foi recebido e você mudou de ideia logo em seguida. Se você já usou os produtos, a loja pode não aceitar mais o cancelamento.
+Nota: 2/5
+Justificativa: A resposta da IA está juridicamente incorreta e pode prejudicar gravemente o consumidor leigo. O artigo 49 do Código de Defesa do Consumidor (CDC) garante o direito de arrependimento no prazo de 7 dias para compras realizadas fora do estabelecimento comercial (como pela internet), a contar do recebimento do produto. O objetivo do artigo 49 é justamente permitir que o consumidor experimente, teste e verifique a adequação e compatibilidade do produto. O mero ato de tentar instalar ou testar os componentes (como verificar se cabe no gabinete) não elimina o direito de arrependimento, desde que o produto seja devolvido sem danos. Ao responder categoricamente 'Não!' e afirmar que o direito só vale para produtos não entregues ou que não foram usados, a IA induz o consumidor a erro, fazendo-o perder um direito assegurado por lei.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 55 ---
+Pergunta: Contexto: a pessoa comprou uma esteira que apresentou defeito e a empresa queria apenas consertá-la. Eu posso pedir a troca direto ou teria que aceitar o conserto?
+Resposta IA: Você tem direito a escolher entre trocar a esteira ou ter ela consertada. Se a empresa oferecer somente conserto, você pode pedir para trocá-la. Lembre-se de verificar se há prazo estabelecido para reclamações e se a nota fiscal está em ordem.
+Nota: 2/5
+Justificativa: A resposta da IA contém um erro grave de interpretação do Código de Defesa do Consumidor (CDC), especificamente do Artigo 18. Em regra, quando um produto (como uma esteira) apresenta defeito, o fornecedor tem o prazo legal de até 30 dias para sanar o vício (Art. 18, § 1º). O consumidor não tem o direito de exigir a troca imediata de plano, a menos que o produto seja essencial (Art. 18, § 3º) ou que o prazo de 30 dias vença sem o conserto. A IA informou incorretamente que o usuário pode exigir a troca direta e recusar o conserto de início, o que pode induzir o leigo a uma postura equivocada e prejudicá-lo na resolução do problema.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 56 ---
+Pergunta: Contexto: o produto custava R$ 930 quando comprado, mas atualmente custava cerca de R$ 2.000; a assistência informou que não poderia consertá-lo nem trocar por outro. Posso fazer algo sobre isso? Ou realmente me ferrei?
+Resposta IA: Sim! Você tem direito a reclamar.
+O Código de Defesa do Consumidor diz que se o produto tiver valor diminuído, você pode escolher entre trocá-lo por outro igual ou receber parte do dinheiro de volta.
+Nota: 2/5
+Justificativa: A resposta da IA contém erros graves de interpretação jurídica que prejudicam o consumidor. Segundo o Artigo 18, § 1º, do Código de Defesa do Consumidor (CDC), quando um produto apresenta defeito não sanado no prazo, o consumidor tem o direito de escolher entre três alternativas: I - a substituição do produto por outro da mesma espécie; II - a restituição imediata e INTEGRAL da quantia paga, monetariamente atualizada; ou III - o abatimento proporcional do preço. A IA afirmou erroneamente que o consumidor só poderia 'receber parte do dinheiro de volta' e justificou de forma desconexa dizendo 'se o produto tiver valor diminuído'. Essa orientação confunde o abatimento proporcional e induz o leigo a aceitar um reembolso parcial, quando na verdade ele tem direito à devolução integral do valor pago atualizado ou à substituição por modelo equivalente (Art. 18, § 4º), gerando grave prejuízo ao usuário.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 57 ---
+Pergunta: Contexto: O usuário estava pensando em comprar uma placa de vídeo usada que ainda teria aproximadamente dois anos de garantia do fabricante e perguntou como poderia utilizar essa garantia se precisasse. Como isso funciona?
+Resposta IA: Se você compra um produto usado, a garantia é diferente.
+A garantia do fabricante só vale para defeitos que não foram informados antes da compra.
+Se o vício foi informado, você não pode reclamar com a garantia do fabricante.
+Mas se o problema não está relacionado ao vício informado, você pode reclamar e pedir conserto ou troca.
+Nota: 2/5
+Justificativa: A resposta da IA é gravemente incompleta e juridicamente insatisfatória. No direito do consumidor brasileiro (CDC), a garantia contratual prestada pelo fabricante (art. 50 do CDC) acompanha o produto e se transfere ao novo adquirente no mercado de usados pelo prazo restante, desde que o comprador possua a Nota Fiscal original da compra. A IA falhou totalmente em informar o requisito essencial e indispensável para acionar a garantia do fabricante: a posse da Nota Fiscal original fornecida pelo vendedor. Além disso, a IA focou exclusivamente na questão de 'vício informado', sem explicar como funciona a transferência da garantia contratual para produtos usados e como o usuário deve proceder na prática. A omissão da exigência da Nota Fiscal pode causar prejuízo direto ao usuário leigo, que poderia comprar a placa de vídeo usada sem pedir a nota e posteriormente ter a garantia recusada pelo fabricante.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 58 ---
+Pergunta: Contexto: o ventilador apresentou defeito logo após a compra, mas a mãe do usuário havia descartado a caixa. Eu tenho a nota fiscal e a garantia, posso trocar o produto, ou vou perder meu dinheiro?
+Resposta IA: Sim! Você tem direito a reclamar.
+Se o produto quebrou logo após a compra, você pode pedir troca ou conserto.
+Guarde sempre a nota fiscal e a garantia — elas são suas provas de compra se algo der errado. Entre em contato com a loja e peça a regularização do problema ou o cancelamento da compra.
+Nota: 3/5
+Justificativa: A resposta da IA é parcialmente correta, mas apresenta omissão e imprecisão técnica. Em primeiro lugar, o usuário perguntou especificamente se perderia o direito por ter descartado a caixa do produto. A IA ignorou completamente essa dúvida central; no Direito do Consumidor brasileiro, a ausência da embalagem original não retira o direito à garantia nem à troca/conserto do produto com vício, desde que haja a nota fiscal. Em segundo lugar, a IA orienta que o consumidor já pode pedir troca ou cancelamento imediato. Juridicamente, o art. 18, § 1º, do Código de Defesa do Consumidor (CDC) concede ao fornecedor o prazo de 30 dias para sanar o defeito (conserto), e somente após esse prazo sem solução é que o consumidor pode exigir a troca, o reembolso ou o abatimento proporcional (salvo se for produto essencial ou se houver regra mais benéfica da loja). Como a IA omitiu a resposta sobre a caixa e simplificou incorretamente o procedimento do CDC, a nota é 3.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 59 ---
+Pergunta: Contexto: uma TV OLED de R$ 5 mil apresentou o mesmo problema três vezes, mesmo após duas trocas da tela pela garantia. Dito isso, tenho direito a um produto completamente novo e na caixa ou devolução dos valores pagos? Qual o melhor canal pra exigir esse direito?
+Resposta IA: Se você comprou uma TV OLED de R$ 5 mil que apresentou problemas três vezes, mesmo após duas trocas da tela pela garantia, você tem direito a reclamar. O Código de Defesa do Consumidor prevê que o consumidor tem direito à substituição do produto por outro da mesma espécie em perfeitas condições de uso ou à restituição imediata da quantia paga, monetariamente atualizada.
+
+
+O melhor canal para exigir esse direito é o Procon. Você pode entrar em contato com eles e solicitar a regularização do problema ou o cancelamento da compra. Além disso, você também pode procurar um advogado especializado em Direito do Consumidor para ajudá-lo a resolver o caso.
+
+
+Lembre-se de guardar todos os documentos relacionados à compra, incluindo as notas fiscais e as comprovações das trocas feitas pela garantia. Isso será importante para provar seus direitos como consumidor.
+Nota: 4/5
+Justificativa: A resposta da IA está juridicamente correta ao aplicar o artigo 18, § 1º, incisos I e II do Código de Defesa do Consumidor (CDC). Como o produto apresentou o mesmo vício por três vezes consecutivas após reparos, o consumidor tem o direito de escolha entre a substituição do produto por outro novo e em perfeitas condições ou a restituição imediata do valor pago devidamente atualizado. A orientação de guardar notas fiscais e ordens de serviço é indispensável do ponto de vista probatório. Como ponto de pequena imprecisão/omissão funcional, a IA deixou de mencionar a plataforma Consumidor.gov.br (frequentemente mais célere que o Procon) e o Juizado Especial Cível (JEC), onde o consumidor poderia litigar sem a necessidade imediata de contratar um advogado, já que o valor da causa (R$ 5.000,00) é inferior a 20 salários mínimos. Contudo, a orientação dada é segura e juridicamente válida.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 60 ---
+Pergunta: Contexto: a mãe do usuário comprou um celular por R$ 1.400, mas acabou fazendo um carnê de 15 × R$ 240, totalizando aproximadamente R$ 3.600. Quero saber se posso fazer algo para reverter esta compra.
+Resposta IA: Sim! Se o preço anunciado foi diferente do que você pagou, você tem direito a reclamar.
+
+
+O Código de Defesa do Consumidor diz que o fornecedor deve informar o preço corretamente. Se houver divergência nos valores, você pode escolher entre:
+
+
+* Exigir o cumprimento forçado da obrigação (comprar o produto pelo preço anunciado);
+* Aceitar outro produto equivalente;
+* Rescindir o contrato e pedir a devolução do dinheiro.
+
+
+Nesse caso, você pode reclamar que o preço foi diferente do anunciado. Peça para a loja corrigir o erro ou devolva o dinheiro.
+Nota: 2/5
+Justificativa: A resposta da IA cometeu um erro grave de interpretação jurídica ao confundir venda financiada (a prazo com juros) com 'divergência de preço anunciado' (Art. 35 do CDC). A diferença entre o valor à vista (R$ 1.400) e o total do carnê (R$ 3.600 em 15x de R$ 240) decorre da incidência de juros remuneratórios do financiamento. A discussão jurídica cabível diz respeito ao dever de informação clara sobre o Custo Efetivo Total e taxa de juros (Art. 52 do CDC) ou eventual vício de consentimento (como erro ou dolo, previstos no Código Civil), e não à divergência de oferta/etiqueta. Orientar o consumidor leigo a exigir o pagamento de R$ 1.400 parcelado em 15 vezes sem juros sob a tese de 'erro no preço anunciado' é totalmente descabido e prejudicará o usuário ao buscar uma solução inviável perante a loja ou o Procon.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 61 ---
+Pergunta: Imobiliária na venda de imóvel é muito necessário? Eu e mais 2 irmãos temos um imóvel de herança que pretendemos vender. Já temos um comprador (o atual inquilino, que mora lá faz anos) que vai financiar parte do valor pela caixa econômica. A questão é que um dos irmãos falou que o processo deve ser feito através de uma imobiliária (disse inclusive que somente poderia ser feito desse modo), que recebe um % do valor, e agora estou em dúvida se é realmente necessário. Tenho um advogado próximo que pode ajudar no contrato, mas fora isso, queria a opinião se realmente é necessário a imobiliária.
+Resposta IA: Não! A venda de imóvel não precisa ser feita por uma imobiliária.
+Você tem direito de vender o imóvel sozinho ou com ajuda do advogado.
+A lei não obriga a usar uma imobiliária, mas elas podem ajudar no processo.
+
+
+Exemplo: você pode contratar um advogado para fazer o contrato e registrar o imóvel.
+Nota: 5/5
+Justificativa: A resposta do sistema de IA está juridicamente irretocável e atende perfeitamente ao caso concreto. No direito brasileiro (Código Civil e Lei nº 6.530/1978), a intermediação por corretor de imóveis ou imobiliária é uma faculdade das partes, destinada precipuamente a aproximar comprador e vendedor, e jamais uma exigência legal para a validade do negócio jurídico de compra e venda. Como os herdeiros já possuem um comprador certo (o inquilino), a contratação de imobiliária geraria uma comissão de corretagem desnecessária. A orientação de utilizar um advogado para a elaboração do instrumento particular/público e auxílio no trâmite do financiamento habitacional junto à Caixa Econômica Federal é perfeita e protege os interesses do usuário leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 62 ---
+Pergunta: Diminuição de Parcelas de Financiamento de Casa. Eu comprei uma casa recentemente, e pago 1.400$ por mês da caixa e mais 1.000$ (40 parcelas) da entrada. Desde que assinei (faz 1 ano), recebo muitos contatos de advogados e consultorias, falando de revisão de contrato e redução de parcelas. Principalmente quando o valor é acima de mil. Isso realmente funciona? Como é isso? Pois eles divulgam como se servisse para todos contratos imobiliários.
+Resposta IA: Sim! Se você assinou um contrato há mais de 1 ano e paga parcelas, pode ter direito a revisão do valor. A lei diz que o financiamento não pode ser reajustado em menos de 1 ano.
+
+
+Se você recebeu muitos contatos falando sobre isso, é porque tem gente procurando ajudar. Mas lembre-se: cada caso é único e precisa ser analisado por um especialista.
+
+
+A lei diz que se o valor do financiamento for muito alto (acima de mil), a escola pode ter que revisá-lo. Mas você precisa provar que o valor é muito alto e que isso está prejudicando você.
+
+
+Se você quiser saber mais, converse com um advogado especializado em direito imobiliário. Ele pode ajudar a entender melhor sua situação e decidir se vale a pena tentar revisar o contrato.
+Nota: 1/5
+Justificativa: A resposta da IA é gravemente incorreta e juridicamente prejudicial. Em primeiro lugar, a IA afirma erroneamente que a lei determina a revisão de financiamentos se o valor for 'muito alto (acima de mil)', o que é uma invenção completa (alucinação jurídica), inexistindo qualquer teto numérico na legislação brasileira que enseje revisão contratual automática. Em segundo lugar, a IA alucina ao mencionar 'a escola' em um contexto de financiamento imobiliário. Além disso, a resposta valida a conduta de consultorias e escritórios que fazem captação predatória de clientes ('é porque tem gente procurando ajudar'), o que induz o leigo ao erro e o expõe a possíveis golpes ou litígios de má-fé. A revisão de contratos no Brasil exige a comprovação de abusividade, juros abusivos, ilegalidade de cláusulas ou onerosidade excessiva superveniente (art. 6º, V do CDC e arts. 317/478 do CC), e não meramente o fato de a parcela ser superior a mil reais ou 'estar prejudicando' o devedor.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 63 ---
+Pergunta: Xingamento no telemarketing. Uma empresa de cobranças me liga insistentemente faz meses procurando uma mulher que eu nunca ouvi falar. Sempre pedi educadamente inúmeras vezes para retirar meu nome e o atendente me diz que está tudo certo. Essa semana eu me descontrolei a passei a xingar. Na prática isso pode resultar em algum processo contra mim?
+Resposta IA: Não! Se você se sentir agredido, pode reclamar à Procon ou à Receita Federal.
+O telemarketing é proibido se for feito de forma insistente e sem respeitar o seu pedido para parar.
+Se você xingar o atendente, isso não significa que você tenha feito algo errado. Mas, se a empresa quiser, pode processá-lo por injúria verbal.
+Guarde as provas do seu pedido de retirada do cadastro e das ligações insistentes.
+Nota: 2/5
+Justificativa: A resposta da IA contém erros jurídicos graves e informações contraditórias que podem prejudicar diretamente o usuário leigo. Em primeiro lugar, a IA responde categoricamente 'Não!' à pergunta sobre a possibilidade de sofrer um processo, mas logo depois se contradiz afirmando que 'pode processá-lo por injúria'. Em segundo lugar, sugere expressamente que xingar um atendente 'não significa que você tenha feito algo errado', o que é juridicamente falso: a ofensa verbal contra a honra subjetiva de alguém configura, em tese, o crime de injúria (art. 140 do Código Penal) e um ilícito civil passível de indenização por danos morais (arts. 186 e 927 do Código Civil). Por fim, a indicação da 'Receita Federal' como órgão para denunciar perturbação de telemarketing é totalmente sem descabimento. Essas falhas induzem o leigo a acreditar que sua conduta ilícita não tem consequências jurídicas sérias.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 64 ---
+Pergunta: VIVO me cobrando WiFi que eu não uso. Mais ou menos pro dia 15 de junho me mudei, liguei para a Vivo antes solicitando transferência de lugar da minha fibra, porém, me informaram que o local para onde eu ia não tinha cobertura e nisso eles me passaram para a Claro onde eu assinei um plano de WiFi. Vale ressaltar que meu plano de Internet é junto com o do celular, onde R$95 era de WiFi e R$40 de celular. Hoje liguei para a Vivo informando que não ia pagar os R$95 da fibra pois estou a mais de um mês sem usá-la e eles por ativamente me informarem que eu não tinha como ter WiFi da Vivo na minha nova casa, deveriam ter feito o cancelamento dela já que foi isso que solicitei. E agora, nessa ligação me falaram que SIM tinha cobertura da Vivo onde eu moro, o motivo de terem dito que não tinha eu não sei. Agora estão me cobrando esse valor e ainda disseram que se eu cancelar agora terei que pagar uma multa por cancelamento, pois quero pagar somente o plano de celular, e não posso cancelar da Claro pois também tem multa.
+Resposta IA: Você pode cancelar o WiFi da Vivo sem pagar multa. Você já havia solicitado a transferência para outro local com cobertura, mas eles disseram que não tinha. Agora sabem que sim tem cobertura e estão te cobrando pelo serviço que você não usa mais. Você pode reclamar ao Procon ou à Vivo e pedir o cancelamento sem multa.
+Nota: 4/5
+Justificativa: A resposta da IA está correta em termos de orientação jurídica de direito do consumidor. De acordo com o Código de Defesa do Consumidor (CDC, arts. 6º, III e VI, e art. 14) e as regulamentações da Anatel (Resolução nº 632/2014), a prestação de informação inadequada ou falsa por parte da operadora (afirmar que não havia cobertura quando na verdade havia, levando o consumidor a contratar outra empresa) configura falha na prestação do serviço e violação do dever de informação e da boa-fé objetiva. Nesses casos, o consumidor tem o direito ao cancelamento do contrato sem o pagamento de multa rescisória, uma vez que a rescisão é motivada por culpa exclusiva da prestadora. Além disso, as cobranças relativas ao período em que o serviço não pôde ser utilizado por erro da operadora são indevidas. A orientação de buscar o Procon e contestar a cobrança/multa junto à operadora é juridicamente adequada. A resposta só não recebe nota máxima por ser bastante sucinta e omitir a menção à Anatel (órgão regulador específico) e ao direito de contestação/restituição dos valores cobrados indevidamente durante o mês que não usou, mas não há qualquer erro técnico que prejudique o leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 65 ---
+Pergunta: Fiz uma aplicação por engano e o banco não quer devolver meu dinheiro. Ano passado apliquei 400 reais em renda fixa, mas não reparei que só poderia sacar em 2028. Entrei em contato com o banco e eles disseram que não seria possível ressarcir o dinheiro. Existe algum meio que eu possa recorrer ou vou ter que esperar mesmo?
+Resposta IA: Sim, você tem direito a reclamar! O banco é obrigado por lei a devolver seu dinheiro se você fez uma aplicação por engano.
+
+
+Você pode entrar em contato com o Procon (Conselho de Defesa do Consumidor) ou a Receita Federal para denunciar o caso. Eles podem ajudar a resolver o problema e garantir que você receba seu dinheiro de volta.
+
+
+Lembre-se de guardar todas as comunicações com o banco, incluindo cartas e emails, como prova de sua reclamação.
+Nota: 1/5
+Justificativa: A resposta da IA é juridicamente incorreta e induz o leigo a erro grave. Em primeiro lugar, não existe previsão legal que obrigue a instituição financeira a rescindir ou devolver o valor de um investimento de renda fixa com prazo de carência/vencimento determinado (2028) simplesmente porque o consumidor alega ter aplicado 'por engano' no ano anterior. O direito de arrependimento (Art. 49 do CDC) possui prazo de 7 dias e não se aplica a operações realizadas há meses. Em segundo lugar, a indicação da 'Receita Federal' como órgão para denunciar o banco e reaver o dinheiro é um erro absurdo, visto que a Receita cuida de tributos federais, enquanto litígios financeiros/bancários e regulados cabem ao Banco Central (BACEN), CVM, Procon ou Ouvidoria. A resposta orienta de forma contrária ao direito e gera falsas expectativas de ressarcimento garantido.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 66 ---
+Pergunta: O banco pode descontar a parcela do meu empréstimo direto da minha conta salário e me deixar sem dinheiro nenhum?
+Resposta IA: Não! O banco não pode tirar todo o dinheiro da sua conta sem aviso prévio. Se você está com dívidas para pagar, o banco deve avisá-lo antes de descontar a parcela do empréstimo da sua conta salário. Você tem direito a saber quando e quanto será descontado.
+Nota: 2/5
+Justificativa: A resposta fornecida pela IA contém um erro grave de interpretação jurídica que pode prejudicar o usuário leigo. O núcleo da pergunta do usuário diz respeito à possibilidade de o banco reter a totalidade do seu salário para quitar um empréstimo ('me deixar sem dinheiro nenhum'). Segundo a legislação brasileira (art. 833, IV, do CPC) e a jurisprudência consolidada do Superior Tribunal de Justiça (STJ), o salário é impenhorável e é vedada a retenção integral de proventos para pagamento de dívidas de empréstimo comum, devendo ser preservado o mínimo existencial do devedor. A IA erra ao focar a proibição na falta de 'aviso prévio', transmitindo a falsa e perigosa impressão de que, caso o banco avise previamente, ele poderia legitimamente descontar todo o dinheiro da conta salário do cliente.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 67 ---
+Pergunta: Fui demitido e não consigo mais pagar o financiamento do carro, posso devolver o veículo para quitar a dívida amigavelmente?
+Resposta IA: Sim! Se você está com dificuldade em pagar o financiamento do carro, pode tentar devolver o veículo e quitar a dívida de forma amigável.
+O Banco Central tem regras para isso. Eles não podem cobrar mais dinheiro do que foi acordado no contrato. Além disso, se você tiver dificuldade em pagar, é melhor falar com o banco antes de perder o carro.
+
+
+Lembre-se: a lei protege os consumidores!
+Nota: 2/5
+Justificativa: A resposta da IA contém um erro jurídico grave por omissão que pode prejudicar significativamente o usuário leigo. No direito brasileiro, a devolução amigável do veículo (alienação fiduciária - Decreto-Lei nº 911/1969 e Código Civil) não garante a quitação automática da dívida. Na prática, se o banco aceitar o veículo, este será leiloado e o valor arrecadado será abatido do saldo devedor; se o valor for insuficiente para cobrir o total da dívida e os custos, o consumidor continuará devendo o saldo remanescente. Ao afirmar simplesmente que o usuário pode 'devolver o veículo e quitar a dívida' e mencionar genericamente regras do Banco Central sem alertar que a quitação integral depende de um acordo explícito de dação em pagamento (com termo de quitação plena), a IA induz o consumidor a erro, fazendo-o entregar o bem e permanecer endividado.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 68 ---
+Pergunta: Existe um limite máximo de juros que o banco pode me cobrar no rotativo do cartão de crédito?
+Resposta IA: Não! A lei não fala sobre limites de juros em cartões de crédito.
+Ela fala sobre dívidas dos governos e operações de crédito. Não há nada relacionado a cartões de crédito ou juros nesses documentos.
+Nota: 1/5
+Justificativa: A resposta da IA é completamente incorreta e desatualizada. Com a promulgação da Lei nº 14.690/2023 (regulamentada pela Resolução CMN nº 5.112/2023), passou a existir um teto legal para os juros e encargos cobrados no rotativo do cartão de crédito e no parcelado do fatura: o valor total dos juros e encargos financeiros não pode exceder 100% do valor da dívida original. Ao afirmar taxativamente que 'a lei não fala sobre limites de juros em cartões de crédito', a IA induz o consumidor leigo ao erro e orienta de forma contrária à legislação vigente no Brasil, podendo levá-lo a aceitar cobranças abusivas e ilegais por parte das instituições financeiras.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 69 ---
+Pergunta: O que acontece na prática se eu não conseguir pagar nem o valor mínimo da fatura do meu cartão?
+Resposta IA: Se você não puder pagar nem o valor mínimo da fatura, a administradora pode cobrar o valor integral da fatura. Ela também pode retirar a opção de pagamento mínimo e exigir o valor total da fatura. Além disso, ela não é obrigada a parcelar o débito/dívida do cartão de crédito.
+Nota: 2/5
+Justificativa: A resposta fornecida pela IA é bastante deficiente e juridicamente incompleta ao responder o que acontece 'na prática' com o não pagamento do valor mínimo da fatura. 1) Omitiu as principais consequências jurídicas e práticas da inadimplência, tais como: incidência de encargos moratórios (juros de mora e multa moratória limitada a 2%, conforme o art. 52, § 1º do Código de Defesa do Consumidor), o bloqueio ou cancelamento da função crédito do cartão, e a inscrição do nome do consumidor nos órgãos de proteção ao crédito (SPC/Serasa). 2) A alegação de que a instituição 'pode retirar a opção de pagamento mínimo' é imprecisa, pois o pagamento mínimo é a regra para entrada no crédito rotativo (regulamento pela Resolução CMN nº 4.549/2017); o não pagamento do mínimo configura mora/inadimplemento direto. 3) A omissão das consequências centrais (juros, multa e negativação) pode induzir o leigo ao erro por não compreender a gravidade e os custos financeiros da inadimplência.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 70 ---
+Pergunta: Descobri um empréstimo consignado no meu benefício do INSS que eu nunca pedi e nem assinei nada, o que devo fazer?
+Resposta IA: Se você descobrir um empréstimo consignado no seu benefício do INSS sem ter pedido ou assinado nada, é importante agir rápido. Você deve entrar em contato com a Caixa Econômica Federal (CEF) e reclamar sobre o erro.
+
+
+A CEF tem que fornecer uma nota fiscal para cada empréstimo concedido. Se você não recebeu essa nota, isso pode ser um problema. Peça para ver as notas fiscais do seu empréstimo e verifique se elas estão corretas.
+
+
+Se você achar que houve fraude ou erro, você tem direito a reclamar e pedir que o empréstimo seja cancelado. Você também pode procurar ajuda no Procon (Conselho de Defesa do Consumidor) ou na Receita Federal para saber como proceder.
+Nota: 1/5
+Justificativa: A resposta da IA contém erros jurídicos e procedimentais gravíssimos. Primeiro, afirma que o empréstimo foi feito pela Caixa Econômica Federal sem que o usuário tenha mencionado qual instituição financeira realizou o desconto. Segundo, menciona que o banco deve fornecer 'nota fiscal' para empréstimo, o que é uma alucinação jurídica/financeira, pois operações de crédito não geram nota fiscal, mas sim Cédulas de Crédito Bancário (CCB) ou contratos. Terceiro, orienta o usuário a procurar a Receita Federal, órgão que não possui qualquer competência sobre relações de consumo ou fraude em empréstimos consignados. As orientações corretas envolveriam: registrar reclamação no Meu INSS / Consumidor.gov.br / Banco Central, contestar o contrato junto ao banco pagador/consignante, procurar o Procon e/ou ingressar com ação judicial para suspensão dos descontos, repetição do indébito (Art. 42, parágrafo único do CDC) e indenização por danos morais (Súmula 479 do STJ). A resposta fornecida prejudicaria imensamente o leigo, fazendo-o perder tempo em órgãos errados e exigindo documentos inexistentes.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 71 ---
+Pergunta: Cancelei minha internet no mês passado, mas recebi uma fatura cobrando o mês inteiro atual, sou obrigado a pagar?
+Resposta IA: Não! Se você cancelou sua internet no mês passado, não precisa pagar pelo mês todo. Leia seu contrato e veja se há cláusula de rescisão prevista. Se houver, você pode reclamar ao fornecedor. Guarde comprovante do cancelamento para evitar problemas.
+Nota: 4/5
+Justificativa: A resposta da IA acerta na conclusão principal: o consumidor não é obrigado a pagar pelo mês integral após o cancelamento do serviço, sendo devida apenas a cobrança proporcional (pro-rata) pelos dias em que o serviço esteve efetivamente disponível, conforme regulamentação da ANATEL (Resolução nº 632/2014) e o Código de Defesa do Consumidor (CDC). A orientação de guardar o comprovante de cancelamento também é juridicamente correta e altamente recomendável. Contudo, a resposta peca ao condicionar o direito de reclamar à existência de uma 'cláusula de rescisão prevista' no contrato. O direito ao cancelamento e à cobrança proporcional decorre da lei e da regulamentação do setor, independentemente de previsão contratual expressa. Apesar dessa imprecisão técnica sobre a fonte do direito, a orientação não prejudica o usuário leigo de forma grave.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 72 ---
+Pergunta: Uma empresa de cobrança me mandou mensagem no WhatsApp ameaçando bloquear meus bens em 24h, isso é legal?
+Resposta IA: Não! Isso não é legal. A empresa não pode ameaçar você com medidas legais sem ter provas ou justificativas.
+
+
+Para cobrar uma dívida, a empresa deve seguir as regras da lei e não pode usar ameaças para pressionar o devedor. Se você receber uma mensagem como essa, é melhor procurar um advogado ou ir ao Procon para saber seus direitos.
+
+
+Lembre-se: ninguém pode te ameaçar com medidas legais sem ter provas ou justificativas. Você tem direito a ser tratado com respeito e a seguir as regras da lei.
+Nota: 3/5
+Justificativa: A resposta da IA acerta na conclusão principal ao afirmar que a conduta é ilegal e ao orientar o consumidor a procurar o Procon ou um advogado. No entanto, peca na fundamentação jurídica técnica. A prática descrita configura cobrança abusiva e/ou ameaça/afirmação enganosa, vedada pelo Art. 42 e tipificada como crime pelo Art. 71 do Código de Defesa do Consumidor (CDC). Além disso, a IA justificou a ilegalidade pelo fato de a empresa 'não ter provas ou justificativas', quando na verdade a ilegalidade decorre do fato de que a penhora ou bloqueio de bens é medida privativa do Poder Judiciário, exigindo processo judicial prévio e devido processo legal, jamais podendo ser efetuada de forma extrajudicial ou direta via mensagem de WhatsApp em 24 horas. Por pecar na precisão técnica dos motivos jurídicos, a nota atribuída é 3.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 73 ---
+Pergunta: Paguei a mensalidade da faculdade duas vezes por engano no mesmo mês, como faço para receber meu dinheiro de volta?
+Resposta IA: Se você pagou a mesma mensalidade duas vezes por engano, você pode reclamar à faculdade. Ela deve devolver o valor pago em excesso.
+
+
+Você pode entrar em contato com a faculdade e explicar o erro. Eles devem ter um procedimento para resolver isso. Se não funcionar, você também pode procurar ajuda no PROCON (Instituto de Proteção ao Consumidor) ou na Justiça do Trabalho.
+Nota: 2/5
+Justificativa: A resposta da IA acerta ao orientar o consumidor a entrar em contato com a instituição de ensino para solicitar a devolução do pagamento em duplicidade e ao indicar o PROCON como órgão administrativo de defesa do consumidor. Contudo, comete um erro grave de competência jurídica ao sugerir a 'Justiça do Trabalho' para resolver um litígio entre aluno e faculdade. A relação entre estudante e instituição privada de ensino é de consumo (regida pelo Código de Defesa do Consumidor e Código Civil), sendo a competência da Justiça Comum Estadual (Juizados Especiais Cíveis ou Varas Cíveis), e não da Justiça do Trabalho. Essa orientação incorreta pode induzir o leigo a erro grave e perda de tempo ao acionar o ramo do judiciário errado.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 74 ---
+Pergunta: O banco me cobrou uma tarifa de manutenção de conta que eu não fui avisado, posso pedir o estorno desse valor?
+Resposta IA: Sim! Se você não foi avisado sobre a tarifa de manutenção da conta e pagou sem saber, pode reclamar ao banco.
+O banco deve informar os clientes sobre as taxas cobradas. Se isso não aconteceu, você tem direito a pedir o estorno do valor pago indevidamente.
+Guarde todas as comprovações de pagamento para usar como prova se precisar.
+Nota: 4/5
+Justificativa: 1. Fundamentação Jurídica: A resposta está em perfeita consonância com o Código de Defesa do Consumidor (Art. 6º, III, que assegura o direito à informação clara, e Art. 46, que estabelece que os contratos não obrigam os consumidores se não lhes for dada a oportunidade de tomar conhecimento prévio de seu conteúdo) e com a Resolução CMN/Banco Central nº 3.919/2010, que exige previsão contratual e transparência para a cobrança de tarifas bancárias.
+2. Aplicação ao Caso Concreto: O raciocínio aplicado ao leigo é escorreito. Se a tarifa não foi informada ou pactuada, a cobrança torna-se indevida, ensejando o direito ao ressarcimento (art. 42 do CDC).
+3. Ausência de Prejuízo ao Leigo: As orientações (reclamar ao banco e guardar comprovantes) são corretas, seguras e práticas.
+4. Conclusão: A resposta é juridicamente correta. Apenas não recebe a nota máxima por omitir a menção à possibilidade de devolução em dobro (art. 42, parágrafo único do CDC) ou aos canais alternativos de reclamação (como Banco Central e Consumidor.gov.br), mas atende muito bem o leigo sem induzi-lo ao erro.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 75 ---
+Pergunta: Recebi uma cobrança de um serviço de antivírus que eu não contratei, preciso pagar para não sujar meu nome e só depois reclamar?
+Resposta IA: Não! Não pague nada. Se você não contratou o serviço, é fraude. Você tem direito a reclamar imediatamente.
+
+
+Se receber uma cobrança por um serviço que não contratou, é importante agir rápido para evitar problemas. Pode ser fraude ou erro de cobrança. Reclame ao fornecedor e peça esclarecimentos. Se for fraude, você pode denunciar à polícia ou ao Procon.
+
+
+Lembre-se: se você não pediu o serviço, não precisa pagar por ele!
+Nota: 5/5
+Justificativa: A resposta da IA está impecável e juridicamente correta. De acordo com o Código de Defesa do Consumidor (CDC), em seu artigo 39, inciso III, o fornecimento de qualquer serviço sem solicitação prévia é vedado, equiparando-se às amostras grátis (parágrafo único). Portanto, o consumidor não tem a obrigação de pagar por um serviço não contratado para só depois reclamar. A orientação de não pagar, entrar em contato com a empresa para esclarecimentos e recorrer ao Procon ou à polícia em caso de fraude/golpe está em total consonância com a legislação e protege o leigo contra cobranças indevidas e abusivas.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 76 ---
+Pergunta: Comprei um celular, deixei cair na água e ele parou de funcionar. A garantia de fábrica cobre mau uso ou acidente?
+Resposta IA: Sim! Se o seu celular quebrou por causa do acidente (caindo na água), a garantia de fábrica deve cobrir isso.
+O documento diz que, em casos de emergência e urgência, como um acidente, a cobertura é sem restrições após 24 horas da contratação.
+Nota: 1/5
+Justificativa: A resposta da IA é totalmente incorreta do ponto de vista do Direito do Consumidor brasileiro. Em regra, a garantia legal e a contratual de produtos eletroeletrônicos não cobrem danos decorrentes de mau uso, negligência ou acidentes causados pelo consumidor, conforme prevê o art. 12, § 3º, III, do Código de Defesa do Consumidor (CDC), que exime o fornecedor de responsabilidade diante da culpa exclusiva do consumidor ou de terceiro. Além disso, a IA alucinou gravemente ao misturar regras de planos de saúde (Lei nº 9.656/1998, que trata de carência de 24 horas para urgência e emergência) com garantia de bens de consumo duráveis. Seguir essa orientação induziria o leiro ao erro, gerando expectativas falsas e potenciais litígios infundados.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 77 ---
+Pergunta: A loja me vendeu um produto 'de mostruário' com um risco na porta. Se ele der defeito no motor, eu perco a garantia por ser de mostruário?
+Resposta IA: Se você comprou um produto "de mostruário" e ele tem um vício (defeito) que não foi informado previamente, você ainda pode reclamar. O risco na porta é uma advertência para o consumidor. Se o produto der defeito no motor, você pode exigir conserto ou troca, pois a garantia não foi perdida por ser de mostruário.
+Nota: 5/5
+Justificativa: A resposta da IA está juridicamente correta e atende com precisão às normas do Código de Defesa do Consumidor (CDC). No Direito do Consumidor brasileiro, a venda de produtos de mostruário ou com pequenos vícios aparentes (como o risco na porta) não afasta a garantia legal (Art. 26 do CDC) para vícios ocultos ou funcionais que não foram previamente informados ao consumidor (como um defeito no motor). O consumidor aceita apenas o vício estético conhecido no momento da compra, mantendo integralmente o direito à garantia referente aos demais componentes e ao funcionamento adequado do produto. A orientação prestada é segura e não induz o leigo a erro.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 78 ---
+Pergunta: Comprei uma geladeira nova e ela veio muito amassada da transportadora, a loja é obrigada a trocar ou apenas me dar um desconto?
+Resposta IA: Sim! Se a geladeira chegou amassada, você tem direito a reclamar.
+O transportador deve entregar as mercadorias no estado em que foram recebidas. Se houver dano, como amassadura, o destinatário (você) pode reclamar ao transportador ou à loja.
+A loja é responsável por garantir que os produtos estejam em boas condições quando você os recebe. Se a geladeira está amassada, a loja deve trocar ou dar um desconto.
+Nota: 3/5
+Justificativa: A resposta fornecida pela IA é parcialmente correta, mas apresenta imprecisões técnicas e omissões relevantes segundo o Código de Defesa do Consumidor (CDC). Em primeiro lugar, pela regra da responsabilidade solidária na cadeia de fornecimento (arts. 7º, parágrafo único, e 25, § 1º do CDC), o consumidor deve acionar diretamente a loja (fornecedor direto), sendo desnecessário e prejudicial direcionar o consumidor leigo a negociar diretamente com a transportadora contratada pelo vendedor. Em segundo lugar, segundo o art. 18 do CDC, no caso de vícios de qualidade (como o amassado), o fornecedor dispõe de até 30 dias para sanar o problema. Se o vício não for sanado (ou tratando-se de produto essencial, como uma geladeira), as opções (troca, restituição do dinheiro ou abatimento proporcional do preço/desconto) são de ESCOLHA DO CONSUMIDOR, e não uma decisão arbitrária da loja. Ao afirmar simplificadamente que 'a loja deve trocar ou dar um desconto', a IA peca ao não esclarecer que a escolha cabe ao consumidor e ao omitir o direito à devolução do valor pago.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 79 ---
+Pergunta: Deixei meu notebook na assistência técnica autorizada e eles disseram que a peça vem de fora e vai demorar 45 dias, eles podem passar de 30 dias?
+Resposta IA: Sim! Se o prazo for maior do que 30 dias, você tem direito a reclamar.
+O Código de Defesa do Consumidor diz que o fornecedor tem até 30 dias para consertar o produto. Se eles não conseguirem resolver em tempo, você pode pedir troca ou abatimento no preço.
+
+
+Exemplo: comprou um notebook e ele precisou ser consertado. Eles disseram que a peça vem de fora e vai levar 45 dias. Você pode ir à loja e dizer que eles não cumprem o prazo de 30 dias, então você quer troca ou abatimento no preço.
+Nota: 3/5
+Justificativa: A resposta da IA é parcialmente correta, mas apresenta imperfeições e omissões importantes. Em primeiro lugar, a resposta inicia de forma contraditória com um 'Sim!' para a pergunta 'eles podem passar de 30 dias?', embora em seguida diga que o prazo máximo é de 30 dias e que o consumidor pode exigir direitos. Em segundo lugar, a IA omite a exceção vital prevista no Art. 18, § 2º, do Código de Defesa do Consumidor (CDC), que permite a convenção das partes para alterar o prazo de saneamento do vício para até 180 dias, o que pode ocorrer legitimamente mediante acordo prévio. Além disso, ao citar as alternativas do Art. 18, § 1º, do CDC, a resposta menciona apenas a substituição do produto e o abatimento proporcional do preço, omitindo a restituição imediata da quantia paga (inciso II), que é uma das opções mais buscadas pelos consumidores. Portanto, a resposta é parcialmente correta e pode confundir um leigo devido à contradição inicial e à omissão das regras de convenção de prazo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 80 ---
+Pergunta: O que é exatamente a garantia estendida que as lojas empurram no caixa? Vale a pena comprar?
+Resposta IA: A garantia estendida é um seguro pago pelo consumidor. Ela protege o produto após o vencimento da garantia legal ou contratual. O prazo e cobertura variam, mas geralmente oferece reparo ou troca em até 30 dias.
+
+
+Se você não precisa de mais proteção, pode ser melhor economizar dinheiro e não comprar a garantia estendida. Leia atentamente o contrato antes de assinar para saber se ela serve às suas necessidades.
+Nota: 5/5
+Justificativa: A resposta da IA está juridicamente correta e precisa quanto ao direito do consumidor brasileiro. 1) Natureza Jurídica: Identifica corretamente a garantia estendida como uma modalidade de seguro paga (regulamentada pela Resolução CNSP nº 296/2013 da SUSEP), e não como uma simples prorrogação da garantia do fabricante. 2) Vigência: Explica com precisão que ela passa a vigorar após o término da garantia legal (art. 26 do CDC) ou contratual (art. 50 do CDC). 3) Orientação ao Leigo: A recomendação de avaliar a necessidade e ler o contrato antes de contratar é prudente e alinhada às diretrizes de proteção ao consumidor. A resposta é impecável, clara e segura para um leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 81 ---
+Pergunta: Fiz uma compra por uma página do Instagram e a loja me bloqueou, o meu banco pode cancelar a compra no cartão de crédito?
+Resposta IA: Sim! Se você comprou algo pela internet (como no Instagram) e a loja recusou a entrega ou não entregou o produto, seu banco pode cancelar a compra. Isso é previsto na lei do Código de Defesa do Consumidor. Você deve entrar em contato com o seu banco para saber como proceder.
+Nota: 3/5
+Justificativa: 1. Orientação Prática: A resposta fornece um direcionamento prático correto ao orientar o usuário a entrar em contato com o banco para contestar a transação (procedimento de chargeback por fraude ou desacordo comercial), o que é a atitude recomendada em compras fraudulentas em redes sociais.
+2. Precisão Jurídica: A resposta peca ao afirmar categoricamente que o cancelamento da compra pelo banco é algo 'previsto na lei do Código de Defesa do Consumidor'. O CDC prevê o direito do consumidor de rescindir o contrato com o fornecedor (art. 35) e o direito de arrependimento (art. 49), mas a contestação e o estorno junto à administradora do cartão/banco decorrem das regras dos arranjos de pagamento (bandeiras de cartão) e da jurisprudência sobre responsabilidade da cadeia de fornecedores/segurança do meio de pagamento, e não de um dispositivo direto do CDC que obrigue o banco a cancelar compras atipicamente sem apuração.
+3. Risco ao Leigo: O risco é baixo, mas pode gerar a falsa expectativa de que o banco é obrigado por lei a fazer o estorno imediato, quando na verdade o banco abrirá um procedimento interno de contestação. Portanto, a resposta é parcialmente correta e peca na precisão técnica.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 82 ---
+Pergunta: Comprei uma passagem aérea pela internet, tenho direito a cancelar e receber o dinheiro de volta se eu me arrepender em até 7 dias?
+Resposta IA: Sim! Se você comprou uma passagem aérea pela internet e mudou de ideia em até 7 dias, você tem direito a cancelar e pedir o dinheiro de volta. Basta enviar um pedido por correio com aviso de recebimento (AR) ou pessoalmente para a empresa que vendeu a passagem. Lembre-se de guardar uma cópia do seu pedido!
+Nota: 2/5
+Justificativa: A resposta da IA contém erros jurídicos e práticos graves que podem prejudicar diretamente o usuário leigo. Em primeiro lugar, no setor de aviação civil, o direito de arrependimento possui regulamentação específica pela Resolução nº 400/2016 da ANAC (Art. 11), que prevê o prazo de desistência em até 24 horas após o recebimento do comprovante de compra, desde que a compra seja feita com antecedência igual ou superior a 7 dias em relação à data do voo (embora haja discussões sobre a aplicação do Art. 49 do CDC, ignorar a regra específica da ANAC é uma omissão grave). Em segundo lugar, e mais grave, orientar o consumidor a enviar um pedido por correio com AR ou comparecer presencialmente para cancelar uma passagem comprada pela internet é uma orientação completamente defasada e prejudicial; esse procedimento faria o consumidor perder os prazos exíguos de cancelamento (seja de 24 horas da ANAC ou de 7 dias do CDC), resultando na perda do direito ao reembolso integral.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 83 ---
+Pergunta: O produto chegou, mas a cor é bem diferente da foto do site. Se eu usar o direito de arrependimento, quem tem que pagar o frete de devolução?
+Resposta IA: Se você usou o direito de arrependimento e quer devolver o produto, a empresa deve pagar o frete de devolução. Isso está na lei! Você pode reclamar no Procon se a empresa não cumprir com isso. Lembre-se de guardar as notas fiscais e os recibos para provar sua compra.
+Nota: 5/5
+Justificativa: A resposta fornecida pela IA está juridicamente correta e alinhada com a legislação brasileira e a jurisprudência consolidada. De acordo com o Artigo 49 do Código de Defesa do Consumidor (CDC) e o entendimento pacificado do Superior Tribunal de Justiça (STJ, REsp 1.340.699/RJ), o exercício do direito de arrependimento em compras realizadas fora do estabelecimento comercial (como pela internet) implica a devolução integral dos valores pagos, sendo o custo do frete de retorno de responsabilidade exclusiva do fornecedor. A instrução de procurar o Procon e guardar notas fiscais e comprovantes é adequada e auxilia o consumidor leigo de forma segura e prática. Embora fosse benéfico mencionar o prazo de 7 dias para o exercício do arrependimento, a resposta atendeu com precisão e correção técnica à pergunta exata formulada.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 84 ---
+Pergunta: Comprei um curso online, baixei o material e assisti algumas aulas. Ainda posso pedir o cancelamento total nos primeiros 7 dias?
+Resposta IA: Sim! Você tem direito a cancelar o curso nos primeiros 7 dias.
+O Código de Defesa do Consumidor diz que você pode cancelar compras feitas pela internet dentro de 7 dias, contados a partir da data do recebimento do produto ou assinatura do contrato. Para isso, basta protocolar o pedido de cancelamento ou enviar pelo correio com aviso de recebimento (AR).
+Nota: 3/5
+Justificativa: A resposta acerta ao confirmar a aplicação do Direito de Arrependimento (Art. 49 do Código de Defesa do Consumidor), garantindo ao consumidor o prazo de 7 dias para desistir da compra realizada pela internet, mesmo que tenha assistido a algumas aulas ou baixado parte do material (desde que não caracterizado o abuso de direito por consumo integral do produto). No entanto, a IA peca gravemente na orientação prática ao instruir um consumidor de curso online a 'protocolar o pedido ou enviar pelo correio com aviso de recebimento (AR)'. Para produtos digitais, o cancelamento é realizado pelos próprios meios eletrônicos da plataforma ou e-mail. Orientar o envio de carta registrada (AR) para um serviço digital é anacrônico e pode fazer o consumidor leigo perder o prazo de 7 dias por utilizar um meio inadequado e demorado. Por conter erro/imprecisão relevante sobre como exercer o direito que pode prejudicar o usuário, a nota é 3.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 85 ---
+Pergunta: Fiz um pedido de comida por aplicativo, demorou duas horas e chegou totalmente frio. Sou obrigado a aceitar e pagar?
+Resposta IA: Não! Se o produto (comida) chegar frio, você tem direito a reclamar.
+O fornecedor de serviço deve entregar ao consumidor o que foi pedido, na forma como foi solicitado.
+Se isso não acontecer, você pode pedir troca ou devolução do dinheiro.
+Nota: 5/5
+Justificativa: A resposta da IA está juridicamente correta e bem fundamentada nos princípios do Código de Defesa do Consumidor (CDC). A entrega de comida fria após um atraso injustificado de duas horas caracteriza vício de qualidade do produto/serviço (Art. 18 e Art. 20 do CDC), bem como descumprimento da oferta e da adequada prestação do serviço (Art. 30 e 35 do CDC). O consumidor não é obrigado a aceitar o produto nessas condições e tem o direito de exigir o cancelamento com a restituição do valor pago, a reexecução do serviço ou a substituição do produto. As orientações fornecidas são seguras, precisas e não induzem o leigo a erro.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 86 ---
+Pergunta: A operadora de celular pode cortar ou diminuir a velocidade da minha internet móvel se eu atingir meu limite de dados no mês?
+Resposta IA: Não! A lei não permite que a operadora corte ou reduza a velocidade da sua internet móvel apenas porque você atingiu o seu limite de dados. Se isso acontecer, você pode reclamar à operadora e solicitar que ela verifique as ligações e corrija o problema.
+Nota: 1/5
+Justificativa: A resposta da IA está incorreta e induz o usuário ao erro. No Brasil, segundo as regulamentações da ANATEL (como a Resolução nº 632/2014) e o entendimento jurídico consolidado referente à internet móvel, as operadoras de telefonia podem, sim, bloquear o acesso ou reduzir a velocidade da conexão após o consumo integral da franquia de dados contratada, desde que essa condição esteja previstamente informada no contrato de prestação de serviços (atendendo ao direito de informação do Código de Defesa do Consumidor, art. 6º, III). A afirmação categórica da IA de que 'a lei não permite' é uma incorreção jurídica grave que prejudicaria o leigo caso ele tentasse exigir um direito inexistente.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 87 ---
+Pergunta: Quero mudar para um plano mais barato da mesma operadora, mas eles dizem que isso gera multa por quebra de fidelidade, procede?
+Resposta IA: Não! Você tem direito a trocar para um plano mais barato. A lei não permite que as operadoras cobrem multa por mudança de plano.
+
+
+Lembre-se: você pode mudar de plano a qualquer momento, desde que seja da mesma operadora e atenda aos requisitos estabelecidos na lei (como ter completado pelo menos um ano do contrato).
+Nota: 2/5
+Justificativa: A resposta da IA está juridicamente incorreta e pode causar prejuízos financeiros ao usuário. De acordo com a Regulamentação da ANATEL (Resolução nº 632/2014, arts. 57 a 59), as operadoras podem exigir fidelidade de até 12 meses em troca de benefícios na contratação. Caso o consumidor solicite a alteração para um plano mais barato (downgrade) durante o prazo de permanência mínima, a operadora PODE cobrar multa proporcional, pois as condições originais do benefício concedido foram alteradas. A IA erra ao afirmar categoricamente que a lei proíbe cobrança de multa nessa situação. Além disso, o texto é contraditório ao mencionar 'completar pelo menos um ano', momento em que a fidelidade caduca e a multa nem seria mais aplicável.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 88 ---
+Pergunta: Fiquei três dias sem sinal de internet em casa por problema na rede, a empresa tem que descontar automaticamente esse período da minha fatura?
+Resposta IA: Não! A empresa não precisa descontar automaticamente. Você deve entrar em contato com a empresa e solicitar a regularização do problema ou o cancelamento da compra. O Código de Defesa do Consumidor prevê prazo máximo de sete dias para cancelamento de compras efetuadas fora do estabelecimento comercial, como internet.
+Nota: 1/5
+Justificativa: A resposta da IA é juridicamente incorreta e altamente prejudicial ao consumidor. Primeiramente, o consumidor que fica sem serviço de internet por falha na rede tem direito ao abatimento proporcional do valor da assinatura referente aos dias de interrupção, conforme prevê a Regulamentação da ANATEL (Resolução nº 632/2014, art. 46) e o Código de Defesa do Consumidor (Art. 20, III). Em segundo lugar, a IA confundiu completamente a prestação de serviços de internet com compras de produtos feitas 'pela' internet, citando erroneamente o Direito de Arrependimento de 7 dias (Art. 49 do CDC), que não se aplica ao caso de interrupção de sinal por vício na prestação do serviço. Portanto, a resposta induz o leigo ao erro e nega um direito claro do consumidor.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 89 ---
+Pergunta: Estão me cobrando na fatura por um pacote de canais de filmes que eu já pedi para cancelar há três meses, o que eu faço?
+Resposta IA: Você tem direito a cancelamento. Leia as regras do Código de Defesa do Consumidor e da Lei 12281/06 (do estado de São Paulo). Você pode cancelar por escrito ou pelo correio com aviso de recebimento. Guarde o comprovante!
+Nota: 2/5
+Justificativa: A resposta da IA é gravemente inadequada e jurídica e praticante incorreta para o problema apresentado. Em primeiro lugar, o usuário informou que JÁ solicitou o cancelamento há três meses e continua sendo cobrado. A IA ignorou completamente o fato de o cancelamento já ter sido pedido, orientando o usuário a realizar o cancelamento novamente e de forma arcaica/impraticável (envio de carta pelo correio com Aviso de Recebimento para cancelar um pacote de TV por assinatura).
+
+
+Em segundo lugar, a resposta omitiu o direito central aplicável ao caso: a cobrança indevida e o direito à repetição do indébito em dobro dos valores pagos após a solicitação de cancelamento, conforme o art. 42, parágrafo único, do Código de Defesa do Consumidor (CDC). Além disso, a IA citou uma lei estadual de São Paulo (Lei 12.281/06) sem saber a localização do usuário, ignorando a regulamentação nacional aplicável ao setor de telecomunicações/TV por assinatura (Resolução nº 632/2014 da ANATEL) e os canais adequados de reclamação (SAC com protocolo, Anatel, Consumidor.gov.br e Procon).
+
+
+Seguir essa orientação causaria prejuízo ao leigo, que gastaria dinheiro e tempo enviando cartas registradas em vez de exigir a devolução dos valores cobrados indevidamente com base nos protocolos já existentes.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 90 ---
+Pergunta: A empresa de telefonia pode negativar meu nome no Serasa se eu me recusar a pagar apenas a multa de fidelidade abusiva?
+Resposta IA: Não! A empresa não pode negativar seu nome no Serasa por causa da dívida. Se você se recusar a pagar, a empresa deve seguir o Código de Defesa do Consumidor e não pode usar métodos agressivos para cobrar.
+
+
+Se houver uma multa de fidelidade abusiva, é provável que ela seja considerada ilegal e você tem direito a reclamar. A empresa não pode usar essa dívida como forma de pressionar você a pagar outras contas.
+
+
+Lembre-se: se você tiver alguma dúvida ou problema com uma empresa, o Procon pode ajudar!
+Nota: 2/5
+Justificativa: A resposta da IA contém um erro jurídico grave que pode causar prejuízos financeiros e de crédito ao usuário leigo. A afirmação categórica de que 'a empresa não pode negativar seu nome' está incorreta. O mero entendimento unilateral do consumidor de que a multa de fidelidade é abusiva não impede automaticamente a empresa de exercer o seu direito de negativar o devedor em caso de inadimplemento. Para evitar ou cancelar a negativação, é necessário contestar a cobrança administrativamente (Procon/Anatel) ou judicialmente (Juizado Especial Cível), eventualmente obtendo uma liminar/tutela de urgência para suspender a exigibilidade do débito. Caso o usuário siga o conselho da IA e simplesmente se recuse a pagar sem tomar as medidas legais cabíveis, ele será negativado legitimamente pela empresa até que haja decisão em contrário, sofrendo restrição ao crédito.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 91 ---
+Pergunta: A companhia de energia elétrica pode cortar minha luz na sexta-feira à tarde ou no fim de semana por falta de pagamento?
+Resposta IA: Não! A concessionária não pode cortar sua luz sem aviso prévio. Ela deve avisar com pelo menos 15 dias de antecedência, conforme a lei. Se você pagar em dia, o fornecimento não pode ser interrompido no fim de semana ou à tarde da sexta-feira.
+Nota: 2/5
+Justificativa: A resposta da IA apresenta um erro grave de interpretação jurídica que induz o usuário ao erro. A Lei Federal nº 14.015/2020 e a Resolução Normativa ANEEL nº 1.000/2021 proíbem expressamente a interrupção do fornecimento de energia elétrica por inadimplência (falta de pagamento) às sextas-feiras, sábados, domingos, feriados e vésperas de feriados. Embora a IA tenha acertado sobre a necessidade do aviso prévio de 15 dias, ela condicionou a proibição do corte no fim de semana ao pagamento em dia ('Se você pagar em dia, o fornecimento não pode ser interrompido...'). Isso inverte a lógica da lei, pois a proteção contra o corte em finais de semana e sextas-feiras existe justamente para o consumidor inadimplente, a fim de evitar que ele fique sem o serviço essencial sem possibilidade de quitar o débito no sistema bancário. A resposta prejudica o leigo, fazendo-o acreditar que, por estar em atraso, a concessionária poderia cortar sua luz na sexta-feira ou fim de semana.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 92 ---
+Pergunta: Não recebi a fatura de água este mês na minha caixa de correio. Sou obrigado a ir atrás da segunda via ou posso esperar o mês que vem para pagar sem juros?
+Resposta IA: Você não precisa ir buscar a segunda via da fatura de água. Se você não recebeu a fatura, pode entrar em contato com a concessionária de água e pedir para enviar novamente. Se você receber a fatura no mês seguinte, pague-a sem juros.
+Nota: 2/5
+Justificativa: A resposta fornecida pela IA é juridicamente incorreta e altamente prejudicial ao consumidor. No direito brasileiro, o não recebimento da fatura impressa pelos correios não isenta o consumidor da obrigação de pagar pelo serviço prestado na data de vencimento, nem afasta a incidência de juros e multa por atraso (mora). O consumidor tem o dever de diligência de buscar a segunda via através dos canais de atendimento da concessionária (site, aplicativo, telefone ou presencialmente) para efetuar o pagamento no prazo. Caso o usuário siga o conselho da IA de 'esperar o mês seguinte para pagar sem juros', ele sofrerá encargos de mora (multa e juros) e correrá o risco real de ter o fornecimento de água suspenso (corte) por inadimplência, nos termos das regulamentações dos serviços públicos e do Código de Defesa do Consumidor.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 93 ---
+Pergunta: Tive um vazamento invisível no cano debaixo da terra e a conta de água veio em 2 mil reais. A concessionária pode dar um desconto?
+Resposta IA: Sim! Se você não causou o vazamento, mas a concessionária cobrou a conta, ela deve dar um desconto.
+Você tem direito a reclamar e pedir que a conta seja revisada. Mostre os documentos da compra do imóvel e as notas de água para provar que você não é responsável pelo vazamento.
+
+
+Se a concessionária não concordar em dar o desconto, você pode ir ao Procon ou à Receita Federal para denunciar.
+Nota: 2/5
+Justificativa: A resposta acerta ao informar que existe a possibilidade de revisão da conta e desconto em caso de vazamento oculto, o que é respaldado pelo Código de Defesa do Consumidor e regulamentações das agências reguladoras (especialmente quanto ao recalculo da tarifa de esgoto, já que a água do vazamento subterrâneo não retornou à rede). No entanto, a IA cometeu erros graves de orientação jurídica: 1) Afirmou que o usuário deve apresentar 'documentos de compra do imóvel', o que é irrelevante; o procedimento correto exige a comprovação do conserto do vazamento (laudo do encanador, notas fiscais do serviço/material); 2) Orientou o consumidor a procurar a 'Receita Federal' em caso de recusa, sendo que o órgão federal não tem qualquer competência sobre concessão de serviços públicos municipais/estaduais ou direito do consumidor. Essas orientações incorretas prejudicam gravemente o usuário leigo, fazendo-o perder tempo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 94 ---
+Pergunta: Moro de aluguel e o antigo inquilino fugiu deixando dívida de luz. A companhia pode se recusar a ligar a energia para o meu nome?
+Resposta IA: Não! Se o antigo inquilino deixou dívidas, você não é responsável por elas.
+A empresa deve verificar se há débitos pendentes antes de ligar a energia no seu nome.
+Se houver dívidas, você pode pedir que a empresa faça uma vistoria para ver se há irregularidades na ligação ou no medidor.
+Nota: 3/5
+Justificativa: A premissa inicial da IA está juridicamente correta: a obrigação referente ao débito de energia elétrica é de natureza pessoal (propter personam) e não do imóvel (propter rem), conforme pacificado pela jurisprudência do STJ e pela Resolução Normativa ANEEL nº 1.000/2021. Portanto, a concessionária não pode se recusar a ligar a energia ou transferir a titularidade para o novo inquilino por causa de dívida do morador anterior. Contudo, a orientação prática dada pela IA no final é confusa e inadequada. Sugerir que o usuário solicite 'vistoria no medidor para ver se há irregularidades' é irrelevante para a resolução de débitos de terceiros e pode desorientar o leigo. A orientação correta e essencial seria apresentar o contrato de locação à concessionária para comprovar a posse recente e solicitar a alteração da titularidade. Por conter o acerto principal, mas errar substancialmente no direcionamento prático, a resposta é parcialmente correta.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 95 ---
+Pergunta: Com quantos dias exatos de atraso no pagamento a empresa de energia ou água pode cortar o fornecimento da minha casa?
+Resposta IA: Não há um prazo específico de dias para o corte do fornecimento. A lei diz que a concessionária tem direito de interromper o serviço em caso de inadimplência, mas não especifica quantos dias é necessário para isso. É importante verificar as condições da sua conta e entrar em contato com a empresa se você tiver alguma dúvida ou problema.
+Nota: 2/5
+Justificativa: A resposta fornecida pela IA é juridicamente incorreta e omite garantias fundamentais do consumidor. Embora a mora (atraso) ocorra a partir do dia seguinte ao vencimento da fatura, a legislação brasileira estabelece prazos mínimos e obrigatórios de notificação prévia antes de qualquer interrupção de serviço essencial. Para energia elétrica, a Resolução Normativa ANEEL nº 1.000/2021 (art. 355) exige que a concessionária envie uma notificação prévia por escrito com antecedência mínima de 15 dias corridos antes de efetuar o corte. Para serviços de água e esgoto, a Lei Federal nº 11.445/2007 (art. 40, § 1º) também exige aviso prévio formal (geralmente regulamentado em 15 a 30 dias pelas agências reguladoras locais). Afirmar categoricamente que 'não há prazo específico de dias' induz o consumidor leigo ao erro grave de acreditar que o serviço pode ser suspenso de surpresa ou sumariamente a qualquer momento.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 96 ---
+Pergunta: O plano de saúde pode se recusar a cobrir uma cirurgia de emergência alegando que eu ainda estou cumprindo o período de carência de 180 dias?
+Resposta IA: Não! Se você precisa de uma cirurgia de emergência, ela deve ser feita imediatamente.
+A lei diz que os casos de urgência e emergência têm cobertura sem restrições após 24 horas da contratação do plano de saúde.
+Se você está cumprindo o período de carência de 180 dias, mas precisa de uma cirurgia de emergência, a operadora deve cobrir o procedimento.
+Nota: 5/5
+Justificativa: A resposta da IA está juridicamente correta e perfeitamente alinhada com a legislação e a jurisprudência brasileiras. O artigo 35-C, inciso I, da Lei nº 9.656/1998 (Lei dos Planos de Saúde) estabelece expressamente a obrigatoriedade da cobertura de atendimento nos casos de emergência (que impliquem risco imediato de vida ou de lesões irreparáveis para o paciente) após o prazo máximo de 24 horas da contratação do plano. Além disso, o Superior Tribunal de Justiça (STJ) pacificou esse entendimento através da Súmula 597, que declara abusiva a cláusula contratual de plano de saúde que estabelece carência para atendimento de emergência ou urgência ultrapassado o prazo de 24 horas. A resposta orienta o leigo de forma precisa, clara e segura, sem qualquer risco de induzi-lo ao erro ou causar prejuízos.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 97 ---
+Pergunta: A mensalidade da escola do meu filho aumentou 20 Por cento de um ano para o outro. Existe algum teto estipulado pelo governo para esse reajuste anual?
+Resposta IA: Sim, existe! O governo estabeleceu que as instituições de ensino não podem aumentar a mensalidade mais do que 10% ao ano. Se a escola aumentou em 20%, isso é ilegal e você pode reclamar.
+
+
+O governo quer garantir que os pais tenham acesso à educação sem ter que pagar muito caro. Além disso, o aumento de 20% é muito alto e pode ser considerado abusivo.
+
+
+Se você acha que a escola está fazendo algo errado, você pode reclamar no Procon ou na Secretaria de Educação do seu estado.
+Nota: 1/5
+Justificativa: A resposta da IA é juridicamente incorreta e inventa uma regra inexistente no direito brasileiro. Não existe um teto fixo de reajuste estipulado pelo governo (como o limite de 10% mencionado). O reajuste de mensalidades escolares no Brasil é regido pela Lei nº 9.870/1999, a qual estabelece que o valor do aumento deve ser comprovado mediante uma planilha de variação de custos (gastos com pessoal, custeio, investimentos pedagógicos etc.), e não limitado a uma porcentagem pré-determinada. Orientar o consumidor leigo dizendo que qualquer aumento acima de 10% é ilegal induz o usuário ao erro grave e a reclamações improcedentes.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 98 ---
+Pergunta: Cancelei meu contrato anual da academia no terceiro mês. É correto eles cobrarem uma multa rescisória de 30 por cento ou 50 por cento sobre o valor que falta?
+Resposta IA: Não! Se você cancelou o contrato antes do fim, a multa não pode ser maior do que 2% do valor da prestação. Leia os contratos e verifique se isso está escrito. Se não estiver, é provável que seja abusivo.
+Nota: 2/5
+Justificativa: A resposta da IA contém um erro grave de interpretação jurídica. A IA confundiu a 'multa moratória' (cobrada por atraso no pagamento de uma prestação, cujo limite é de 2% nos termos do Art. 52, § 1º, do CDC) com a 'multa rescisória' ou compensatória (devida pelo cancelamento antecipado do contrato). Para o cancelamento do contrato de academia, a jurisprudência brasileira (com base no Art. 51, IV, do CDC e no Art. 9º do Decreto 22.626/33) entende que a multa de rescisão não pode exceder 10% do valor do saldo remanescente do contrato. Embora a IA acerte ao indicar que 30% ou 50% é abusivo, ela erra gravemente ao fundamentar o teto em 2%, induzindo o consumidor a erro e prejudicando sua fundamentação ao negociar ou pleitear seus direitos.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 99 ---
+Pergunta: O plano de saúde pode cancelar meu contrato por iniciativa deles só porque eu atrasei a mensalidade em 10 dias neste mês?
+Resposta IA: Não! O plano de saúde não pode cancelar seu contrato apenas porque você atrasou uma única mensalidade. Eles podem suspender ou rescindir o contrato se você faltar com as pagamentos por mais de 60 dias. Mas, até lá, eles devem continuar a cobrir suas despesas médicas.
+Nota: 4/5
+Justificativa: A resposta da IA está juridicamente correta quanto à dúvida central do usuário. De acordo com o artigo 13, parágrafo único, inciso II, da Lei nº 9.656/1998 (Lei dos Planos de Saúde), a rescisão unilateral ou suspensão do contrato por inadimplência só pode ocorrer caso o atraso seja superior a 60 dias (consecutivos ou não, no período de doze meses). Portanto, um atraso de apenas 10 dias não autoriza o cancelamento do plano. A única omissão técnica relevante (porém irrelevante para o caso concreto de 10 dias de atraso) é a necessidade de notificação prévia e formal do consumidor até o 50º dia de inadimplência, além de não diferenciar planos individuais de coletivos. No entanto, a informação prestada é totalmente segura e correta para a dúvida do leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 100 ---
+Pergunta: A faculdade pode impedir o aluno de fazer as provas finais ou reter o diploma histórico se ele estiver com duas mensalidades atrasadas?
+Resposta IA: Não! A lei não permite que a faculdade retive o diploma ou impida o aluno de fazer as provas por causa de dívidas. Se você está com duas mensalidades atrasadas, converse com a faculdade para resolver o problema. Eles podem ajudar a encontrar uma solução.
+Nota: 5/5
+Justificativa: A resposta fornecida pela IA está juridicamente correta e atende perfeitamente ao caso concreto. Com base no Art. 6º da Lei nº 9.870/1999 (que dispõe sobre o valor das anuidade/mensalidades escolares), é expressamente vedada a suspensão de provas escolares, a retenção de documentos acadêmicos (como histórico e diploma) ou a aplicação de qualquer outra penalidade pedagógica por motivo de inadimplemento. A orientação da IA é verdadeira, protegem o direito do consumidor/aluno e não causam nenhum prejuízo ao leigo, indicando ainda a negociação amigável.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 101 ---
+Pergunta: Vi um anúncio de TV no folheto do mercado, mas quando cheguei lá disseram que o estoque promocional tinha acabado. Eles são obrigados a arrumar outra TV pelo mesmo preço?
+Resposta IA: Sim! Se você viu o anúncio e foi até a loja, eles devem ter uma TV do mesmo modelo e preço disponível.
+O Código de Defesa do Consumidor diz que os comerciantes não podem fazer anúncios enganosos. Eles devem ter as TVs em estoque para atender às demandas dos clientes.
+
+
+Se você foi até a loja e eles disseram que o estoque acabou, peça para saber quando mais vão receber novas TVs do mesmo modelo e preço. Se não tiverem, você pode reclamar no Procon ou na Receita Federal.
+Nota: 2/5
+Justificativa: A resposta da IA contém um erro grave de orientação prática e jurídica ao sugerir que o consumidor faça uma reclamação na 'Receita Federal' sobre a falta de estoque de um produto anunciado. A Receita Federal é um órgão de administração tributária e aduaneira, não possuindo qualquer competência para tratar de relações de consumo ou descumprimento de oferta. Além disso, embora a resposta acerte ao mencionar que a oferta vincula o fornecedor (art. 30 do CDC), ela falha em apresentar adequadamente as opções previstas no art. 35 do CDC (cumprimento forçado da obrigação, aceitação de produto equivalente ou rescisão com restituição de quantia), simplificando demais o tema e induzindo o leigo a erro ao direcioná-lo ao órgão público totalmente incorreto.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 102 ---
+Pergunta: É permitido que um bar, balada ou restaurante cobre 'consumação mínima' obrigatória para o cliente poder entrar no estabelecimento?
+Resposta IA: Não! É ilegal cobrar "consumação mínima" para entrar em um bar, balada ou restaurante. Isso é considerado uma restrição ao direito de acesso e pode ser considerado abusivo.
+
+
+O Código de Defesa do Consumidor diz que os estabelecimentos devem permitir o acesso a todos os clientes, sem cobrar "consumação mínima". Se um estabelecimento fizer isso, você pode reclamar no Procon ou na Receita Federal.
+Nota: 3/5
+Justificativa: A resposta da IA acerta a premissa principal: a cobrança de 'consumação mínima' é, de fato, abusiva e ilegal no direito brasileiro, sendo enquadrada como prática abusiva por 'venda casada' (artigo 39, inciso I, do Código de Defesa do Consumidor - CDC). Contudo, a IA cometeu um erro crasso de orientação ao afirmar que o consumidor pode reclamar da prática na 'Receita Federal', órgão fiscalizador tributário federal que não possui qualquer competência para tratar de infrações às normas do direito do consumidor. Além disso, pecou em precisão técnica ao não mencionar o conceito chave de 'venda casada'. Diante disso, a resposta é parcialmente correta, mas falha na precisão técnica e orienta o consumidor de forma equivocada quanto aos órgãos de denúncia.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 103 ---
+Pergunta: Fui barrado na porta do cinema porque estava com um lanche que comprei na praça de alimentação. Eles podem me obrigar a comprar só na lanchonete deles?
+Resposta IA: Não! Você tem direito a levar o lanche comprado em outro lugar para dentro do cinema.
+O Código de Defesa do Consumidor diz que você pode escolher onde quer comprar e levar seu produto. O cinema não pode te obrigar a comprar só na lanchonete deles.
+Nota: 4/5
+Justificativa: A resposta da IA está juridicamente correta e alinhada com o entendimento consolidado do Superior Tribunal de Justiça (STJ - REsp 1.331.821/RJ) e com o Artigo 39, inciso I, do Código de Defesa do Consumidor (CDC). A conduta de proibir a entrada de consumidores no cinema com alimentos comprados fora é considerada prática abusiva de 'venda casada', pois condiciona o consumo do serviço de exibição de filme à compra de alimentos na própria lanchonete do estabelecimento. A explicação dada é clara, acessível e não induz o leigo ao erro. A única ressalva técnica é que a resposta omitiu pequenas exceções legítimas, como a possibilidade de o cinema proibir itens que ofereçam risco à segurança ou higiene (ex: garrafas de vidro ou bebidas alcoólicas), desde que tal restrição se aplique também aos produtos vendidos pela sua própria lanchonete. Por essa pequena omissão não essencial, a resposta ganha nota 4.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 104 ---
+Pergunta: A loja de roupas colocou um cartaz gigante dizendo 'Não trocamos peças em promoção e liquidação'. Esse aviso tem validade perante o Código do Consumidor?
+Resposta IA: Sim! O Código de Defesa do Consumidor é claro: a loja não pode se recusar a trocar produtos defeituosos, mesmo em promoção ou liquidação. Se você comprou algo que quebrou, você tem direito a reclamar e pedir troca.
+
+
+Lembre-se: o Código de Defesa do Consumidor protege os consumidores!
+Nota: 2/5
+Justificativa: A resposta da IA é contraditória e juridicamente confusa para um usuário leigo. O usuário perguntou se o cartaz 'Não trocamos peças em promoção' tem validade. A IA inicia a resposta afirmando 'Sim!', o que induz o leigo a entender que o aviso da loja é totalmente válido. Em seguida, a IA se contradiz ao afirmar que a loja 'não pode se recusar a trocar produtos defeituosos'. Do ponto de vista do Código de Defesa do Consumidor (CDC):
+1. Para produtos COM DEFEITO (vício), o aviso é NULO e INVÁLIDO (arts. 24 e 51, I do CDC), pois a garantia legal é obrigatória mesmo em liquidações.
+2. Para produtos SEM DEFEITO (troca por tamanho, cor ou gosto em compras presenciais), a loja de fato não é obrigada a trocar, tornando a política válida para esses casos específicos.
+A IA falhou gravemente ao não diferenciar trocas por conveniência de trocas por defeito e ao responder 'Sim!' logo de início, o que gera grande confusão e pode levar o consumidor a desistir de seus direitos.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 105 ---
+Pergunta: O garçom incluiu a taxa de 10 por cento de serviço no final da minha conta no restaurante. Eu sou obrigado por lei a pagar essa gorjeta?
+Resposta IA: Não! A gorjeta é uma escolha sua, não uma obrigatoriedade.
+O garçom pode incluir o valor da gorjeta na conta, mas você não precisa pagá-la se não quiser.
+Se você não quiser pagar a gorjeta, basta falar com o garçom ou o gerente do restaurante e explicar que não deseja pagar.
+Nota: 5/5
+Justificativa: A resposta da IA está impecável e 100% correta de acordo com o direito brasileiro. No Brasil, o pagamento da taxa de serviço (gorjeta de 10% ou outro percentual) é estritamente facultativo para o consumidor, conforme o Código de Defesa do Consumidor (CDC) e o entendimento pacificado dos tribunais, embora a Lei das Gorjetas (Lei nº 13.419/2017) discipline o rateio da verba entre os empregados. O restaurante pode sugerir o valor na nota, mas não pode exigir o pagamento. As orientações práticas fornecidas pela IA para solicitar a remoção do valor são perfeitamente adequadas e não trazem qualquer prejuízo ao leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 106 ---
+Pergunta: Afinal, quem a lei brasileira considera como 'fornecedor' de produtos ou serviços para o Código de Defesa do Consumidor funcionar?
+Resposta IA: Segundo o Código de Defesa do Consumidor (CDC), "fornecedor" é qualquer pessoa física ou jurídica, pública ou privada, que desenvolve, direta ou indiretamente, atividade de produção, montagem, criação, construção, fornece produtos ou serviços. Isso inclui fabricantes, importadores, vendedores e até mesmo os profissionais liberais como médicos, advogados e dentistas.
+
+
+Exemplo: se você comprou um produto em uma loja, o fornecedor é a empresa que fez o produto (fabricante) ou a loja onde você o comprou.
+Nota: 5/5
+Justificativa: A resposta da IA está juridicamente correta e bem fundamentada no Artigo 3º do Código de Defesa do Consumidor (Lei nº 8.078/1990). Ela conceitua de forma clara e precisa a figura do fornecedor (pessoas físicas, jurídicas, públicas e privadas) e exemplifica adequadamente a inclusão de entes da cadeia de consumo (fabricantes, importadores, comerciantes) bem como prestadores de serviços, incluindo profissionais liberais (conforme prevê o Art. 14, § 4º do CDC). Embora tenha omitido menções a 'entes despersonalizados' e empresas 'estrangeiras', isso não compromete a exatidão nem prejudica o leigo, sendo uma simplificação pedagógica perfeita para o contexto.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 107 ---
+Pergunta: Se eu tenho um pequeno negócio e compro um computador para usar na administração da minha loja, eu sou considerado consumidor final e protegido pelo CDC?
+Resposta IA: Sim! Você é considerado consumidor final e protegido pelo Código de Defesa do Consumidor (CDC). Isso significa que você tem direito a proteção contra práticas abusivas dos fornecedores. Como pequeno negócio, você pode comprar um computador para uso na administração da sua loja e ter direito a reclamar se houver problemas com o produto ou serviço.
+
+
+O CDC define consumidor como "a pessoa física ou coletiva que adquire ou utiliza produtos ou serviços como destinatário final". Como você está comprando o computador para usar na sua loja, é considerado um consumidor final.
+Nota: 3/5
+Justificativa: A resposta da IA é parcialmente correta, mas peca substancialmente na precisão técnica e omite requisitos vitais estabelecidos pela jurisprudência brasileira. Nos termos do art. 2º do CDC, consumidor é quem adquire produto como destinatário final. Contudo, o Superior Tribunal de Justiça (STJ) adota a Teoria Finalista Mitigada (ou Aprofundada). Quando um pequeno negócio/pessoa jurídica adquire um bem (como um computador) para uso na sua administração, este bem é considerado um insumo para fomento da atividade empresarial, e não destinatário final econômico direto. Para que o CDC se aplique a esse caso concreto, é necessário demonstrar a vulnerabilidade (técnica, jurídica, econômica ou informacional) da pessoa jurídica perante o fornecedor. Ao afirmar categoricamente 'Sim' sem fazer qualquer ressalva sobre a necessidade de comprovação de vulnerabilidade ou sobre a aplicação da Teoria Finalista Mitigada do STJ, a IA simplifica excessivamente a questão jurídica, o que pode induzir o usuário leigo ao erro em eventual disputa judicial.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 108 ---
+Pergunta: O Código de Defesa do Consumidor serve para processar hospitais do SUS ou serviços públicos totalmente gratuitos prestados pelo Estado?
+Resposta IA: Não! O Código de Defesa do Consumidor é para proteger os direitos dos consumidores em relação a produtos e serviços pagos. Se o serviço é gratuito, como no caso de hospitais do SUS ou serviços públicos, não se aplica o código.
+Nota: 5/5
+Justificativa: A resposta da IA está juridicamente correta e em consonância com a jurisprudência pacificada do Superior Tribunal de Justiça (STJ). Nos termos do art. 3º, § 2º, do Código de Defesa do Consumidor (CDC), conceitua-se serviço a atividade fornecida no mercado de consumo mediante remuneração. Os serviços públicos 'uti universi' — prestados uti universi, custeados por impostos gerais e sem cobrança de taxa ou tarifa específica, como é o caso da saúde pública via SUS —, não caracterizam relação de consumo. Eventual responsabilidade por erro médico ou falha no atendimento do SUS é regida pelo Direito Administrativo (art. 37, § 6º, da Constituição Federal), e não pelo CDC. A explicação foi dada de forma clara, didática e correta para um leigo.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 109 ---
+Pergunta: O que significa e como funciona na prática a 'inversão do ônus da prova' quando eu processo uma empresa?
+Resposta IA: Quando você processa uma empresa, a "inversão do ônus da prova" é um conceito importante. Em resumo, isso significa que a empresa agora tem a obrigação de provar que não fez nada errado.
+
+
+Antes, era sua responsabilidade comprovar que ela fez algo errado. Agora, é o contrário: você provou que houve um problema e agora é a vez da empresa provar que não foi culpa dela.
+
+
+Isso pode parecer confuso, mas é simples assim. Imagine que você comprou um produto e ele quebrou. Antes, era sua responsabilidade mostrar que o produto quebrou porque era defeituoso. Agora, é a responsabilidade da empresa provar que o produto não era defeituoso.
+
+
+Essa mudança de ônus da prova pode ajudar a garantir que as empresas sejam mais transparentes e responsáveis por seus produtos ou serviços.
+Nota: 4/5
+Justificativa: A resposta explica de forma clara, didática e compreensível para um leigo o conceito central da inversão do ônus da prova no Direito do Consumidor (Art. 6º, VIII do CDC). A analogia utilizada ilustra bem a dinâmica de transferência do encargo probatório. No entanto, há pequenas imprecisões técnicas: a IA trata a inversão como se fosse um efeito automático, omitindo que, em regra (ope judicis), depende de preenchimento de requisitos (verossimilhança da alegação ou hipossuficiência) e de deferimento pelo juiz, ou que decorre de hipóteses específicas de responsabilidade pelo fato do produto/serviço (ope legis). Além disso, o consumidor ainda precisa apresentar uma prova mínima do alegado (verossimilhança). Como essas simplificações não prejudicam o entendimento geral do leigo nem causam danos práticos, a resposta é quase perfeita.
+
+
+==================================================
+
+
+--- AVALIAÇÃO 110 ---
+Pergunta: Qual é a diferença entre ir no PROCON, no portal Consumidor.gov e no Juizado Especial Cível (Pequenas Causas)?
+Resposta IA: Vamos explicar de forma simples!
+
+
+Ir ao Procon é como reclamar para uma espécie de "guardião" dos consumidores. Eles ajudam a resolver problemas entre você e as empresas.
+
+
+O portal Consumidor.gov é um site que ajuda a resolver problemas relacionados à compra de produtos e serviços. É como um guia para os direitos do consumidor.
+
+
+Já o Juizado Especial Cível (Pequenas Causas) é um lugar onde você pode levar seus problemas para serem resolvidos por um juiz. É mais sério que ir ao Procon ou usar o portal Consumidor.gov.
+
+
+Em resumo: Procon é como uma "reclamação" inicial, Consumidor.gov é um guia e o Juizado Especial Cível é um lugar onde você pode levar seus problemas para serem julgados.
+Nota: 2/5
+Justificativa: A resposta da IA apresenta erros conceituais graves que induzem o usuário leigo ao erro. A principal falha está na definição do portal Consumidor.gov.br, qualificado incorretamente como um 'guia para os direitos do consumidor'. Na realidade, o Consumidor.gov.br é um serviço público oficial de solução alternativa de conflitos de consumo (plataforma de mediação direta), mantido pela SENACON, e não um material educativo ou manual explicativo. Além disso, a explicação sobre o PROCON é extremamente rasa e simplista, omitindo seu caráter de órgão administrativo de fiscalização e sanção, e a distinção do Juizado Especial Cível (Poder Judiciário, com poder de proferir decisões judiciais vinculantes e coercitivas) é reduzida a dizer que é 'mais sério'. A desinformação sobre o Consumidor.gov pode prejudicar o consumidor, fazendo com que ele deixe de utilizar uma ferramenta pública eficaz de resolução de litígios por acreditar tratar-se apenas de um site informativo.
+
+
+==================================================
