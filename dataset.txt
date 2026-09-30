@@ -1,4 +1,4 @@
-   # Bloco 0: Dúvidas Diretas 
+# Bloco 0: Dúvidas Diretas 
     "Estabelecimentos podem cobrar valores diferentes para cartão de crédito e dinheiro?",
     "Após receber um produto novo através da garantia, como fica a garantia desse novo produto?",
     "Estabelecimentos devem ser responsáveis pelos veículos estacionados em seus estacionamentos?",
